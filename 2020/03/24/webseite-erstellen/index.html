@@ -13,7 +13,7 @@
 <meta property="og:title" content="Webseite erstellen - Farbenweg">
 
 
-  <link href='/favicon.ico' rel='icon' type='image/x-icon'/>
+  <link href='https://farbenweg.ch/favicon.ico' rel='icon' type='image/x-icon'/>
 
 
 
@@ -24,8 +24,8 @@
 
 
 
-<link rel="icon" href="/images/favicon.ico" type="image/x-icon"/>
-<link rel="stylesheet" href="/css/main.css" media="all">
+<link rel="icon" href="https://farbenweg.chimages/favicon.ico" type="image/x-icon"/>
+<link rel="stylesheet" href="https://farbenweg.chcss/main.css" media="all">
 <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Merriweather:400|Lato:400,400italic,700">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 <link href='https://fonts.googleapis.com/css?family=Merienda' rel='stylesheet'>
@@ -69,8 +69,8 @@
     <div class="wrapper">
       <header class="header">
         <nav class="nav">
-  <a href="/" class="nav-logo">
-    <img src="/images/logo.png" 
+  <a href="https://farbenweg.ch" class="nav-logo">
+    <img src="https://farbenweg.chimages/logo.png" 
          width="50" 
          height="50" 
          alt="Logo">
@@ -104,7 +104,7 @@
     <div class="article-content">
       
 
-<p>Das ist mein erster Post dieses Jahr. Heute ist ein sonniger Märztag mit einer kalten Bise. Ich lerne es, <strong>Websites</strong> mit Hugo zu erstellen.</p>
+<p>Das ist mein erster Post dieses Jahr. Heute ist ein sonniger Märztag mit einer kalten Bise. Ich lerne es, Webseiten mit Hugo zu erstellen.</p>
 
 <p>Dazu benutze ich die drei Komponenten <strong>Hugo</strong>, <strong>Windows PowerShell ISE</strong> und <strong>Visual Studio Code</strong>.</p>
 
@@ -330,6 +330,31 @@ git push
 
 <p>Jetzt ist das Repository leer und ich kann die aktuelle Seite hochladen.</p>
 
+<h2 id="auf-andere-domain-laden">Auf andere Domain laden</h2>
+
+<p>Ich kopiere die bisherige Seite in meinen public-Ordner.</p>
+
+<pre><code>git clone https://github.com/farbenweg/farbenweg.ch public
+</code></pre>
+
+<p>Eventuell lösche ich die alte Seite zuerst:</p>
+
+<pre><code>git rm -r .
+git commit -m &quot;leer&quot;
+git push
+</code></pre>
+
+<p>Dann kompiliere ich die Seite und ziehe sie auf die Domain:</p>
+
+<pre><code>hugo
+cd public
+git add --all
+git commit -m &quot;inital commit&quot;
+git push origin master
+</code></pre>
+
+<p>Jetzt sind alle Dateien auf der Domain.</p>
+
     </div>
   </article>
 
@@ -344,7 +369,7 @@ git push
             <a>© 2020 Monika Gloor</a>
           </li> 
           <li>
-            <a href="https://gohugo.io/" class="footer-links-kudos">Made with <img src="/images/hugo-logo.png" width="22" height="22"></a>
+            <a href="https://gohugo.io/" class="footer-links-kudos">Made with <img src="https://farbenweg.chimages/hugo-logo.png" width="22" height="22"></a>
           </li>
         </ul>
       </footer>
