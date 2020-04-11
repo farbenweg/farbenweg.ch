@@ -231,12 +231,12 @@ img {
   color: #888;
   text-decoration: none;
   transition: color 150ms ease;
-  margin: 0 15px;
+  margin: 0 0px;
 }
 
 .footer-links a:hover,
 .footer-links a:focus {
-  color: #222;
+  color: #888;
 }
 
 .footer-links li::before {
