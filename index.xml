@@ -6,71 +6,47 @@
     <description>Recent content on Farbenweg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Sat, 11 Apr 2020 16:29:42 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2020 08:22:30 +0200</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Herzlich willkommen</title>
-      <link>/2020/04/11/herzlich-willkommen/</link>
-      <pubDate>Sat, 11 Apr 2020 16:29:42 +0200</pubDate>
+      <title>Wie verlasse ich die gedankliche Autobahn?</title>
+      <link>/2020/04/18/wie-verlasse-ich-die-gedankliche-autobahn/</link>
+      <pubDate>Sat, 18 Apr 2020 08:22:30 +0200</pubDate>
       
-      <guid>/2020/04/11/herzlich-willkommen/</guid>
-      <description>Herzlich willkommen auf dem Farbenweg. Es freut mich, dass du rein schaust.</description>
+      <guid>/2020/04/18/wie-verlasse-ich-die-gedankliche-autobahn/</guid>
+      <description>Gestern spazierte ich mit einer Nachbarin auf einem Waldpfad. Sie fragte mich: &amp;ldquo;Passiert es dir in deiner Ausbildung auch, dass du dir eine Aufgabe nicht zutraust? Und wie gehst du dann vor?&amp;rdquo; - &amp;ldquo;Ja, das kenne ich&amp;rdquo;, antwortete ich. &amp;ldquo;Und ich mache es trotzdem. Einfach tun. Dann ergibt sich ein Weg.&amp;rdquo;
+In der Ausbildung kommt die Aufgabe von außen. Wie schaffe ich es auch privat, mich neuen Herausforderungen zu stellen?</description>
     </item>
     
     <item>
-      <title>Gedicht</title>
-      <link>/2020/04/08/gedicht/</link>
+      <title>Wenn das Leben kaum fließt</title>
+      <link>/2020/04/08/wenn-das-leben-kaum-flie%C3%9Ft/</link>
       <pubDate>Wed, 08 Apr 2020 22:36:13 +0200</pubDate>
       
-      <guid>/2020/04/08/gedicht/</guid>
-      <description>Fließen  Wenn das Leben kaum fließt.
-Wenn der Regen kaum gießt,
-auf die großen Straßen.
-Denn leider vergaßen
-wir unsere Füße.
-Die blassen Grüße
-wurden schließlich weiß.
-Es ist viel zu heiß.
-Der Pfad zu dem Dunkeln,
-die Warnlichter funkeln.
-Zum Weiter entschlossen,
-auch Schatten genossen.
-Ganz ohne zu hasten
-die Wurzeln ertasten.
-Bis Farben nun sprießen
-und wir wieder fließen.</description>
+      <guid>/2020/04/08/wenn-das-leben-kaum-flie%C3%9Ft/</guid>
+      <description>Dieser April startete sommerlich heiß. In einer warmen Nacht lag ich schlaflos und studierte an meiner Webseite herum. Wie ist das mit dem scharfen S oder Eszett? Das kenne ich als Schweizerin nicht. Die Wortvorschläge auf meinem Smartphone zeigten mir wie es funktioniert. Beim Ausprobieren entstand eine Liste von Wörtern mit Doppel S und scharfem S. Aus Spaß begann ich zu dichten. Der Anfang war bald da. Doch der zweite Teil beschäftigte mich ein paar Tage.</description>
     </item>
     
     <item>
-      <title>Logo und Favicon</title>
-      <link>/2020/03/31/logo-und-favicon/</link>
-      <pubDate>Tue, 31 Mar 2020 20:52:29 +0200</pubDate>
-      
-      <guid>/2020/03/31/logo-und-favicon/</guid>
-      <description>Logo Dies ist ein neuer Logo-Entwurf. Ich habe eine Schrift gefunden, die mir gefällt. Sie heisst Merienda. Passend dazu habe ich den gehenden Menschen verändert. Schliesslich habe ich den Weg angepasst:
- Der grüne Teil ist jetzt dort, wo der Mensch geht. So sieht man seine Beine besser. Der violette Teil befindet sich nun rechts. Der Weg beginnt über dem Schriftzug. Der Weg leicht gewellt oder gerollt.  Das neue Logo mit transparentem Hintergrund und mit Schriftzug sieht so aus:</description>
-    </item>
-    
-    <item>
-      <title>Atelier</title>
-      <link>/2020/03/26/atelier/</link>
+      <title>Das Atelier entsteht</title>
+      <link>/2020/03/26/das-atelier-entsteht/</link>
       <pubDate>Thu, 26 Mar 2020 15:46:37 +0100</pubDate>
       
-      <guid>/2020/03/26/atelier/</guid>
+      <guid>/2020/03/26/das-atelier-entsteht/</guid>
       <description>Das Atelier ist im Entstehen.</description>
     </item>
     
     <item>
-      <title>Webseite erstellen</title>
-      <link>/2020/03/24/webseite-erstellen/</link>
+      <title>Webseite mit Hugo erstellen</title>
+      <link>/2020/03/24/webseite-mit-hugo-erstellen/</link>
       <pubDate>Tue, 24 Mar 2020 09:51:12 +0100</pubDate>
       
-      <guid>/2020/03/24/webseite-erstellen/</guid>
-      <description>Das ist mein erster Post dieses Jahr. Heute ist ein sonniger Märztag mit einer kalten Bise. Ich lerne es, Webseiten mit Hugo zu erstellen.
-Dazu benutze ich die drei Komponenten Hugo, Windows PowerShell ISE und Visual Studio Code.
+      <guid>/2020/03/24/webseite-mit-hugo-erstellen/</guid>
+      <description>Das ist mein erster Post. Heute ist ein sonniger Märztag mit einer kalten Bise. Ich lerne es, Webseiten mit Hugo zu erstellen.
+Dazu benutze ich die drei Komponenten Hugo, Windows PowerShell ISE, Visual Studio Code und Github.
 Eine Seite erstellen In Windows PowerShell gehe ich ins Verzeichnis \farbenweg&amp;gt;. Dort erstelle ich den Ordner blog-lithium und eine neue Hugo Seite:
 md blog-lithium hugo new site ./  Automatisch sind die Ordner archetypes, content, data, layouts, resources, static und themes und die Datei config.</description>
     </item>
