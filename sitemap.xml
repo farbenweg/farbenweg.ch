@@ -3,72 +3,77 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://farbenweg.ch/categories/</loc>
     <lastmod>2020-04-18T08:22:30+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://farbenweg.ch/</loc>
     <lastmod>2020-04-18T08:22:30+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/leben/</loc>
+    <loc>https://farbenweg.ch/tags/gedankliche-autobahn/</loc>
     <lastmod>2020-04-18T08:22:30+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://farbenweg.ch/categories/leben/</loc>
     <lastmod>2020-04-18T08:22:30+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/selbstvertrauen/</loc>
+    <loc>https://farbenweg.ch/post/</loc>
     <lastmod>2020-04-18T08:22:30+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://farbenweg.ch/tags/selbstvertrauen/</loc>
     <lastmod>2020-04-18T08:22:30+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/2020/04/18/wie-verlasse-ich-die-gedankliche-autobahn/</loc>
+    <loc>https://farbenweg.ch/tags/</loc>
     <lastmod>2020-04-18T08:22:30+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/2020/04/08/wenn-das-leben-kaum-flie%C3%9Ft/</loc>
+    <loc>https://farbenweg.ch/2020/04/18/wie-verlasse-ich-meine-autobahn/</loc>
+    <lastmod>2020-04-18T08:22:30+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://farbenweg.ch/2020/04/08/wenn-das-leben-kaum-flie%C3%9Ft/</loc>
     <lastmod>2020-04-08T22:36:13+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/2020/03/26/das-atelier-entsteht/</loc>
+    <loc>https://farbenweg.ch/2020/03/26/das-atelier-entsteht/</loc>
     <lastmod>2020-03-26T15:46:37+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/2020/03/24/webseite-mit-hugo-erstellen/</loc>
+    <loc>https://farbenweg.ch/2020/03/24/webseite-mit-hugo-erstellen/</loc>
     <lastmod>2020-03-24T09:51:12+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/kontakt/</loc>
+    <loc>https://farbenweg.ch/kontakt/</loc>
     <lastmod>2019-08-21T11:03:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/page/</loc>
+    <loc>https://farbenweg.ch/page/</loc>
     <lastmod>2019-08-21T11:03:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/farbenweg/</loc>
+    <loc>https://farbenweg.ch/farbenweg/</loc>
     <lastmod>2019-08-21T11:02:27+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/uber/</loc>
+    <loc>https://farbenweg.ch/uber/</loc>
     <lastmod>2019-08-20T15:11:10+02:00</lastmod>
   </url>
   

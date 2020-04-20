@@ -12,7 +12,7 @@
 <meta property="og:image" content="https://farbenweg.ch/icon-512x512.png" />
 
 
-  <link href='/favicon.ico' rel='icon' type='image/x-icon'/>
+  <link href='https://farbenweg.ch/favicon.ico' rel='icon' type='image/x-icon'/>
 
 
 
@@ -29,8 +29,8 @@
 
 
 
-<link rel="icon" href="/images/favicon.ico" type="image/x-icon"/>
-<link rel="stylesheet" href="/css/main.css" media="all">
+<link rel="icon" href="https://farbenweg.chimages/favicon.ico" type="image/x-icon"/>
+<link rel="stylesheet" href="https://farbenweg.chcss/main.css" media="all">
 <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Merriweather:400|Lato:400,400italic,700">
 <link href='https://fonts.googleapis.com/css?family=Merienda' rel='stylesheet'>
 <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -74,8 +74,8 @@
     <div class="wrapper">
       <header class="header">
         <nav class="nav">
-  <a href="/" class="nav-logo">
-    <img src="/images/logo.png" 
+  <a href="https://farbenweg.ch" class="nav-logo">
+    <img src="https://farbenweg.chimages/logo.png" 
          width="50" 
          height="50" 
          alt="Logo">
@@ -115,7 +115,7 @@
 
 <p>Wir benutzen die drei Komponenten Hugo, Windows PowerShell ISE, Visual Studio Code und Github. Chris hat einen bebilderten Artikel zum Einstieg in <a href="http://cinereal.info/article/github-pages/">Github-Seiten</a> verfasst.</p>
 
-<h2 id="eine-seite-erstellen">Eine Seite erstellen</h2>
+<h2 id="eine-hugo-seite-erstellen">Eine Hugo-Seite erstellen</h2>
 
 <p>In der Windows PowerShell erstellen wir den Ordner für die neue Hugo-Seite. In meinem Fall heisst der Ordner
 &ldquo;blog-lithium&rdquo;:</p>
@@ -125,7 +125,7 @@ cd blog-lithium
 hugo new site ./
 </code></pre>
 
-<p>Automatisch sind die Ordner archetypes, content, data, layouts, resources, static und themes und die Datei config.toml entstanden. Als zweites passen wir die config.toml an:</p>
+<p>Automatisch sind die Ordner archetypes, content, data, layouts, resources, static und themes und die Datei config.toml entstanden. Sie sind typisch für eine Hugo-Webseite. Als zweites passen wir die config.toml an. Die baseURL entspricht dem lokalen Server oder deiner Domain.</p>
 
 <pre><code>baseURL = &quot;http://localhost:1313/&quot;
 languageCode = &quot;de-de&quot;
@@ -134,9 +134,9 @@ title = &quot;Farbenweg&quot;
 
 <p>Eine leere Seite ist generiert.</p>
 
-<h2 id="ein-theme-herunterladen">Ein Theme herunterladen</h2>
+<h2 id="ein-hugo-theme-herunterladen">Ein Hugo-Theme herunterladen</h2>
 
-<p>Um ein Theme zu installieren, wechsle ich ins entsprechende Verzeichnis.</p>
+<p>Um ein Theme zu installieren, wechseln wir ins entsprechende Verzeichnis.</p>
 
 <pre><code>cd themes
 git clone https://github.com/jrutheiser/hugo-lithium-theme
@@ -151,16 +151,16 @@ title = &quot;Beispiel Hugo&quot;
 theme = &quot;lithium&quot;
 </code></pre>
 
-<p>Dann kopiere ich die Inhalte von ExampleSite in mein Verzeichnis.</p>
+<p>Dann kopieren wir die Inhalte von ExampleSite in unser Seiten-Verzeichnis.</p>
 
-<h2 id="einen-inhalt-erstellen">Einen Inhalt erstellen</h2>
+<h2 id="einen-hugo-inhalt-erstellen">Einen Hugo-Inhalt erstellen</h2>
 
-<p>Um einen ersten Blogeintrag zu erstellen, verwende ich den Befehl hugo new post/___.md:</p>
+<p>Um einen ersten Blogeintrag zu erstellen, verwenden wir den Befehl hugo new post/___.md:</p>
 
 <pre><code>hugo new post/Webseite-mit-Hugo-erstellen.md
 </code></pre>
 
-<p>Es entsteht im Unterverzeichnis content/post/ eine Seite, in die ich einen Eintrag schreiben kann:</p>
+<p>Es entsteht im Unterverzeichnis content/post/ eine Seite, in die wir einen Eintrag schreiben können:</p>
 
 <pre><code>---
 title: &quot;Webseite mit Hugo erstellen&quot;
@@ -170,60 +170,48 @@ draft: true
 Das ist mein erster Post. Heute ist ein sonniger Märztag mit einer kalten Bise.
 </code></pre>
 
-<p>Jetzt entdecke ich Markdown mit seinen unterschiedlichen Formatierungen. Desweiteren möchte ich jetzt ein Bild einfügen. Ich lege es in das Verzeichnis static/images.</p>
+<p>Den Post können wir mit Markdown schreiben. Das ist eine Auszeichungssprache mit guter Lesbarkeit im Vergleich zu HTML. Ausserdem fügen wir jetzt ein Bild ein. Wir legen es in das Verzeichnis static/images.</p>
 
 <p><img src="/images/bild01.jpg" alt="Primel" /></p>
 
-<p>Um die Website anzuschauen starte ich</p>
+<p>Um die Website anzuschauen starten wir</p>
 
 <pre><code>hugo -D serve
 </code></pre>
 
-<p>und gehe auf <a href="http://localhost:1313/">http://localhost:1313/</a>. Die Foto wird angezeigt.</p>
+<p>und gehen auf <a href="http://localhost:1313/">http://localhost:1313/</a>. Die Webseite und das Bild werden angezeigt.</p>
 
-<h2 id="auf-domain-ziehen">Auf Domain ziehen</h2>
+<h2 id="webseite-auf-domain-ziehen">Webseite auf Domain ziehen</h2>
 
-<p>Um die Website auf meiner Github Domain anzuzeigen, gehe ich folgendermassen vor:</p>
+<p>Um die Website auf einer Github-Domain anzuzeigen, gehen wir folgendermassen vor.</p>
 
-<pre><code>rmdir public
-git clone https://github.com/farbenweg/farbenweg.github.io public
-hugo
+<p>Bei der ersten Verwendung des Github-Repositorys klonen wir das Repo in den Public-Ordner:</p>
+
+<pre><code>git clone https://github.com/farbenweg/farbenweg.github.io public
+</code></pre>
+
+<p>Bei den weiteren Änderungen ist das Klonen nicht mehr nötig. Dann genügen die fünf folgenden Zeilen, um Änderungen auf die Domain zu ziehen:</p>
+
+<pre><code>hugo
 cd public
 git add --all
 git commit -m &quot;inital commit&quot;
 git push origin master
 </code></pre>
 
-<p>Dann versuche ich <a href="https://farbenweg.github.io/">https://farbenweg.github.io/</a> und es ist nur ein unformatierter Text zu sehen. Es ist nicht das erste Mal, dass ich enttäuscht abbreche. Doch dann ändere ich zwei Dinge: Die Posts werden auf</p>
+<p>Um den Post zu sehen, stellen wir im Bereich oberhalb des Post (Front Matter):</p>
 
 <pre><code>draft: false
 </code></pre>
 
-<p>gestellt. Und die config.toml wird auf eine andere baseURL gelegt:</p>
+<p>Und in der config.toml wählen wir die neue baseURL:</p>
 
 <pre><code>baseURL = &quot;https://farbenweg.github.io/&quot;
 </code></pre>
 
-<p>Es klappt nicht gleich. Ein paar Minuten später sehe ich auf meinem Smartphone, dass die Posts jetzt alle da sind! Es braucht einfach etwas Zeit, bis sie auf der Domain ankommen.</p>
-
-<p>In config.toml ändere ich die Menüeinträge:</p>
-
-<pre><code>[[menu.main]]
-    name = &quot;Farbenweg&quot;
-    url = &quot;/farbenweg/&quot;
-[[menu.main]]
-    name = &quot;Kontakt&quot;
-    url = &quot;/kontakt/&quot;
-[[menu.main]]
-    name = &quot;Über&quot;
-    url = &quot;/ueber/&quot; 
-</code></pre>
-
-<p>In content/page/ erstelle ich die drei Einträge für die Seiten: Farbenweg.md, Atelier.md und Ueber.md. Diese Seiten können mit Inhalt gefüllt werden.</p>
-
 <h2 id="das-über-funktioniert">Das Über funktioniert</h2>
 
-<p>Das war eine längere Sache. Schon seit letztem August fragte ich mich, ob in Hugo deutsche Page-Titel funktionieren. Vor allem für die Über-Seite war es mir wichtig. Die Lösung habe ich heute hier gefunden:</p>
+<p>Schon seit einiger Zeit fragte ich mich, ob in Hugo deutsche Page-Titel funktionieren. Vor allem für die Über-Seite war es mir wichtig. Die Lösung habe ich heute hier gefunden:</p>
 
 <p><a href="https://discourse.gohugo.io/t/make-url-use-only-ascii-characters/7592">https://discourse.gohugo.io/t/make-url-use-only-ascii-characters/7592</a></p>
 
@@ -237,7 +225,7 @@ git push origin master
 <pre><code>https://farbenweg.github.io/uber.html
 </code></pre>
 
-<p>Und entsprechend sieht es für den Titel dieses Posts aus. Sehr schön, dass die Lösung so einfach war.</p>
+<p>Und entsprechend sieht es für den Titel dieses Posts aus.</p>
 
 <h2 id="neues-layout">Neues Layout</h2>
 
@@ -250,82 +238,18 @@ git push origin master
 <li>Merienda für die Titel,</li>
 <li>Lato für die Texte,</li>
 </ul></li>
+<li>grüne Titel</li>
 <li>einen höheren und hellgrünen Header,</li>
 <li>ein grösseres Logo im Header,</li>
 <li>grüne Schrift beim Überfahren der Navigation.</li>
 </ul>
 
-<p>Der Code in /themes/lithium/layouts/partials/head.html lautet dann:</p>
+<p>Der Code in /themes/lithium/layouts/partials/head.html für die neue Schriftart lautet:</p>
 
 <pre><code>&lt;link href='https://fonts.googleapis.com/css?family=Merienda' rel='stylesheet'&gt;
 </code></pre>
 
-<p>In /themes/lithium/static/css/main.css gab es viele kleine Änderungen:</p>
-
-<pre><code>body {
-font-family: &quot;Lato&quot;, sans-serif;
-text-rendering: optimizeLegibility;
--webkit-font-smoothing: antialiased;
--moz-osx-font-smoothing: grayscale;
--moz-font-feature-settings: &quot;liga&quot; on;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-font-family: 'Merienda', sans-serif;
-color: rgb(0, 190, 0);
-}
-
-.nav {
-max-width: 800px;
-margin: 0 auto;
-padding: 0 15px;
-font-family: 'Merienda', sans-serif;
-text-align: right;
-}
-
-.nav-logo {
-float: left;
-margin-top: -11px;
-transition: transform 150ms ease-out;
-}
-
-.nav-logo:hover {
-transform: scale(1.1);
-}
-
-.nav-logo img {
-display: block;
-max-height: 70px;
-width: auto;
-}
-
-.nav-links a:hover {
-color: rgb(0, 190, 0);
-}
-
-@media (min-width: 600px) {
-.header {
-    padding: 25px 0;
-}
-
-.nav-logo {
-    margin-top: -18px;
-}
-
-.nav-logo img {
-    max-height: 70px;
-}
-
-.nav-links {
-    font-size: 20px;
-    font-weight: bold;
-}
-</code></pre>
+<p>In /themes/lithium/static/css/main.css gab es viele kleine Änderungen für das neue Layout.</p>
 
 <h2 id="neu-auf-github-laden">Neu auf Github laden</h2>
 
@@ -341,12 +265,12 @@ git push
 
 <h2 id="auf-andere-domain-laden">Auf andere Domain laden</h2>
 
-<p>Ich kopiere die bisherige Seite in meinen public-Ordner.</p>
+<p>Um eine andere Domain zu verwenden, klonen wir das entsprechende Repository in unseren public-Ordner.</p>
 
 <pre><code>git clone https://github.com/farbenweg/farbenweg.ch public
 </code></pre>
 
-<p>Eventuell lösche ich die alte Seite zuerst:</p>
+<p>Eventuell löschen wir die alte Seite zuerst:</p>
 
 <pre><code>cd public
 git rm -r .
@@ -354,45 +278,25 @@ git commit -m &quot;leer&quot;
 git push
 </code></pre>
 
-<p>Dann kompiliere ich die Seite und ziehe sie auf die Domain:</p>
+<p>Dann kompilieren wir die Seite und ziehen sie auf die Domain:</p>
 
-<pre><code>git clone https://github.com/farbenweg/farbenweg.ch public
-hugo
+<pre><code>hugo
 cd public
 git add --all
 git commit -m &quot;inital commit&quot;
 git push origin master
 </code></pre>
 
-<p>Jetzt sind alle Dateien auf der Domain. Leider ist nichts im Browser zu sehen. Ich habe die Datei CNAME vergessen. Sie enthält den Domainnamen, wenn ich eine beliebige Domain wähle:</p>
+<p>Jetzt sind alle Dateien auf der Domain. Leider ist nichts im Browser zu sehen. Wir brauchen die wichtige Datei CNAME. Sie enthält den Domainnamen, wenn wir eine beliebige Domain wählen. In meinem Fall steht in der Datei CNAME einfach:</p>
 
 <pre><code>farbenweg.ch
 </code></pre>
 
-<p>Nun funktioniert das auf der Domain farbenweg.ch.  Dort arbeite ich für den Moment weiter.</p>
-
-<h2 id="logo">Logo</h2>
-
-<p>Dies ist ein neuer Logo-Entwurf. Ich habe eine Schrift gefunden, die mir gefällt. Sie heisst Merienda. Passend dazu habe ich den gehenden Menschen verändert. Schliesslich habe ich den Weg angepasst:</p>
-
-<ul>
-<li>Der grüne Teil ist jetzt dort, wo der Mensch geht. So sieht man seine Beine besser.</li>
-<li>Der violette Teil befindet sich nun rechts.</li>
-<li>Der Weg beginnt über dem Schriftzug.</li>
-<li>Der Weg leicht gewellt oder gerollt.</li>
-</ul>
-
-<p>Das neue Logo mit transparentem Hintergrund und mit Schriftzug sieht so aus:</p>
-
-<p><img src="/images/logo02.png" alt="Logo2" /></p>
-
-<p>Die Version mit weissem Hintergrund und ohne Schriftzug ist hier abgebildet:</p>
-
-<p><img src="/images/logo01.png" alt="Logo1" /></p>
+<p>Nun funktioniert die Hugo-Seite auf der Domain farbenweg.ch.</p>
 
 <h2 id="favicon">Favicon</h2>
 
-<p>Seit drei Tagen übe ich mich an den Icons der Webseite. Ich habe gesehen, dass es zwei Arten von Icons gibt. Die ganz kleinen nennen sich favicon.ico oder favicon.png und befinden sich oben im Fenster oder im Tab. Sie sind 16 x 16 Pixel, 32 x 32 Pixel oder 48 x 48 Pixel klein:</p>
+<p>Jedes Gerät und Betriebssystem verlangt sein eigenes Favicon. Deshalb erstellen wir das Favicon am besten in verschiedenen Grössen und Dateiformaten. Die ganz kleinen Favicons nennen sich favicon.ico oder favicon.png und befinden sich oben im Fenster oder im Tab. Sie sind 16 x 16 Pixel, 32 x 32 Pixel oder 48 x 48 Pixel klein:</p>
 
 <p><img src="/images/favicon-16x16.png" alt="Favicon1" /> favicon-16x16.png</p>
 
@@ -400,7 +304,7 @@ git push origin master
 
 <p><img src="/images/favicon.ico" alt="Favicon3" /> favicon.ico</p>
 
-<p>Dann gibt es etwas grössere Icons, die sich touch-icon.png oder apple-icon.png nennen. Sie werden in den mobilen Browsern verwendet oder bei grösseren Icons wie den häufig besuchten Webseiten im Browser.</p>
+<p>Dann gibt es etwas grössere Icons, die sich touch-icon.png oder apple-icon.png nennen. Sie werden in den mobilen Browsern verwendet oder in den Favoriten oder Lesezeichen im Browser.</p>
 
 <p><img src="/images/apple-icon-180x180.png" alt="Touchicon1" /> apple-icon-180x180.png</p>
 
@@ -442,7 +346,7 @@ git push origin master
 &lt;meta name=&quot;theme-color&quot; content=&quot;#ffffff&quot;&gt;
 </code></pre>
 
-<p>Leider funktioniert das Favicon auf meinem Smartphone immer noch nicht. Auf allen anderen bisher getesteten Geräten und Browsern wird es angezeigt. Inzwischen denke ich, dass es am veralteten Android 4.4.2 liegt. Hier sind die SSL-Zertifikate nicht aktuell und deshalb wird das Favicon wohl nicht angezeigt. Und dabei belasse ich es jetzt, solange es auf anderen Geräten funktioniert.</p>
+<p>Leider funktioniert das Favicon auf meinem Smartphone immer noch nicht. Auf allen anderen bisher getesteten Geräten und Browsern wird es angezeigt. Inzwischen denke ich, dass es am veralteten Android 4.4.2 liegt. Hier sind die SSL-Zertifikate nicht aktuell und deshalb wird das Favicon wohl nicht angezeigt. Und dabei belasse ich es jetzt, solange es auf anderen Geräten funktioniert. Die Lösung hier lautet wahrscheinlich: Endlich ein neues Smartphone zulegen.</p>
 
     </div>
   </article>
@@ -461,12 +365,12 @@ git push origin master
             <a href="https://gohugo.io/" 
               title="Hugo" 
               class="footer-links-kudos">
-              <img src="/images/hugo-logo.png" width="22" height="22">
+              <img src="https://farbenweg.chimages/hugo-logo.png" width="22" height="22">
             </a>
             <a href="https://github.com/farbenweg/farbenweg.ch/" 
               title="Farbenweg on GitHub" 
               class="footer-links-kudos">
-              <img src="/images/github-logo.png" width="25" height="25">
+              <img src="https://farbenweg.chimages/github-logo.png" width="25" height="25">
             </a>
 
         </ul>
