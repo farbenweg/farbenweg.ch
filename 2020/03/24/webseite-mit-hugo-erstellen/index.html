@@ -109,19 +109,23 @@
     <div class="article-content">
       
 
-<p>Das ist mein erster Post. Heute ist ein sonniger Märztag mit einer kalten Bise. Ich lerne es, Webseiten mit Hugo zu erstellen.</p>
+<p><img src="/images/hugo-static-logo.png" alt="hugo-static-logo" /></p>
 
-<p>Dazu benutze ich die drei Komponenten <strong>Hugo</strong>, <strong>Windows PowerShell ISE</strong>, <strong>Visual Studio Code</strong> und <strong>Github</strong>.</p>
+<p>Das ist mein erster Post. Heute ist ein sonniger Märztag mit einer kalten Bise. Wie erstellen wir eine Webseite mit Hugo und Github?</p>
+
+<p>Wir benutzen die drei Komponenten Hugo, Windows PowerShell ISE, Visual Studio Code und Github. Chris hat einen bebilderten Artikel zum Einstieg in <a href="http://cinereal.info/article/github-pages/">Github-Seiten</a> verfasst.</p>
 
 <h2 id="eine-seite-erstellen">Eine Seite erstellen</h2>
 
-<p>In Windows PowerShell gehe ich ins Verzeichnis \farbenweg&gt;. Dort erstelle ich den Ordner blog-lithium und eine neue Hugo Seite:</p>
+<p>In der Windows PowerShell erstellen wir den Ordner für die neue Hugo-Seite. In meinem Fall heisst der Ordner
+&ldquo;blog-lithium&rdquo;:</p>
 
 <pre><code>md blog-lithium
+cd blog-lithium
 hugo new site ./
 </code></pre>
 
-<p>Automatisch sind die Ordner archetypes, content, data, layouts, resources, static und themes und die Datei config.toml entstanden. Als zweites passe ich die config.toml an:</p>
+<p>Automatisch sind die Ordner archetypes, content, data, layouts, resources, static und themes und die Datei config.toml entstanden. Als zweites passen wir die config.toml an:</p>
 
 <pre><code>baseURL = &quot;http://localhost:1313/&quot;
 languageCode = &quot;de-de&quot;

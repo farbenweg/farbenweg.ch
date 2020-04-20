@@ -18,7 +18,7 @@
       
       <guid>/2020/04/18/wie-verlasse-ich-die-gedankliche-autobahn/</guid>
       <description>Gestern spazierte ich mit einer Nachbarin auf einem Waldpfad. Sie fragte mich: &amp;ldquo;Passiert es dir in deiner Ausbildung auch, dass du dir eine Aufgabe nicht zutraust? Und wie gehst du dann vor?&amp;rdquo; - &amp;ldquo;Ja, das kenne ich&amp;rdquo;, antwortete ich. &amp;ldquo;Und ich mache es trotzdem. Einfach tun. Dann ergibt sich ein Weg.&amp;rdquo;
-In der Ausbildung kommt die Aufgabe von außen. Wie schaffe ich es auch privat, mich neuen Herausforderungen zu stellen?</description>
+In der Ausbildung kommt die Aufgabe von außen. Wie schaffe ich es auch von innen, mich neuen Herausforderungen zu stellen?</description>
     </item>
     
     <item>
@@ -27,7 +27,22 @@ In der Ausbildung kommt die Aufgabe von außen. Wie schaffe ich es auch privat, 
       <pubDate>Wed, 08 Apr 2020 22:36:13 +0200</pubDate>
       
       <guid>/2020/04/08/wenn-das-leben-kaum-flie%C3%9Ft/</guid>
-      <description>Dieser April startete sommerlich heiß. In einer warmen Nacht lag ich schlaflos und studierte an meiner Webseite herum. Wie ist das mit dem scharfen S oder Eszett? Das kenne ich als Schweizerin nicht. Die Wortvorschläge auf meinem Smartphone zeigten mir wie es funktioniert. Beim Ausprobieren entstand eine Liste von Wörtern mit Doppel S und scharfem S. Aus Spaß begann ich zu dichten. Der Anfang war bald da. Doch der zweite Teil beschäftigte mich ein paar Tage.</description>
+      <description>Fließen  Wenn das Leben kaum fließt.
+Wenn der Regen kaum gießt,
+auf die großen Straßen.
+Und leider vergaßen
+wir unsere Füße.
+Die blassen Grüße
+wurden schließlich weiß.
+Es ist viel zu heiß.
+Der Pfad zu dem Dunkeln,
+die Warnlichter funkeln.
+Zum Weiter entschlossen,
+auch Schatten genossen.
+Ganz ohne zu hasten
+die Wurzeln ertasten.
+Bis Farben nun sprießen
+und wir wieder fließen.</description>
     </item>
     
     <item>
@@ -45,10 +60,9 @@ In der Ausbildung kommt die Aufgabe von außen. Wie schaffe ich es auch privat, 
       <pubDate>Tue, 24 Mar 2020 09:51:12 +0100</pubDate>
       
       <guid>/2020/03/24/webseite-mit-hugo-erstellen/</guid>
-      <description>Das ist mein erster Post. Heute ist ein sonniger Märztag mit einer kalten Bise. Ich lerne es, Webseiten mit Hugo zu erstellen.
-Dazu benutze ich die drei Komponenten Hugo, Windows PowerShell ISE, Visual Studio Code und Github.
-Eine Seite erstellen In Windows PowerShell gehe ich ins Verzeichnis \farbenweg&amp;gt;. Dort erstelle ich den Ordner blog-lithium und eine neue Hugo Seite:
-md blog-lithium hugo new site ./  Automatisch sind die Ordner archetypes, content, data, layouts, resources, static und themes und die Datei config.</description>
+      <description>Das ist mein erster Post. Heute ist ein sonniger Märztag mit einer kalten Bise. Wie erstellen wir eine Webseite mit Hugo und Github?
+Wir benutzen die drei Komponenten Hugo, Windows PowerShell ISE, Visual Studio Code und Github. Chris hat einen bebilderten Artikel zum Einstieg in Github-Seiten verfasst.
+Eine Seite erstellen In der Windows PowerShell erstellen wir den Ordner für die neue Hugo-Seite. In meinem Fall heisst der Ordner &amp;ldquo;blog-lithium&amp;rdquo;:</description>
     </item>
     
   </channel>
