@@ -6,10 +6,52 @@
     <description>Recent content on Farbenweg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Sat, 18 Apr 2020 08:22:30 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2020 22:42:48 +0200</lastBuildDate>
     
 	<atom:link href="https://farbenweg.ch/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Fünf Wandlungsphasen</title>
+      <link>https://farbenweg.ch/2020/04/24/funf-wandlungsphasen/</link>
+      <pubDate>Fri, 24 Apr 2020 22:42:48 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/2020/04/24/funf-wandlungsphasen/</guid>
+      <description>五行
+金
+ 水
+ 木
+ 火
+ 土</description>
+    </item>
+    
+    <item>
+      <title>Können Ketten retten?</title>
+      <link>https://farbenweg.ch/2020/04/24/konnen-ketten-retten/</link>
+      <pubDate>Fri, 24 Apr 2020 21:56:25 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/2020/04/24/konnen-ketten-retten/</guid>
+      <description>Frei sein  Ich bin gefangen,
+wie kam ich rein?
+Schmerzen und Bangen,
+es ist zu klein.
+Ketten zerstören,
+lange ringen.
+Plötzlich zu hören,
+Vögel singen.
+Fliegen und fliegen,
+schwingend und weit.
+Nichts kann mich kriegen,
+ich bin befreit.
+Nach einer Weile
+fühl&amp;rsquo; ich mich leer.
+Glänzen da Teile?
+Wo komm&amp;rsquo; ich her?
+Teile der Ketten
+nehme ich auf.
+Können sie retten
+den freien Lauf?</description>
+    </item>
     
     <item>
       <title>Wie verlasse ich meine Autobahn?</title>
@@ -62,7 +104,7 @@ und wir wieder fließen.</description>
       <guid>https://farbenweg.ch/2020/03/24/webseite-mit-hugo-erstellen/</guid>
       <description>Das ist mein erster Post. Heute ist ein sonniger Märztag mit einer kalten Bise. Wie erstellen wir eine Webseite mit Hugo und Github?
 Wir benutzen die drei Komponenten Hugo, Windows PowerShell ISE, Visual Studio Code und Github. Chris hat einen bebilderten Artikel zum Einstieg in Github-Seiten verfasst.
-Eine Hugo-Seite erstellen In der Windows PowerShell erstellen wir den Ordner für die neue Hugo-Seite. In meinem Fall heisst der Ordner &amp;ldquo;blog-lithium&amp;rdquo;:</description>
+Eine Hugo-Seite erstellen In der Windows PowerShell erstellen wir den Ordner für die neue Hugo-Seite. In meinem Fall heißt der Ordner &amp;ldquo;blog-lithium&amp;rdquo;:</description>
     </item>
     
     <item>
@@ -83,7 +125,7 @@ Eine Hugo-Seite erstellen In der Windows PowerShell erstellen wir den Ordner fü
       <description>Wo bist du?
 Woher kommst du?
 Wohin gehst du?
-Blog Im Blog entdeckst du Texte, Gedichte und Bilder. Komme mit auf den Farbenweg. Viel Freude beim Lesen, Anschauen und Ausprobieren.
+Blog Im Blog entdeckst du Texte, Gedichte und Bilder. Komme mit auf den Farbenweg. Viel Freude beim Lesen, Anschauen, Wirken-Lassen und Ausprobieren.
 Atelier Das Atelier ist im Entstehen.
 Kreatives Schaffen mit diversen Ausdrucksmitteln ist möglich.</description>
     </item>
