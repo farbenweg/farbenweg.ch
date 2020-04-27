@@ -65,7 +65,7 @@ img {
 
 .nav-logo img {
   display: block;
-  max-height: 70px;
+  max-height: 85;
   width: auto;
 }
 
@@ -274,7 +274,7 @@ img {
   }
 
   .nav-logo img {
-    max-height: 70px;
+    max-height: 85px;
   }
 
   .nav-links {
