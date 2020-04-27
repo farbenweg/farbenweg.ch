@@ -41,7 +41,7 @@ img {
   padding: 20px 0;
   position: relative;
   background: #ecffe4;
-  border-bottom: 1px solid #eaeaea;
+  border-bottom: 1px solid #eda;
 }
 
 .nav {
@@ -100,7 +100,7 @@ img {
   padding: 0 15px;
   font-size: 16px;
   line-height: 1.7;
-  color: #555;
+  color: #652;
 }
 
 .article-title {
@@ -111,7 +111,7 @@ img {
 }
 
 .article-date {
-  color: #ccc;
+  color: #ba7;
 }
 
 .article-duration {
@@ -185,7 +185,7 @@ img {
 }
 
 .archive-item-date {
-  color: #ccc;
+  color: #ba7;
   font-size: 14px;
   padding: 5px 0;
   margin-top: 5px;
@@ -193,7 +193,7 @@ img {
 }
 
 .archive-description {
-  color: #ccc;
+  color: #ba7;
   font-size: 17px;
   padding: 5px 0;
   margin-top: 5px;
@@ -207,7 +207,7 @@ img {
   font-weight: bold;
   color: #222;
   padding: 5px 0;
-  border-bottom: 1px solid #ddd;
+  border-bottom: 1px solid #eda;
   border-bottom-width: medium;
   line-height: 1.2;
 }
@@ -238,7 +238,7 @@ img {
 }
 
 .footer-links a {
-  color: #888;
+  color: #ba7;
   text-decoration: none;
   transition: color 150ms ease;
   margin: 0 0px;
@@ -246,7 +246,7 @@ img {
 
 .footer-links a:hover,
 .footer-links a:focus {
-  color: #888;
+  color: #ba7;
 }
 
 .footer-links li::before {
