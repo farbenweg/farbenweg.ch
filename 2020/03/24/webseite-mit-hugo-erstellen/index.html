@@ -1,0 +1,521 @@
+<!DOCTYPE html>
+<html lang="de-de">
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<meta name="generator" content="Hugo 0.57.2" />
+
+
+<title>Farbenweg - Webseite mit Hugo erstellen</title>
+<meta property="og:title" content="Farbenweg - Webseite mit Hugo erstellen">
+
+
+
+
+<link rel="icon" href="favicon.ico" type="image/x-icon"/>
+<link rel="stylesheet" href="/css/normalize.css" media="all">
+<link rel="stylesheet" href="/css/main.css" media="all">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Merriweather:400|Lato:400,400italic,700">
+<link href='https://fonts.googleapis.com/css?family=Merienda' rel='stylesheet'>
+<link href='https://fonts.googleapis.com/css?family=Ma Shan Zheng' rel='stylesheet'>
+
+
+<link rel="icon" type="image/ico" sizes="16x16" href="/favicon.ico">
+<link rel="icon" type="image/ico" sizes="32x32" href="/favicon.ico">
+<link rel="icon" type="image/ico" sizes="64x64" href="/favicon.ico">
+
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon-precomposed" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="apple-touch-icon-precomposed" sizes="192x192" href="/apple-icon-192x192.png">
+
+<link rel="icon" type="image/png" sizes="36x36"  href="/android-icon-36x36.png">
+<link rel="icon" type="image/png" sizes="48x48"  href="/android-icon-48x48.png">
+<link rel="icon" type="image/png" sizes="72x72"  href="/android-icon-72x72.png">
+<link rel="icon" type="image/png" sizes="96x96"  href="/android-icon-96x96.png">
+<link rel="icon" type="image/png" sizes="144x144"  href="/android-icon-144x144.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="256x256"  href="/android-icon-256x256.png">
+<link rel="icon" type="image/png" sizes="512x512"  href="/android-icon-512x512.png">
+
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+
+    <meta property="og:title" content="Webseite mit Hugo erstellen" />
+<meta property="og:description" content="Das ist mein erster Post. Heute ist ein sonniger Märztag mit einer kalten Bise. Wie erstelle ich eine Webseite mit Hugo und Github?
+Ich habe mich für eine statische Webseite entschieden. Hier finden wir einen Bericht von Chris über statische Webseiten-Generatoren. Wir benutzen die drei Komponenten Hugo, Windows PowerShell ISE, Visual Studio Code und Github. Chris hat auch einen bebilderten Artikel zum Einstieg in Github-Seiten verfasst.
+Eine Hugo-Seite erstellen In der Windows PowerShell erstellen wir den Ordner für die neue Hugo-Seite." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://farbenweg.ch/2020/03/24/webseite-mit-hugo-erstellen/" />
+
+<meta property="og:image" content="https://farbenweg.ch/images/hugo-static-logo.png" />
+<meta property="article:published_time" content="2020-03-24T06:39:09+02:00" />
+<meta property="article:modified_time" content="2020-03-24T06:39:09+02:00" />
+
+    <meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://farbenweg.ch/images/hugo-static-logo.png"/>
+
+<meta name="twitter:title" content="Webseite mit Hugo erstellen"/>
+<meta name="twitter:description" content="Das ist mein erster Post. Heute ist ein sonniger Märztag mit einer kalten Bise. Wie erstelle ich eine Webseite mit Hugo und Github?
+Ich habe mich für eine statische Webseite entschieden. Hier finden wir einen Bericht von Chris über statische Webseiten-Generatoren. Wir benutzen die drei Komponenten Hugo, Windows PowerShell ISE, Visual Studio Code und Github. Chris hat auch einen bebilderten Artikel zum Einstieg in Github-Seiten verfasst.
+Eine Hugo-Seite erstellen In der Windows PowerShell erstellen wir den Ordner für die neue Hugo-Seite."/>
+
+    <meta itemprop="name" content="Webseite mit Hugo erstellen">
+<meta itemprop="description" content="Das ist mein erster Post. Heute ist ein sonniger Märztag mit einer kalten Bise. Wie erstelle ich eine Webseite mit Hugo und Github?
+Ich habe mich für eine statische Webseite entschieden. Hier finden wir einen Bericht von Chris über statische Webseiten-Generatoren. Wir benutzen die drei Komponenten Hugo, Windows PowerShell ISE, Visual Studio Code und Github. Chris hat auch einen bebilderten Artikel zum Einstieg in Github-Seiten verfasst.
+Eine Hugo-Seite erstellen In der Windows PowerShell erstellen wir den Ordner für die neue Hugo-Seite.">
+
+
+<meta itemprop="datePublished" content="2020-03-24T06:39:09&#43;02:00" />
+<meta itemprop="dateModified" content="2020-03-24T06:39:09&#43;02:00" />
+<meta itemprop="wordCount" content="1206">
+
+  <meta itemprop="image" content="https://farbenweg.ch/images/hugo-static-logo.png">
+
+
+
+<meta itemprop="keywords" content="deutsche Umlaute,Favicons,Github,Hugo,Lithium Theme,statische Webseite," />
+
+
+  </head>
+  <body>
+    <header>
+      <nav>
+
+  <a href="https://farbenweg.ch" class="logo">
+    <img src="/images/logo.png" 
+      width="50" 
+      height="50" 
+      alt="Logo">
+  </a>
+
+  <ul class="links">
+    
+    <li><a href="/farbenweg/">Farbenweg</a></li>
+    
+    <li><a href="/kontakt/">Kontakt</a></li>
+    
+    <li><a href="/ueber/">Über</a></li>
+    
+
+    
+    <li><a href="/search/" class="search">
+      <img src="/images/search.svg" alt="Search">
+    </a></li>
+    
+
+  </ul>
+
+</nav>
+
+    </header>
+
+
+<main role="main">
+
+<section class="post">
+    
+    <article>
+
+          
+
+        <h2 class="title">Webseite mit Hugo erstellen</h2>
+        
+        <p class="date">24.03.2020</p> 
+
+        
+<img class="featured" src=" /images/hugo-static-logo.png" />
+
+
+        <section>
+            
+
+<p>Das ist mein erster Post. Heute ist ein sonniger Märztag mit einer kalten Bise. Wie erstelle ich eine Webseite mit Hugo und Github?</p>
+
+<p>Ich habe mich für eine statische Webseite entschieden. Hier finden wir einen Bericht von Chris über <a href="http://cinereal.info/article/new-website-static-site-generator/">statische Webseiten-Generatoren</a>. Wir benutzen die drei Komponenten Hugo, Windows PowerShell ISE, Visual Studio Code und Github. Chris hat auch einen bebilderten Artikel zum Einstieg in <a href="http://cinereal.info/article/github-pages/">Github-Seiten</a> verfasst.</p>
+
+<h3 id="eine-hugo-seite-erstellen">Eine Hugo-Seite erstellen</h3>
+
+<p>In der Windows PowerShell erstellen wir den Ordner für die neue Hugo-Seite. In meinem Fall heißt der Ordner
+&ldquo;blog-lithium&rdquo;:</p>
+
+<pre><code>md blog-lithium
+cd blog-lithium
+hugo new site ./
+</code></pre>
+
+<p>Automatisch sind die Ordner archetypes, content, data, layouts, resources, static und themes und die Datei config.toml entstanden. Sie sind typisch für eine Hugo-Webseite. Als zweites passen wir die config.toml an. Die baseURL entspricht dem lokalen Server oder deiner Domain.</p>
+
+<pre><code>baseURL = &quot;http://localhost:1313/&quot;
+languageCode = &quot;de-de&quot;
+title = &quot;Farbenweg&quot;
+</code></pre>
+
+<p>Eine leere Seite ist generiert.</p>
+
+<h3 id="ein-hugo-theme-herunterladen">Ein Hugo-Theme herunterladen</h3>
+
+<p>Um ein Theme zu installieren, wechseln wir ins entsprechende Verzeichnis.</p>
+
+<pre><code>cd themes
+git clone https://github.com/jrutheiser/hugo-lithium-theme
+cd ../
+</code></pre>
+
+<p>Das Theme kann in lithium umbenannt und in der Konfigurationsdatei config.toml als solches festgelegt werden:</p>
+
+<pre><code>baseURL = &quot;http://localhost:1313/&quot;
+languageCode = &quot;de-de&quot;
+title = &quot;Beispiel Hugo&quot;
+theme = &quot;lithium&quot;
+</code></pre>
+
+<p>Dann kopieren wir die Inhalte von ExampleSite in unser Seiten-Verzeichnis.</p>
+
+<h3 id="einen-hugo-inhalt-erstellen">Einen Hugo-Inhalt erstellen</h3>
+
+<p>Um einen ersten Blogeintrag zu erstellen, verwenden wir den Befehl hugo new post/___.md:</p>
+
+<pre><code>hugo new post/Webseite-mit-Hugo-erstellen.md
+</code></pre>
+
+<p>Es entsteht im Unterverzeichnis content/post/ eine Seite, in die wir einen Eintrag schreiben können:</p>
+
+<pre><code>---
+title: &quot;Webseite mit Hugo erstellen&quot;
+date: 2020-03-24T09:51:12+01:00
+draft: true
+---
+Das ist mein erster Post. Heute ist ein sonniger Märztag mit einer kalten Bise.
+</code></pre>
+
+<p>Den Post können wir mit Markdown schreiben. Das ist eine Auszeichungssprache mit guter Lesbarkeit im Vergleich zu HTML. Außerdem fügen wir jetzt ein Bild ein. Wir legen es in das Verzeichnis static/images.</p>
+
+<pre><code>![Rinde](/images/rinde2.jpg)
+</code></pre>
+
+<p><img src="/images/rinde2.jpg" alt="Rinde" /></p>
+
+<p>Um die Website anzuschauen starten wir</p>
+
+<pre><code>hugo -D serve
+</code></pre>
+
+<p>und gehen auf <a href="http://localhost:1313/">http://localhost:1313/</a>. Die Webseite und das Bild werden angezeigt.</p>
+
+<h3 id="webseite-auf-domain-ziehen">Webseite auf Domain ziehen</h3>
+
+<p>Um die Website auf einer Github-Domain anzuzeigen, gehen wir folgendermaßen vor.</p>
+
+<p>Bei der ersten Verwendung des Github-Repositorys klonen wir das Repo in den Public-Ordner:</p>
+
+<pre><code>git clone https://github.com/farbenweg/farbenweg.github.io public
+</code></pre>
+
+<p>Bei den weiteren Änderungen ist das Klonen nicht mehr nötig. Dann genügen die fünf folgenden Zeilen, um Änderungen auf die Domain zu ziehen:</p>
+
+<pre><code>hugo
+cd public
+git add --all
+git commit -m &quot;inital commit&quot;
+git push origin master
+</code></pre>
+
+<p>Um den Post zu sehen, stellen wir im Bereich oberhalb des Post (Front Matter):</p>
+
+<pre><code>draft: false
+</code></pre>
+
+<p>Und in der config.toml wählen wir die neue baseURL:</p>
+
+<pre><code>baseURL = &quot;https://farbenweg.github.io/&quot;
+</code></pre>
+
+<h3 id="das-über-funktioniert">Das Über funktioniert</h3>
+
+<p>Schon seit einiger Zeit fragte ich mich, ob in Hugo deutsche Page-Titel funktionieren. Vor allem für die Über-Seite war es mir wichtig. Die Lösung habe ich heute hier gefunden:</p>
+
+<p><a href="https://discourse.gohugo.io/t/make-url-use-only-ascii-characters/7592">https://discourse.gohugo.io/t/make-url-use-only-ascii-characters/7592</a></p>
+
+<p>Das heißt, es braucht nur eine Zeile in der config.toml:</p>
+
+<pre><code>RemovePathAccents = true
+</code></pre>
+
+<p>Im Titel ist jetzt ein Über anstelle von Ueber zu sehen! In der URL ist einfach ein u anstelle des ü:</p>
+
+<pre><code>https://farbenweg.github.io/uber.html
+</code></pre>
+
+<p>Und entsprechend sieht es für den Titel dieses Posts aus.</p>
+
+<h3 id="neues-layout">Neues Layout</h3>
+
+<p>Das neue Layout umfasst</p>
+
+<ul>
+<li>neue Schriftarten,
+
+<ul>
+<li>Merienda für die Titel,</li>
+<li>Lato für die Texte,</li>
+</ul></li>
+<li>grüne Titel</li>
+<li>einen höheren und hellgrünen Header,</li>
+<li>ein größeres Logo im Header,</li>
+<li>grüne Schrift beim Überfahren der Navigation.</li>
+</ul>
+
+<p>Der Code in /themes/lithium/layouts/partials/head.html für die neue Schriftart lautet:</p>
+
+<pre><code>&lt;link href='https://fonts.googleapis.com/css?family=Merienda' rel='stylesheet'&gt;
+</code></pre>
+
+<p>In /themes/lithium/static/css/main.css gab es viele kleine Änderungen für das neue Layout.</p>
+
+<h3 id="neu-auf-github-laden">Neu auf Github laden</h3>
+
+<p>Nach längerem Testen haben sich im Github-Ordner eine Menge angesammelt, die nicht mehr gebraucht werden. Deshalb möchte ich diese Daten löschen. Wenn ich das Theme wechsle, gehe ich ebenfalls so vor, um das Repository ganz zu leeren. Ich wechsle in den Ordner: farbenweg\blog-lithium\public [master ≡]&gt;</p>
+
+<pre><code>git pull
+git rm -r .
+git commit -m &quot;leer&quot;
+git push
+</code></pre>
+
+<p>Jetzt ist das Repository leer und ich kann die aktuelle Seite hochladen.</p>
+
+<h3 id="auf-andere-domain-laden">Auf andere Domain laden</h3>
+
+<p>Um eine andere Domain zu verwenden, klonen wir das entsprechende Repository in unseren public-Ordner.</p>
+
+<pre><code>git clone https://github.com/farbenweg/farbenweg.ch public
+</code></pre>
+
+<p>Eventuell löschen wir die alte Seite zuerst:</p>
+
+<pre><code>cd public
+git rm -r .
+git commit -m &quot;leer&quot;
+git push
+</code></pre>
+
+<p>Dann kompilieren wir die Seite und ziehen sie auf die Domain:</p>
+
+<pre><code>hugo
+cd public
+git add --all
+git commit -m &quot;inital commit&quot;
+git push origin master
+</code></pre>
+
+<p>Jetzt sind alle Dateien auf der Domain. Leider ist nichts im Browser zu sehen. Wir brauchen die wichtige Datei CNAME. Sie enthält den Domainnamen, wenn wir eine beliebige Domain wählen. In meinem Fall steht in der Datei CNAME einfach:</p>
+
+<pre><code>farbenweg.ch
+</code></pre>
+
+<p>Nun funktioniert die Hugo-Seite auf der Domain farbenweg.ch.</p>
+
+<h3 id="favicon">Favicon</h3>
+
+<p>Jedes Gerät und Betriebssystem verlangt sein eigenes Favicon. Deshalb erstellen wir das Favicon am besten in verschiedenen Grössen und Dateiformaten. Die ganz kleinen Favicons nennen sich favicon.ico oder favicon.png und befinden sich oben im Fenster oder im Tab. Sie sind 16 x 16 Pixel, 32 x 32 Pixel oder 48 x 48 Pixel klein:</p>
+
+<p><img src="/images/favicon.ico" alt="Favicon3" /> favicon.ico</p>
+
+<p>Dann gibt es etwas größere Icons, die sich touch-icon.png oder apple-icon.png nennen. Sie werden in den mobilen Browsern verwendet oder in den Favoriten oder Lesezeichen im Browser.</p>
+
+<p>Da auf meinem alten Smartphone (Samsung Galaxy S4 mini) im Browser das Favicon nicht funktioniert, wird meine Suche nach einer Lösung immer obsessiver. Ich finde immer mehr Größen und Typen von möglichen Favicons für die diversen Geräte und Betriebssysteme.</p>
+
+<p>Der Code in head.html lautet dann:</p>
+
+<pre><code>&lt;link rel=&quot;icon&quot; type=&quot;image/ico&quot; sizes=&quot;16x16&quot; href=&quot;/favicon.ico&quot;&gt;
+&lt;link rel=&quot;icon&quot; type=&quot;image/ico&quot; sizes=&quot;32x32&quot; href=&quot;/favicon.ico&quot;&gt;
+&lt;link rel=&quot;icon&quot; type=&quot;image/ico&quot; sizes=&quot;64x64&quot; href=&quot;/favicon.ico&quot;&gt;
+
+&lt;link rel=&quot;icon&quot; type=&quot;image/png&quot; sizes=&quot;16x16&quot; href=&quot;/favicon-16x16.png&quot;&gt;
+&lt;link rel=&quot;icon&quot; type=&quot;image/png&quot; sizes=&quot;32x32&quot; href=&quot;/favicon-32x32.png&quot;&gt;
+&lt;link rel=&quot;icon&quot; type=&quot;image/png&quot; sizes=&quot;96x96&quot; href=&quot;/favicon-96x96.png&quot;&gt;
+
+&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;57x57&quot; href=&quot;/apple-icon-57x57.png&quot;&gt;
+&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;60x60&quot; href=&quot;/apple-icon-60x60.png&quot;&gt;
+&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;72x72&quot; href=&quot;/apple-icon-72x72.png&quot;&gt;
+&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;76x76&quot; href=&quot;/apple-icon-76x76.png&quot;&gt;
+&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;114x114&quot; href=&quot;/apple-icon-114x114.png&quot;&gt;
+&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;120x120&quot; href=&quot;/apple-icon-120x120.png&quot;&gt;
+&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;144x144&quot; href=&quot;/apple-icon-144x144.png&quot;&gt;
+&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;152x152&quot; href=&quot;/apple-icon-152x152.png&quot;&gt;
+&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;180x180&quot; href=&quot;/apple-icon-180x180.png&quot;&gt;
+&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;192x192&quot; href=&quot;/apple-icon-192x192.png&quot;&gt;
+
+&lt;link rel=&quot;icon&quot; type=&quot;image/png&quot; sizes=&quot;36x36&quot;  href=&quot;/android-icon-36x36.png&quot;&gt;
+&lt;link rel=&quot;icon&quot; type=&quot;image/png&quot; sizes=&quot;48x48&quot;  href=&quot;/android-icon-48x48.png&quot;&gt;
+&lt;link rel=&quot;icon&quot; type=&quot;image/png&quot; sizes=&quot;72x72&quot;  href=&quot;/android-icon-72x72.png&quot;&gt;
+&lt;link rel=&quot;icon&quot; type=&quot;image/png&quot; sizes=&quot;96x96&quot;  href=&quot;/android-icon-96x96.png&quot;&gt;
+&lt;link rel=&quot;icon&quot; type=&quot;image/png&quot; sizes=&quot;144x144&quot;  href=&quot;/android-icon-144x144.png&quot;&gt;
+&lt;link rel=&quot;icon&quot; type=&quot;image/png&quot; sizes=&quot;192x192&quot;  href=&quot;/android-icon-192x192.png&quot;&gt;
+&lt;link rel=&quot;icon&quot; type=&quot;image/png&quot; sizes=&quot;256x256&quot;  href=&quot;/android-icon-256x256.png&quot;&gt;
+&lt;link rel=&quot;icon&quot; type=&quot;image/png&quot; sizes=&quot;512x512&quot;  href=&quot;/android-icon-512x512.png&quot;&gt;
+
+&lt;link rel=&quot;manifest&quot; href=&quot;/manifest.json&quot;&gt;
+&lt;meta name=&quot;msapplication-TileColor&quot; content=&quot;#ffffff&quot;&gt;
+&lt;meta name=&quot;msapplication-TileImage&quot; content=&quot;/ms-icon-144x144.png&quot;&gt;
+&lt;meta name=&quot;theme-color&quot; content=&quot;#ffffff&quot;&gt;
+</code></pre>
+
+<h3 id="deutsche-umlaute-in-urls-ersetzen">Deutsche Umlaute in URLs ersetzen</h3>
+
+<p>Die deutschen Umlaute in Post-Titeln sollten in der URL richtig ersetzt werden. Beispielsweise möchte ich den Titel &ldquo;Können&rdquo; nicht als /konnen/, sondern als /können/ in der URL. Deshalb verabschiede ich mich in der config.toml wieder vom Akzent-Entfernen, das ich oben eingeführt hatte. Ausserdem führe ich einen Slug anstelle des Titles ein:</p>
+
+<pre><code># RemovePathAccents = true
+
+[permalinks]
+    # post = &quot;/:year/:month/:day/:title/&quot;
+    post = &quot;/:year/:month/:day/:slug/&quot;
+</code></pre>
+
+<p>In der Front-Matter des entsprechenden Artikels definieren wir nun neben dem Title auch den Slug:</p>
+
+<pre><code>---
+title: &quot;Können Ketten retten?&quot;
+slug: /Koennen-Ketten-retten/
+date: 2020-04-24T21:56:25+02:00
+categories:
+- Gedichte
+- Leben
+tags:
+- Freiheit
+- Ketten
+- Fliegen
+images:
+- /images/frei.jpg
+draft: false
+---
+</code></pre>
+
+<p>Den &ldquo;Ü&rdquo; in der &ldquo;Über&rdquo;-Seite einfach durch ein &ldquo;U&rdquo; zu ersetzen (siehe oben) entspricht nicht der Bedeutung des Wortes&hellip; Es geht ja nicht um ein Taxiunternehmen. Deshalb habe ich in der config.toml auch einen Slug für die Page eingeführt und die URL geändert:</p>
+
+<pre><code># RemovePathAccents = true
+
+[permalinks]
+    # page = &quot;/:title/&quot;
+    page = &quot;/:slug/&quot;
+
+[[menu.main]]
+    name = &quot;Über&quot;
+    url = &quot;/ueber/&quot;
+    weight = 3
+</code></pre>
+
+<p>In der Front-Matter von Ueber.md steht nun:</p>
+
+<pre><code>---
+title: Über
+slug: /Ueber/
+date: 2020-04-27T08:22:57+00:00
+author: Monika Gloor
+images:
+- /images/logo.png
+---
+</code></pre>
+
+<p>Ausserdem können wir mit dem Slug den Titel der Search-Seite anpassen:</p>
+
+<pre><code>---
+title: &quot;Suche&quot;
+slug: /search/
+date: 2019-06-07T20:22:57+02:00
+disable_comments: true
+---
+</code></pre>
+
+            <p class="categories">Kategorien:&nbsp;
+    
+        
+        <a href="/categories/webseite">Webseite</a>
+    
+</p>
+            <p class="tags">Tags:&nbsp;
+    
+        
+        <a href="/tags/deutsche-umlaute">deutsche Umlaute</a>
+    
+        ,
+        <a href="/tags/favicons">Favicons</a>
+    
+        ,
+        <a href="/tags/github">Github</a>
+    
+        ,
+        <a href="/tags/hugo">Hugo</a>
+    
+        ,
+        <a href="/tags/lithium-theme">Lithium Theme</a>
+    
+        ,
+        <a href="/tags/statische-webseite">statische Webseite</a>
+    
+</p>
+        </section>
+
+    </article>
+
+    
+
+</section>
+
+</main>
+
+<footer>
+
+		<ul class="links">
+
+			
+			<li>
+				<a href="/search/">Suche</a>
+			</li>
+			
+			
+			<li>
+				<a href="/archive/">Archiv</a>
+			</li>
+			
+			<li>
+				<a href="/categories">Kategorien</a>
+			</li>
+			<li>
+				<a href="/tags">Tags</a>
+			</li>
+			 
+			
+			<br>
+			<br>
+			<a>© 2020 Monika Gloor</a>
+			<li>
+				<a href="https://gohugo.io/" title="Made with Hugo" class="links-kudos"><img src="/images/hugo-logo.png" width="22" height="22"></a>
+			</li>
+			<li>
+				<a href="https://github.com/farbenweg/farbenweg.github.io/" title="Farbenweg on GitHub" class="links-kudos"><img src="/images/github-logo.png" width="25" height="25"></a>
+			</li>
+		</ul>
+
+	</footer>
+
+	
+
+</body>
+</html>
+
