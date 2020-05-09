@@ -56,8 +56,8 @@
 
 
     <meta property="og:title" content="Kontakt" />
-<meta property="og:description" content="Fülle bitte das Formular aus, wenn du mich kontaktieren möchtest.
- Deine E-Mail:   Deine Nachricht:   Senden  " />
+<meta property="og:description" content="Bitte fülle das Formular aus, wenn du mich kontaktieren möchtest.
+Dein Name:  Deine E-Mail-Adresse:   Deine Nachricht:   Senden  " />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://farbenweg.ch/kontakt/" />
 
@@ -69,17 +69,17 @@
 <meta name="twitter:image" content="https://farbenweg.ch/images/logo.png"/>
 
 <meta name="twitter:title" content="Kontakt"/>
-<meta name="twitter:description" content="Fülle bitte das Formular aus, wenn du mich kontaktieren möchtest.
- Deine E-Mail:   Deine Nachricht:   Senden  "/>
+<meta name="twitter:description" content="Bitte fülle das Formular aus, wenn du mich kontaktieren möchtest.
+Dein Name:  Deine E-Mail-Adresse:   Deine Nachricht:   Senden  "/>
 
     <meta itemprop="name" content="Kontakt">
-<meta itemprop="description" content="Fülle bitte das Formular aus, wenn du mich kontaktieren möchtest.
- Deine E-Mail:   Deine Nachricht:   Senden  ">
+<meta itemprop="description" content="Bitte fülle das Formular aus, wenn du mich kontaktieren möchtest.
+Dein Name:  Deine E-Mail-Adresse:   Deine Nachricht:   Senden  ">
 
 
 <meta itemprop="datePublished" content="2020-04-27T22:58:00&#43;02:00" />
 <meta itemprop="dateModified" content="2020-04-27T22:58:00&#43;02:00" />
-<meta itemprop="wordCount" content="15">
+<meta itemprop="wordCount" content="17">
 
   <meta itemprop="image" content="https://farbenweg.ch/images/logo.png">
 
@@ -131,27 +131,38 @@
         <h2 class="title">Kontakt</h2>
 
         <section>
-            <p>Fülle bitte das Formular aus, wenn du mich kontaktieren möchtest.</p>
+            <p><img src="/images/feder.jpg" alt="Feder" /></p>
+
+<p>Bitte fülle das Formular aus, wenn du mich kontaktieren möchtest.</p>
 
 <form
   action="https://formspree.io/xeqrqvyo"
   method="POST"
 >
-    <br>
+  <br>
+
+  <label for="full-name">Dein Name:</label>
+  <br>
+  <input type="text" name="name" id="full-name" placeholder="Vor- und Nachname" required="">
+  <br>
+  <br>   
 
   <label>
-    Deine E-Mail:
-    <br>
-    <input type="text" name="_replyto">
+  Deine E-Mail-Adresse:
+  <br>
+  <input type="text" name="_replyto" required="">
   </label>
   <br>
   <br>
+
   <label>
-    Deine Nachricht:
-    <br>
-    <textarea name="message"></textarea>
+  Deine Nachricht:
+  <br>
+  <textarea name="message" required=""></textarea>
   </label>
 
+  <input type="hidden" name="_subject" value="Kontaktaufnahme" />
+  
   <!-- your other form fields go here -->
     <br>
     <br>
@@ -193,7 +204,7 @@
 			
 			<br>
 			<br>
-			<a>© 2020 Monika Gloor</a>
+			<a>© 2020 Monika Gloor </a>
 			<li>
 				<a href="https://gohugo.io/" title="Made with Hugo" class="links-kudos"><img src="/images/hugo-logo.png" width="22" height="22"></a>
 			</li>

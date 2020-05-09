@@ -82,13 +82,13 @@ Eine Hugo-Seite erstellen In der Windows PowerShell erstellen wir den Ordner fü
 
 <meta itemprop="datePublished" content="2020-03-24T06:39:09&#43;02:00" />
 <meta itemprop="dateModified" content="2020-03-24T06:39:09&#43;02:00" />
-<meta itemprop="wordCount" content="1206">
+<meta itemprop="wordCount" content="1310">
 
   <meta itemprop="image" content="https://farbenweg.ch/images/hugo-static-logo.png">
 
 
 
-<meta itemprop="keywords" content="deutsche Umlaute,Favicons,Github,Hugo,Lithium Theme,statische Webseite," />
+<meta itemprop="keywords" content="deutsche Umlaute,Favicons,Github,Hugo,Kontaktform,Lithium Theme,statische Webseite," />
 
 
   </head>
@@ -176,15 +176,15 @@ git clone https://github.com/jrutheiser/hugo-lithium-theme
 cd ../
 </code></pre>
 
-<p>Das Theme kann in lithium umbenannt und in der Konfigurationsdatei config.toml als solches festgelegt werden:</p>
+<p>Das Theme kann in der Konfigurationsdatei config.toml festgelegt werden:</p>
 
 <pre><code>baseURL = &quot;http://localhost:1313/&quot;
 languageCode = &quot;de-de&quot;
 title = &quot;Beispiel Hugo&quot;
-theme = &quot;lithium&quot;
+theme = &quot;hugo-lithium-theme&quot;
 </code></pre>
 
-<p>Dann kopieren wir die Inhalte von ExampleSite in unser Seiten-Verzeichnis.</p>
+<p>Dann kopieren wir die Inhalte von ExampleSite in unser Seiten-Verzeichnis. Das Lithium-Theme kann ich für den Einstieg in Hugo empfehlen. Es ist einfach und übersichtlich.</p>
 
 <h3 id="einen-hugo-inhalt-erstellen">Einen Hugo-Inhalt erstellen</h3>
 
@@ -376,9 +376,18 @@ git push origin master
 &lt;meta name=&quot;theme-color&quot; content=&quot;#ffffff&quot;&gt;
 </code></pre>
 
+<h3 id="erweitertes-hugo-lithium-theme">Erweitertes Hugo-Lithium-Theme</h3>
+
+<p>Nach dem Einstieg in Hugo-Webseiten suchte ich eine Erweiterung mit Bildern zu den Posts. Ich stieß auf das <a href="https://github.com/janikvonrotz/hugo-lithium-theme">Theme von Janik Vonrotz</a>, das vom Lithium-Theme abgeleitet ist.</p>
+
+<pre><code>git clone https://github.com/janikvonrotz/hugo-lithium-theme
+</code></pre>
+
+<p>Neben des Post-Bildes verwendet dieses Theme u.a. eine Suchfunktion, ein Archiv Template und Open Graph Metadaten, die z.B. beim Versenden eines WhatApp Links angezeigt werden.</p>
+
 <h3 id="deutsche-umlaute-in-urls-ersetzen">Deutsche Umlaute in URLs ersetzen</h3>
 
-<p>Die deutschen Umlaute in Post-Titeln sollten in der URL richtig ersetzt werden. Beispielsweise möchte ich den Titel &ldquo;Können&rdquo; nicht als /konnen/, sondern als /können/ in der URL. Deshalb verabschiede ich mich in der config.toml wieder vom Akzent-Entfernen, das ich oben eingeführt hatte. Ausserdem führe ich einen Slug anstelle des Titles ein:</p>
+<p>Die deutschen Umlaute in Post-Titeln sollten in der URL richtig ersetzt werden. Beispielsweise möchte ich den Titel &ldquo;Können&rdquo; nicht als /konnen/, sondern als /können/ in der URL. Deshalb verabschiede ich mich in der config.toml wieder vom Akzent-Entfernen, das ich oben eingeführt hatte. Desweiteren führe ich einen Slug anstelle des Titles ein:</p>
 
 <pre><code># RemovePathAccents = true
 
@@ -432,7 +441,7 @@ images:
 ---
 </code></pre>
 
-<p>Ausserdem können wir mit dem Slug den Titel der Search-Seite anpassen:</p>
+<p>Außerdem können wir mit dem Slug den Titel der Search-Seite anpassen:</p>
 
 <pre><code>---
 title: &quot;Suche&quot;
@@ -441,6 +450,10 @@ date: 2019-06-07T20:22:57+02:00
 disable_comments: true
 ---
 </code></pre>
+
+<h3 id="kontaktformular">Kontaktformular</h3>
+
+<p>Für die Kontakt-Seite verwende ich momentan <a href="https://formspree.io">Formspree</a>. Die Einrichtung erfolgt einfach mit der gewünschte E-Mail-Adresse und ist in wenigen Mausklicks erledigt. HTML-Codes für das Kontaktformular werden bereitgestellt. Mein Formular enthält den Namen, die E-Mail-Adresse und das Nachrichtenfeld.</p>
 
             <p class="categories">Kategorien:&nbsp;
     
@@ -461,6 +474,9 @@ disable_comments: true
     
         ,
         <a href="/tags/hugo">Hugo</a>
+    
+        ,
+        <a href="/tags/kontaktform">Kontaktform</a>
     
         ,
         <a href="/tags/lithium-theme">Lithium Theme</a>
@@ -503,7 +519,7 @@ disable_comments: true
 			
 			<br>
 			<br>
-			<a>© 2020 Monika Gloor</a>
+			<a>© 2020 Monika Gloor </a>
 			<li>
 				<a href="https://gohugo.io/" title="Made with Hugo" class="links-kudos"><img src="/images/hugo-logo.png" width="22" height="22"></a>
 			</li>
