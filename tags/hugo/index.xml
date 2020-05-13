@@ -17,9 +17,9 @@
       <pubDate>Tue, 24 Mar 2020 06:39:09 +0200</pubDate>
       
       <guid>https://farbenweg.ch/2020/03/24/webseite-mit-hugo-erstellen/</guid>
-      <description>Das ist mein erster Post. Heute ist ein sonniger Märztag mit einer kalten Bise. Wie erstelle ich eine Webseite mit Hugo und Github?
-Ich habe mich für eine statische Webseite entschieden. Hier finden wir einen Bericht von Chris über statische Webseiten-Generatoren. Wir benutzen die drei Komponenten Hugo, Windows PowerShell ISE, Visual Studio Code und Github. Chris hat auch einen bebilderten Artikel zum Einstieg in Github-Seiten verfasst.
-Eine Hugo-Seite erstellen In der Windows PowerShell erstellen wir den Ordner für die neue Hugo-Seite.</description>
+      <description>Das ist mein erster Eintrag. Heute ist ein sonniger Märztag mit einer kalten Bise. Wie erstelle ich eine Internetseite für Farbenweg?
+Eine statische Webseite? Ich habe mich für eine statische Webseite entschieden. Hier finden wir einen Bericht von Chris über statische Webseiten-Generatoren . Die statische Webseite wird automatisch aus einer Vorlage (Template) und dem Inhalt (Content) generiert. Als Hauptvorteile gelten schnelle Ladezeiten und hohe Sicherheit der statischen Seiten.
+Die Seite erstelle ich mit den drei Komponenten Hugo, Windows PowerShell ISE und Visual Studio Code.</description>
     </item>
     
   </channel>
