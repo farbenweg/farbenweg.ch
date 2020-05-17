@@ -60,10 +60,14 @@
 ` searchResults.appendChild(article) }) // if results are empty } else { searchResults." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://farbenweg.ch/search/" />
+
+<meta property="og:image" content="https://farbenweg.ch/images/logo.png" />
 <meta property="article:published_time" content="2019-06-07T20:22:57+02:00" />
 <meta property="article:modified_time" content="2019-06-07T20:22:57+02:00" />
 
-    <meta name="twitter:card" content="summary"/>
+    <meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://farbenweg.ch/images/logo.png"/>
+
 <meta name="twitter:title" content="Suche"/>
 <meta name="twitter:description" content="// define globale variables var idx, searchInput, searchResults = null var documents = [] function renderSearchResults(results){ if (results.length  0) { // show max 10 results if (results.length  9){ results = results.slice(0,10) } // reset search results searchResults.innerHTML = &#39;&#39; // append results results.forEach(result = { // create result item var article = document.createElement(&#39;article&#39;) article.innerHTML = ` ${documents[result.ref].title} ${result.ref}
 ` searchResults.appendChild(article) }) // if results are empty } else { searchResults."/>
@@ -76,6 +80,8 @@
 <meta itemprop="datePublished" content="2019-06-07T20:22:57&#43;02:00" />
 <meta itemprop="dateModified" content="2019-06-07T20:22:57&#43;02:00" />
 <meta itemprop="wordCount" content="226">
+
+  <meta itemprop="image" content="https://farbenweg.ch/images/logo.png">
 
 
 
@@ -125,7 +131,7 @@
         <h2 class="title">Suche</h2>
 
         <section>
-            <p><img src="/images/zeichen.jpg" alt="Zeichen" /></p>
+            <p><img src="/images/2020/wegzeichen.jpg" alt="Wegzeichen" /></p>
 
 <script src="https://unpkg.com/lunr/lunr.js"></script>
 <script type="text/javascript">
