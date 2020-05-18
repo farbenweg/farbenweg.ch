@@ -33,6 +33,11 @@
   </url>
   
   <url>
+    <loc>https://farbenweg.ch/tags/selbsterkenntnis/</loc>
+    <lastmod>2020-05-17T19:46:46+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://farbenweg.ch/tags/</loc>
     <lastmod>2020-05-17T19:46:46+02:00</lastmod>
   </url>
@@ -158,12 +163,12 @@
   </url>
   
   <url>
-    <loc>https://farbenweg.ch/categories/atelier/</loc>
+    <loc>https://farbenweg.ch/tags/atelier/</loc>
     <lastmod>2020-03-26T15:46:37+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://farbenweg.ch/tags/atelier/</loc>
+    <loc>https://farbenweg.ch/categories/atelier/</loc>
     <lastmod>2020-03-26T15:46:37+01:00</lastmod>
   </url>
   
@@ -193,7 +198,7 @@
   </url>
   
   <url>
-    <loc>https://farbenweg.ch/tags/kontaktform/</loc>
+    <loc>https://farbenweg.ch/tags/kontaktformular/</loc>
     <lastmod>2020-03-24T06:39:09+02:00</lastmod>
   </url>
   
@@ -203,17 +208,17 @@
   </url>
   
   <url>
-    <loc>https://farbenweg.ch/tags/statische-webseite/</loc>
+    <loc>https://farbenweg.ch/tags/statische-website/</loc>
     <lastmod>2020-03-24T06:39:09+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://farbenweg.ch/categories/webseite/</loc>
+    <loc>https://farbenweg.ch/categories/website/</loc>
     <lastmod>2020-03-24T06:39:09+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://farbenweg.ch/2020/03/24/webseite-mit-hugo-erstellen/</loc>
+    <loc>https://farbenweg.ch/2020/03/24/website-mit-hugo-erstellen/</loc>
     <lastmod>2020-03-24T06:39:09+02:00</lastmod>
   </url>
   
