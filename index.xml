@@ -6,10 +6,33 @@
     <description>Recent content on Farbenweg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Sun, 17 May 2020 19:46:46 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2020 23:21:37 +0200</lastBuildDate>
     
 	<atom:link href="https://farbenweg.ch/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Datenschutzerklärung</title>
+      <link>https://farbenweg.ch/datenschutzerklaerung/</link>
+      <pubDate>Wed, 20 May 2020 23:21:37 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/datenschutzerklaerung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impressum</title>
+      <link>https://farbenweg.ch/impressum/</link>
+      <pubDate>Wed, 20 May 2020 23:19:49 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/impressum/</guid>
+      <description>Websitebetreiberin Monika Gloor
+Dorneckstrasse 89
+4143 Dornach
+Copyright Das Copyright für sämtliche Inhalte dieser Website liegt bei Monika Gloor.
+Disclaimer Die Texte, Bilder und Links wurden sorgfältig geprüft und werden laufend aktualisiert. Ich bin bemüht, richtige und vollständige Informationen auf dieser Website bereitzustellen, übernehme aber keinerlei Verantwortung, Garantie oder Haftung dafür, dass die durch diese Website bereitgestellten Informationen richtig, vollständig oder aktuell sind.
+Die Links zu externen Anbietern wurden zum Zeitpunkt ihrer Aufnahme auf ihre Richtigkeit überprüft, dennoch hafte ich nicht für Inhalte und Verfügbarkeit von Websites, die mittels Hyperlinks zu erreichen sind.</description>
+    </item>
     
     <item>
       <title>Diagonalen purpurrot malen</title>
@@ -120,6 +143,16 @@ Atelier Lege selbst Hand an. Das Atelier ist im Entstehen. Kreatives Schaffen mi
     </item>
     
     <item>
+      <title>Suche</title>
+      <link>https://farbenweg.ch/search/</link>
+      <pubDate>Mon, 27 Apr 2020 08:22:57 +0000</pubDate>
+      
+      <guid>https://farbenweg.ch/search/</guid>
+      <description>// define globale variables var idx, searchInput, searchResults = null var documents = [] function renderSearchResults(results){ if (results.length  0) { // show max 10 results if (results.length  9){ results = results.slice(0,10) } // reset search results searchResults.innerHTML = &#39;&#39; // append results results.forEach(result = { // create result item var article = document.createElement(&#39;article&#39;) article.innerHTML = ` ${documents[result.ref].title} ${result.ref}
+` searchResults.appendChild(article) }) // if results are empty } else { searchResults.</description>
+    </item>
+    
+    <item>
       <title>Über</title>
       <link>https://farbenweg.ch/ueber/</link>
       <pubDate>Mon, 27 Apr 2020 08:22:57 +0000</pubDate>
@@ -209,16 +242,6 @@ und wir wieder fließen.</description>
       <description>Das ist mein erster Eintrag. Heute ist ein sonniger Märztag mit einer kalten Bise. Wie erstelle ich eine Website für Farbenweg?
 Eine statische Website? Ich habe mich für eine statische Website entschieden. Hier finden wir einen Bericht von Chris über statische Website-Generatoren. Die statische Website wird automatisch aus einer Vorlage (Template) und dem Inhalt (Content) generiert. Als Hauptvorteile gelten schnelle Ladezeiten und hohe Sicherheit der statischen Sites.
 Die Website erstelle ich mit den drei Komponenten Hugo, Windows PowerShell ISE und Visual Studio Code.</description>
-    </item>
-    
-    <item>
-      <title>Suche</title>
-      <link>https://farbenweg.ch/search/</link>
-      <pubDate>Fri, 07 Jun 2019 20:22:57 +0200</pubDate>
-      
-      <guid>https://farbenweg.ch/search/</guid>
-      <description>// define globale variables var idx, searchInput, searchResults = null var documents = [] function renderSearchResults(results){ if (results.length  0) { // show max 10 results if (results.length  9){ results = results.slice(0,10) } // reset search results searchResults.innerHTML = &#39;&#39; // append results results.forEach(result = { // create result item var article = document.createElement(&#39;article&#39;) article.innerHTML = ` ${documents[result.ref].title} ${result.ref}
-` searchResults.appendChild(article) }) // if results are empty } else { searchResults.</description>
     </item>
     
   </channel>

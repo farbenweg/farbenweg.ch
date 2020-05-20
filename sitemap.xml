@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://farbenweg.ch/datenschutzerklaerung/</loc>
+    <lastmod>2020-05-20T23:21:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://farbenweg.ch/</loc>
+    <lastmod>2020-05-20T23:21:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://farbenweg.ch/page/</loc>
+    <lastmod>2020-05-20T23:21:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://farbenweg.ch/impressum/</loc>
+    <lastmod>2020-05-20T23:19:49+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://farbenweg.ch/categories/</loc>
     <lastmod>2020-05-17T19:46:46+02:00</lastmod>
   </url>
@@ -14,11 +34,6 @@
   
   <url>
     <loc>https://farbenweg.ch/tags/exot/</loc>
-    <lastmod>2020-05-17T19:46:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://farbenweg.ch/</loc>
     <lastmod>2020-05-17T19:46:46+02:00</lastmod>
   </url>
   
@@ -68,11 +83,6 @@
   </url>
   
   <url>
-    <loc>https://farbenweg.ch/page/</loc>
-    <lastmod>2020-05-01T07:05:07+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://farbenweg.ch/2020/04/28/auf-rinden-zu-finden/</loc>
     <lastmod>2020-04-28T07:38:30+02:00</lastmod>
   </url>
@@ -99,6 +109,11 @@
   
   <url>
     <loc>https://farbenweg.ch/farbenweg/</loc>
+    <lastmod>2020-04-27T08:22:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://farbenweg.ch/search/</loc>
     <lastmod>2020-04-27T08:22:57+00:00</lastmod>
   </url>
   
@@ -220,11 +235,6 @@
   <url>
     <loc>https://farbenweg.ch/2020/03/24/website-mit-hugo-erstellen/</loc>
     <lastmod>2020-03-24T06:39:09+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://farbenweg.ch/search/</loc>
-    <lastmod>2019-06-07T20:22:57+02:00</lastmod>
   </url>
   
 </urlset>
