@@ -33,6 +33,12 @@ h3 {
 	line-height: 1.5;
 	margin-top: 60px;
 }
+h4 {
+	font-size: 20px;
+	line-height: 1.5;
+	margin-top: 40px;
+	margin-bottom: 0px;
+}
 
 p, li, td, th {
 	font-family: 'Lato', sans-serif;
@@ -88,14 +94,17 @@ section.archive a {
 pre {
 	line-height: 1.8;
 }
-blockquote {
-	font-size: 1.4em;
-	line-height:1.6;
+blockquote p {
+	font-family: 'Merienda', sans-serif; /*monika*/
+	font-size: 1.1em;
+	line-height: 1.5;
+	color: rgb(94, 221, 94)
 }
 blockquote::before {
-	font-family: Arial;
-	color:#A2DAC3;
-	font-size: 4em;
+	font-family: 'Merienda', sans-serif; /*monika*/
+	/*color: #A2DAC3;*/
+	font-size: 7em;
+	color: rgb(221, 253, 221)
 }
 label, input, button {
 	font-family: 'Lato', sans-serif;
@@ -290,18 +299,21 @@ article a:focus {
 }
 article blockquote {
 	width:60%;
-	margin:50px auto;
+	margin:15px auto;
 	padding:1.2em 30px 1.2em 75px;
-	border-left:8px solid #A2DAC3 ;
+	/*border-left:8px solid #A2DAC3 ;*/
+	/*border-left:6px solid rgb(94, 221, 94); /*monika*/
 	position: relative;
-	background:#f5f5f5;
+	/*background:#f5f5f5;*/
+
 }
 article blockquote::before {
-	content: "\201C";
+	content: "\201E";
 	position: absolute;
-	left: 10px;
-	top:-10px;
+	left: 15px;
+	top: -45px;
 }
+
 
 /* Archive */
 
