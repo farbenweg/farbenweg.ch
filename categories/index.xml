@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Farbenweg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Sun, 17 May 2020 19:46:46 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2020 19:30:29 +0200</lastBuildDate>
     
 	<atom:link href="https://farbenweg.ch/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Leben</title>
+      <link>https://farbenweg.ch/categories/leben/</link>
+      <pubDate>Sat, 23 May 2020 19:30:29 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/categories/leben/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Gedichte</title>
@@ -17,15 +26,6 @@
       <pubDate>Sun, 17 May 2020 19:46:46 +0200</pubDate>
       
       <guid>https://farbenweg.ch/categories/gedichte/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Leben</title>
-      <link>https://farbenweg.ch/categories/leben/</link>
-      <pubDate>Sat, 09 May 2020 22:23:10 +0200</pubDate>
-      
-      <guid>https://farbenweg.ch/categories/leben/</guid>
       <description></description>
     </item>
     
