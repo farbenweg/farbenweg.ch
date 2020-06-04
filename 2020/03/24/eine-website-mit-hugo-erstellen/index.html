@@ -27,6 +27,7 @@
 
 
 <link rel="shortcut icon" href="favicon.ico">
+<link rel="icon" type="image/png" href="favicon.png" /> 
 
 <link rel="icon" type="image/ico" sizes="16x16" href="/favicon.ico">
 <link rel="icon" type="image/ico" sizes="32x32" href="/favicon.ico">
@@ -184,7 +185,7 @@ if (!doNotTrack) {
 <h3 id="die-hugo-website-erstellen">Die Hugo-Website erstellen</h3>
 
 <p>In der Windows PowerShell erstellen wir den Ordner für die neue Hugo-Website. In meinem Fall heißt der Ordner
-&ldquo;blog-farbenweg&rdquo;:</p>
+„blog-farbenweg“:</p>
 
 <pre><code>md blog-farbenweg
 cd blog-farbenweg
@@ -404,7 +405,7 @@ git push origin master
 
 <h3 id="deutsche-umlaute-in-urls-ersetzen">Deutsche Umlaute in URLs ersetzen</h3>
 
-<p>Die deutschen Umlaute in Post-Titeln sollten in der URL richtig ersetzt werden. Beispielsweise möchte ich den Titel &ldquo;Können&rdquo; nicht als /konnen/, sondern als /können/ in der URL. Deshalb verabschiede ich mich in der config.toml wieder vom Akzent-Entfernen, das ich eingeführt hatte. Stattdessen führe ich einen Slug anstelle des Titles ein:</p>
+<p>Die deutschen Umlaute in Post-Titeln sollten in der URL richtig ersetzt werden. Beispielsweise möchte ich den Titel „Können“ nicht als /konnen/, sondern als /können/ in der URL. Deshalb verabschiede ich mich in der config.toml wieder vom Akzent-Entfernen, das ich eingeführt hatte. Stattdessen führe ich einen Slug anstelle des Titles ein:</p>
 
 <pre><code># RemovePathAccents = true
 
@@ -423,7 +424,7 @@ draft: false
 ---
 </code></pre>
 
-<p>Das &ldquo;Ü&rdquo; in der &ldquo;Über&rdquo;-Seite einfach durch ein &ldquo;U&rdquo; zu ersetzen, entspräche nicht der Bedeutung des Wortes&hellip; Es geht ja nicht um ein Taxiunternehmen 😄. Deshalb habe ich in der config.toml auch einen Slug für die Page eingeführt und die URL geändert:</p>
+<p>Das „Ü“ in der „Über“-Seite einfach durch ein „U“ zu ersetzen, entspräche nicht der Bedeutung des Wortes&hellip; Es geht ja nicht um ein Taxiunternehmen 😄. Deshalb habe ich in der config.toml auch einen Slug für die Page eingeführt und die URL geändert:</p>
 
 <pre><code># RemovePathAccents = true
 
