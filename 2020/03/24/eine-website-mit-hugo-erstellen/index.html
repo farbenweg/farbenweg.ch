@@ -28,7 +28,6 @@
 
 
 
-<link rel="shortcut icon" href="favicon1.ico">
 <link rel="shortcut icon" href="/favicon1.ico">
 <link rel="icon" type="image/png" href="/favicon.png" /> 
 
@@ -87,7 +86,7 @@
 
 <meta itemprop="datePublished" content="2020-03-24T06:39:09&#43;02:00" />
 <meta itemprop="dateModified" content="2020-03-24T06:39:09&#43;02:00" />
-<meta itemprop="wordCount" content="1418">
+<meta itemprop="wordCount" content="1567">
 
   <meta itemprop="image" content="https://farbenweg.ch/images/2020/hugo-static-logo.png">
 
@@ -488,6 +487,46 @@ disable_comments: true
 </tr>
 </tbody>
 </table>
+
+<h3 id="google-analytics-einbinden">Google Analytics einbinden</h3>
+
+<p>Um Google Analytics auf die Website einzubinden, fügte ich im header.html die folgende Zeile ein:</p>
+
+<pre><code>{{ template &quot;_internal/google_analytics.html&quot; . }}
+</code></pre>
+
+<p>Ich registrierte mich und fügte meine Tracking-ID in der config.toml ein:</p>
+
+<pre><code>googleAnalytics = &quot;UA-xxxxxxxxx-x&quot;
+</code></pre>
+
+<p>Dann machte ich folgende Sicherheits-Einstellungen in der config.toml:</p>
+
+<pre><code>[privacy]
+    [privacy.disqus]
+        disable = true
+    [privacy.googleAnalytics]
+        anonymizeIP = true
+        disable = false
+    [privacy.instagram]
+        disable = true
+    [privacy.twitter]
+        disable = true
+    [privacy.vimeo]
+        disable = true
+    [privacy.youtube]
+        disable = true
+</code></pre>
+
+<p>In der Datei head.html ergänzte ich ein favicon, das den Google-Richtlinien entspricht. Das ist ein Icon des Typs &ldquo;shortcut icon&rdquo; in der Größe eines Vielfachen von 48 x 48 Pixel:</p>
+
+<pre><code>&lt;link rel=&quot;shortcut icon&quot; href=&quot;/favicon1.ico&quot;&gt;
+</code></pre>
+
+<p>In der Google Search Console beantragte ich die Indexierung für einzelne Seiten meiner Website. Die automatische Indexierung ließ noch ein paar Stunden auf sich warten. Am längsten dauerte es, bis das Favicon in den mobilen Suchergebnissen auftauchte. Jetzt sieht es so aus:</p>
+
+<p><img src="/images/2020/suchergebnis1.jpg" alt="Suchergebnis1" />
+<img src="/images/2020/suchergebnis2.jpg" alt="Suchergebnis2" /></p>
 
             <br/>
 <br/>
