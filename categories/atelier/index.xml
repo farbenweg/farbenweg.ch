@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Atelier on Farbenweg</title>
+    <link>https://farbenweg.ch/categories/atelier/</link>
+    <description>Recent content in Atelier on Farbenweg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Mon, 27 Apr 2020 08:22:57 +0000</lastBuildDate>
+    
+	<atom:link href="https://farbenweg.ch/categories/atelier/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Atelier</title>
+      <link>https://farbenweg.ch/atelier/</link>
+      <pubDate>Mon, 27 Apr 2020 08:22:57 +0000</pubDate>
+      
+      <guid>https://farbenweg.ch/atelier/</guid>
+      <description>Wie sieht Ihr Weg aus? Mit welchen Farben und Formen gestalten Sie ihn? Welche Farb- und Richtungswechsel stehen an?
+Im Atelier können Sie ankommen und experimentieren. Mit kreativen Mitteln endecken Sie neue Wege. Hindernisse werden sichtbar und bearbeitbar. Beim malerischen und gestalterischen Schaffen reaktivieren Sie schlummernde Kräfte. Damit gehen Sie auf Ihrem selbstbestimmten Weg weiter.
+Das Atelier ist im Entstehen. Gerne begleite ich Sie auf der Suche nach Ihrem persönlichen Farbenweg.</description>
+    </item>
+    
+  </channel>
+</rss>
