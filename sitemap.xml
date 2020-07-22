@@ -23,11 +23,6 @@
   </url>
   
   <url>
-    <loc>https://farbenweg.ch/categories/leben/</loc>
-    <lastmod>2020-07-12T21:36:37+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://farbenweg.ch/post/</loc>
     <lastmod>2020-07-12T21:36:37+02:00</lastmod>
   </url>
@@ -208,6 +203,11 @@
   </url>
   
   <url>
+    <loc>https://farbenweg.ch/categories/artikel/</loc>
+    <lastmod>2020-05-23T19:30:29+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://farbenweg.ch/tags/atem/</loc>
     <lastmod>2020-05-23T19:30:29+02:00</lastmod>
   </url>
@@ -288,7 +288,17 @@
   </url>
   
   <url>
+    <loc>https://farbenweg.ch/categories/atelier/</loc>
+    <lastmod>2020-05-20T23:19:49+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://farbenweg.ch/impressum/</loc>
+    <lastmod>2020-05-20T23:19:49+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://farbenweg.ch/categories/monika-gloor/</loc>
     <lastmod>2020-05-20T23:19:49+02:00</lastmod>
   </url>
   
@@ -343,12 +353,12 @@
   </url>
   
   <url>
-    <loc>https://farbenweg.ch/categories/atelier/</loc>
+    <loc>https://farbenweg.ch/atelier/</loc>
     <lastmod>2020-04-27T08:22:57+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://farbenweg.ch/atelier/</loc>
+    <loc>https://farbenweg.ch/categories/gestalten/</loc>
     <lastmod>2020-04-27T08:22:57+00:00</lastmod>
   </url>
   

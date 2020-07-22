@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artikel on Farbenweg</title>
+    <link>https://farbenweg.ch/categories/artikel/</link>
+    <description>Recent content in Artikel on Farbenweg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Sat, 23 May 2020 19:30:29 +0200</lastBuildDate>
+    
+	<atom:link href="https://farbenweg.ch/categories/artikel/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Von steinigen Wegen</title>
+      <link>https://farbenweg.ch/2020/05/23/von-steinigen-wegen/</link>
+      <pubDate>Sat, 23 May 2020 19:30:29 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/2020/05/23/von-steinigen-wegen/</guid>
+      <description>Vor zwei Wochen nahm ich an einem viertägigen Online-Seminar über die Grundlagen der Psychologie teil. Am zweiten Tag meldete sich meine Kollegin zu Wort: „Ich hätte da eine Frage. Sie beschäftigt mich schon die ganze Zeit&amp;hellip;“ Aufgrund ihres Gesichtsausdrucks und ihrer Stimme, vermutete ich, dass es um eine essenzielle Frage ging. In diesem Moment brach meine Internet-Verbindung ab. Die Dringlichkeit ihrer Stimme klang nach und ich übte mich in Geduld&amp;hellip; Eine Viertelstunde lang konnte die Verbindung nicht wieder hergestellt werden.</description>
+    </item>
+    
+    <item>
+      <title>Wie verlasse ich meine Autobahn?</title>
+      <link>https://farbenweg.ch/2020/04/18/wie-verlasse-ich-meine-autobahn/</link>
+      <pubDate>Sat, 18 Apr 2020 08:22:30 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/2020/04/18/wie-verlasse-ich-meine-autobahn/</guid>
+      <description>Gestern spazierte ich mit einer Nachbarin auf einem Waldpfad. Sie fragte mich: „Passiert es dir in deiner Ausbildung auch, dass du es dir nicht zutraust eine Aufgabe zu erfüllen? Und wie gehst du dann vor?“ - „Ja, das kenne ich“, antwortete ich. „Das geschieht oft und ich mache es trotzdem. Einfach tun. Dann ergibt sich ein Weg.“
+In der Ausbildung kommt die Aufgabe von außen. Wie schaffe ich es von innen, mich neuen Herausforderungen zu stellen?</description>
+    </item>
+    
+    <item>
+      <title>Eine Website mit Hugo erstellen</title>
+      <link>https://farbenweg.ch/2020/03/24/eine-website-mit-hugo-erstellen/</link>
+      <pubDate>Tue, 24 Mar 2020 06:39:09 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/2020/03/24/eine-website-mit-hugo-erstellen/</guid>
+      <description>Das ist mein erster Eintrag. Heute ist ein sonniger Märztag mit einer kalten Bise. Wie erstelle ich eine Website für Farbenweg?
+Eine statische Website? Ich habe mich für eine statische Website entschieden. Hier finden wir einen Bericht von Chris über statische Website-Generatoren. Die statische Website wird automatisch aus einer Vorlage (Template) und dem Inhalt (Content) generiert. Als Hauptvorteile gelten schnelle Ladezeiten und hohe Sicherheit der statischen Sites.
+Die Website erstelle ich mit den drei Komponenten Hugo, Windows PowerShell ISE und Visual Studio Code.</description>
+    </item>
+    
+  </channel>
+</rss>
