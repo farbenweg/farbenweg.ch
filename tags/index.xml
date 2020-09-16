@@ -6,33 +6,42 @@
     <description>Recent content in Tags on Farbenweg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Mon, 07 Sep 2020 21:31:44 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2020 23:20:52 +0200</lastBuildDate>
     
 	<atom:link href="https://farbenweg.ch/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Balancieren</title>
-      <link>https://farbenweg.ch/tags/balancieren/</link>
-      <pubDate>Mon, 07 Sep 2020 21:31:44 +0200</pubDate>
+      <title>Abenteuer</title>
+      <link>https://farbenweg.ch/tags/abenteuer/</link>
+      <pubDate>Wed, 16 Sep 2020 23:20:52 +0200</pubDate>
       
-      <guid>https://farbenweg.ch/tags/balancieren/</guid>
+      <guid>https://farbenweg.ch/tags/abenteuer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Boden</title>
       <link>https://farbenweg.ch/tags/boden/</link>
-      <pubDate>Mon, 07 Sep 2020 21:31:44 +0200</pubDate>
+      <pubDate>Wed, 16 Sep 2020 23:20:52 +0200</pubDate>
       
       <guid>https://farbenweg.ch/tags/boden/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Dankbarkeit</title>
+      <link>https://farbenweg.ch/tags/dankbarkeit/</link>
+      <pubDate>Wed, 16 Sep 2020 23:20:52 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/tags/dankbarkeit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Erde</title>
       <link>https://farbenweg.ch/tags/erde/</link>
-      <pubDate>Mon, 07 Sep 2020 21:31:44 +0200</pubDate>
+      <pubDate>Wed, 16 Sep 2020 23:20:52 +0200</pubDate>
       
       <guid>https://farbenweg.ch/tags/erde/</guid>
       <description></description>
@@ -41,9 +50,63 @@
     <item>
       <title>Halt</title>
       <link>https://farbenweg.ch/tags/halt/</link>
-      <pubDate>Mon, 07 Sep 2020 21:31:44 +0200</pubDate>
+      <pubDate>Wed, 16 Sep 2020 23:20:52 +0200</pubDate>
       
       <guid>https://farbenweg.ch/tags/halt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Klänge</title>
+      <link>https://farbenweg.ch/tags/kl%C3%A4nge/</link>
+      <pubDate>Wed, 16 Sep 2020 23:20:52 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/tags/kl%C3%A4nge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mut</title>
+      <link>https://farbenweg.ch/tags/mut/</link>
+      <pubDate>Wed, 16 Sep 2020 23:20:52 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/tags/mut/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Schmerz</title>
+      <link>https://farbenweg.ch/tags/schmerz/</link>
+      <pubDate>Wed, 16 Sep 2020 23:20:52 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/tags/schmerz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wachsen</title>
+      <link>https://farbenweg.ch/tags/wachsen/</link>
+      <pubDate>Wed, 16 Sep 2020 23:20:52 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/tags/wachsen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wunden</title>
+      <link>https://farbenweg.ch/tags/wunden/</link>
+      <pubDate>Wed, 16 Sep 2020 23:20:52 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/tags/wunden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Balancieren</title>
+      <link>https://farbenweg.ch/tags/balancieren/</link>
+      <pubDate>Mon, 07 Sep 2020 21:31:44 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/tags/balancieren/</guid>
       <description></description>
     </item>
     
@@ -116,15 +179,6 @@
       <pubDate>Sun, 16 Aug 2020 22:24:02 +0200</pubDate>
       
       <guid>https://farbenweg.ch/tags/polarit%C3%A4t/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wachsen</title>
-      <link>https://farbenweg.ch/tags/wachsen/</link>
-      <pubDate>Sun, 16 Aug 2020 22:24:02 +0200</pubDate>
-      
-      <guid>https://farbenweg.ch/tags/wachsen/</guid>
       <description></description>
     </item>
     
@@ -291,15 +345,6 @@
     </item>
     
     <item>
-      <title>Klänge</title>
-      <link>https://farbenweg.ch/tags/kl%C3%A4nge/</link>
-      <pubDate>Mon, 29 Jun 2020 22:16:10 +0200</pubDate>
-      
-      <guid>https://farbenweg.ch/tags/kl%C3%A4nge/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Regen</title>
       <link>https://farbenweg.ch/tags/regen/</link>
       <pubDate>Mon, 29 Jun 2020 22:16:10 +0200</pubDate>
@@ -314,15 +359,6 @@
       <pubDate>Mon, 29 Jun 2020 22:16:10 +0200</pubDate>
       
       <guid>https://farbenweg.ch/tags/trauer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dankbarkeit</title>
-      <link>https://farbenweg.ch/tags/dankbarkeit/</link>
-      <pubDate>Fri, 19 Jun 2020 22:30:44 +0200</pubDate>
-      
-      <guid>https://farbenweg.ch/tags/dankbarkeit/</guid>
       <description></description>
     </item>
     
