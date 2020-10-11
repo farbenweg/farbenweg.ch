@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Farbenweg</title>
+    <link>https://farbenweg.ch/categories/blog/</link>
+    <description>Recent content in Blog on Farbenweg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Mon, 27 Apr 2020 08:22:57 +0000</lastBuildDate>
+    
+	<atom:link href="https://farbenweg.ch/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Über</title>
+      <link>https://farbenweg.ch/ueber/</link>
+      <pubDate>Mon, 27 Apr 2020 08:22:57 +0000</pubDate>
+      
+      <guid>https://farbenweg.ch/ueber/</guid>
+      <description>Sie haben graue Wege satt.
+Sie suchen neue Wege.
+In Ihrem Alltag wünschen Sie sich mehr Farben.
+Aus der Veränderung möchten Sie gestärkt weiter gehen.
+Dann sind Sie richtig auf dem Farbenweg. In meinem Blog geht es um Wege, Farben und Veränderungen. Ich male, schreibe und dichte über den Mut zur Veränderung. Ich male, schreibe und dichte nicht nur über die Veränderung, sondern ich lebe die Veränderungen auch.
+Irgendwann hatte ich den Weg satt, zu dem mich meine Vergangenheit geführt hatte.</description>
+    </item>
+    
+  </channel>
+</rss>
