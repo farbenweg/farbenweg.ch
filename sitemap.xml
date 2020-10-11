@@ -473,6 +473,11 @@
   </url>
   
   <url>
+    <loc>https://farbenweg.ch/categories/blog/</loc>
+    <lastmod>2020-04-27T22:58:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://farbenweg.ch/kontakt/</loc>
     <lastmod>2020-04-27T22:58:00+02:00</lastmod>
   </url>
@@ -483,17 +488,22 @@
   </url>
   
   <url>
-    <loc>https://farbenweg.ch/categories/blog/</loc>
+    <loc>https://farbenweg.ch/tags/ausdruck/</loc>
     <lastmod>2020-04-27T08:22:57+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://farbenweg.ch/categories/farben/</loc>
+    <loc>https://farbenweg.ch/tags/gestalten/</loc>
     <lastmod>2020-04-27T08:22:57+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://farbenweg.ch/categories/gestalten/</loc>
+    <loc>https://farbenweg.ch/tags/kunst/</loc>
+    <lastmod>2020-04-27T08:22:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://farbenweg.ch/tags/malen/</loc>
     <lastmod>2020-04-27T08:22:57+00:00</lastmod>
   </url>
   
@@ -503,12 +513,7 @@
   </url>
   
   <url>
-    <loc>https://farbenweg.ch/categories/ver%C3%A4nderungen/</loc>
-    <lastmod>2020-04-27T08:22:57+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://farbenweg.ch/categories/wege/</loc>
+    <loc>https://farbenweg.ch/tags/ver%C3%A4nderungen/</loc>
     <lastmod>2020-04-27T08:22:57+00:00</lastmod>
   </url>
   

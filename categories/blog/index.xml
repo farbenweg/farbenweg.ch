@@ -6,10 +6,20 @@
     <description>Recent content in Blog on Farbenweg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Mon, 27 Apr 2020 08:22:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2020 22:58:00 +0200</lastBuildDate>
     
 	<atom:link href="https://farbenweg.ch/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Kontakt</title>
+      <link>https://farbenweg.ch/kontakt/</link>
+      <pubDate>Mon, 27 Apr 2020 22:58:00 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/kontakt/</guid>
+      <description>Wenn Sie mich kontaktieren möchten, können Sie das untenstehende Fomular ausfüllen. Dieses Formular nutzt den Webdienst Formspree. Genauere Informationen finden Sie in der Datenschutzerklärung. Sie haben auch die Möglichkeit mir direkt eine E-Mail an die im Impressum erwähnte Adresse zu senden.
+Ihr Name:  Ihre E-Mail-Adresse:   Ihre Nachricht:   Senden  </description>
+    </item>
     
     <item>
       <title>Über</title>
@@ -23,6 +33,17 @@ In Ihrem Alltag wünschen Sie sich mehr Farben.
 Aus der Veränderung möchten Sie gestärkt weiter gehen.
 Dann sind Sie richtig auf dem Farbenweg. In meinem Blog geht es um Wege, Farben und Veränderungen. Ich male, schreibe und dichte über den Mut zur Veränderung. Ich male, schreibe und dichte nicht nur über die Veränderung, sondern ich lebe die Veränderungen auch.
 Irgendwann hatte ich den Weg satt, zu dem mich meine Vergangenheit geführt hatte.</description>
+    </item>
+    
+    <item>
+      <title>Eine Website mit Hugo erstellen</title>
+      <link>https://farbenweg.ch/2020/03/24/eine-website-mit-hugo-erstellen/</link>
+      <pubDate>Tue, 24 Mar 2020 06:39:09 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/2020/03/24/eine-website-mit-hugo-erstellen/</guid>
+      <description>Das ist mein erster Eintrag. Heute ist ein sonniger Märztag mit einer kalten Bise. Wie erstelle ich eine Website für Farbenweg?
+Eine statische Website? Ich habe mich für eine statische Website entschieden. Hier finden wir einen Bericht von Chris über statische Website-Generatoren. Die statische Website wird automatisch aus einer Vorlage (Template) und dem Inhalt (Content) generiert. Als Hauptvorteile gelten schnelle Ladezeiten und hohe Sicherheit der statischen Sites.
+Die Website erstelle ich mit den drei Komponenten Hugo, Windows PowerShell ISE und Visual Studio Code.</description>
     </item>
     
   </channel>
