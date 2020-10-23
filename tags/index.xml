@@ -6,10 +6,37 @@
     <description>Recent content in Tags on Farbenweg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Fri, 25 Sep 2020 20:57:57 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2020 22:09:20 +0200</lastBuildDate>
     
 	<atom:link href="https://farbenweg.ch/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Dunkelheit</title>
+      <link>https://farbenweg.ch/tags/dunkelheit/</link>
+      <pubDate>Thu, 22 Oct 2020 22:09:20 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/tags/dunkelheit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Licht</title>
+      <link>https://farbenweg.ch/tags/licht/</link>
+      <pubDate>Thu, 22 Oct 2020 22:09:20 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/tags/licht/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resonanz</title>
+      <link>https://farbenweg.ch/tags/resonanz/</link>
+      <pubDate>Thu, 22 Oct 2020 22:09:20 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/tags/resonanz/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Erforschen</title>
@@ -192,38 +219,11 @@
     </item>
     
     <item>
-      <title>Dualität</title>
-      <link>https://farbenweg.ch/tags/dualit%C3%A4t/</link>
-      <pubDate>Sun, 16 Aug 2020 22:24:02 +0200</pubDate>
-      
-      <guid>https://farbenweg.ch/tags/dualit%C3%A4t/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dunkelheit</title>
-      <link>https://farbenweg.ch/tags/dunkelheit/</link>
-      <pubDate>Sun, 16 Aug 2020 22:24:02 +0200</pubDate>
-      
-      <guid>https://farbenweg.ch/tags/dunkelheit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Einheit</title>
       <link>https://farbenweg.ch/tags/einheit/</link>
       <pubDate>Sun, 16 Aug 2020 22:24:02 +0200</pubDate>
       
       <guid>https://farbenweg.ch/tags/einheit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Licht</title>
-      <link>https://farbenweg.ch/tags/licht/</link>
-      <pubDate>Sun, 16 Aug 2020 22:24:02 +0200</pubDate>
-      
-      <guid>https://farbenweg.ch/tags/licht/</guid>
       <description></description>
     </item>
     
@@ -458,6 +458,15 @@
       <pubDate>Fri, 19 Jun 2020 22:30:44 +0200</pubDate>
       
       <guid>https://farbenweg.ch/tags/universell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dualität</title>
+      <link>https://farbenweg.ch/tags/dualit%C3%A4t/</link>
+      <pubDate>Mon, 15 Jun 2020 16:17:03 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/tags/dualit%C3%A4t/</guid>
       <description></description>
     </item>
     

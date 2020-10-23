@@ -4,7 +4,47 @@
   
   <url>
     <loc>https://farbenweg.ch/categories/</loc>
-    <lastmod>2020-09-25T20:57:57+02:00</lastmod>
+    <lastmod>2020-10-22T22:09:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://farbenweg.ch/tags/dunkelheit/</loc>
+    <lastmod>2020-10-22T22:09:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://farbenweg.ch/</loc>
+    <lastmod>2020-10-22T22:09:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://farbenweg.ch/tags/licht/</loc>
+    <lastmod>2020-10-22T22:09:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://farbenweg.ch/post/</loc>
+    <lastmod>2020-10-22T22:09:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://farbenweg.ch/tags/resonanz/</loc>
+    <lastmod>2020-10-22T22:09:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://farbenweg.ch/tags/</loc>
+    <lastmod>2020-10-22T22:09:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://farbenweg.ch/categories/text/</loc>
+    <lastmod>2020-10-22T22:09:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://farbenweg.ch/2020/10/22/vertrauen-aus-der-dunkelheit/</loc>
+    <lastmod>2020-10-22T22:09:20+02:00</lastmod>
   </url>
   
   <url>
@@ -14,11 +54,6 @@
   
   <url>
     <loc>https://farbenweg.ch/tags/farben/</loc>
-    <lastmod>2020-09-25T20:57:57+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://farbenweg.ch/</loc>
     <lastmod>2020-09-25T20:57:57+02:00</lastmod>
   </url>
   
@@ -49,16 +84,6 @@
   
   <url>
     <loc>https://farbenweg.ch/tags/mut/</loc>
-    <lastmod>2020-09-25T20:57:57+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://farbenweg.ch/post/</loc>
-    <lastmod>2020-09-25T20:57:57+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://farbenweg.ch/tags/</loc>
     <lastmod>2020-09-25T20:57:57+02:00</lastmod>
   </url>
   
@@ -143,22 +168,7 @@
   </url>
   
   <url>
-    <loc>https://farbenweg.ch/tags/dualit%C3%A4t/</loc>
-    <lastmod>2020-08-16T22:24:02+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://farbenweg.ch/tags/dunkelheit/</loc>
-    <lastmod>2020-08-16T22:24:02+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://farbenweg.ch/tags/einheit/</loc>
-    <lastmod>2020-08-16T22:24:02+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://farbenweg.ch/tags/licht/</loc>
     <lastmod>2020-08-16T22:24:02+02:00</lastmod>
   </url>
   
@@ -320,6 +330,11 @@
   <url>
     <loc>https://farbenweg.ch/tags/universell/</loc>
     <lastmod>2020-06-19T22:30:44+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://farbenweg.ch/tags/dualit%C3%A4t/</loc>
+    <lastmod>2020-06-15T16:17:03+02:00</lastmod>
   </url>
   
   <url>
