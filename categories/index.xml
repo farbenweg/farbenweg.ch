@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Farbenweg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Thu, 22 Oct 2020 22:09:20 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2020 08:23:14 +0000</lastBuildDate>
     
 	<atom:link href="https://farbenweg.ch/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Angebot</title>
+      <link>https://farbenweg.ch/categories/angebot/</link>
+      <pubDate>Wed, 04 Nov 2020 08:23:14 +0000</pubDate>
+      
+      <guid>https://farbenweg.ch/categories/angebot/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Geschichten</title>
@@ -21,7 +30,7 @@
     </item>
     
     <item>
-      <title>Stop-Motion</title>
+      <title>Stop Motion</title>
       <link>https://farbenweg.ch/categories/stop-motion/</link>
       <pubDate>Thu, 22 Oct 2020 22:09:20 +0200</pubDate>
       

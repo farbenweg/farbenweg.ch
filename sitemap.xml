@@ -3,17 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://farbenweg.ch/categories/</loc>
-    <lastmod>2020-10-22T22:09:20+02:00</lastmod>
+    <loc>https://farbenweg.ch/categories/angebot/</loc>
+    <lastmod>2020-11-04T08:23:14+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://farbenweg.ch/tags/dunkelheit/</loc>
-    <lastmod>2020-10-22T22:09:20+02:00</lastmod>
+    <loc>https://farbenweg.ch/categories/</loc>
+    <lastmod>2020-11-04T08:23:14+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://farbenweg.ch/</loc>
+    <lastmod>2020-11-04T08:23:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://farbenweg.ch/tags/mandala/</loc>
+    <lastmod>2020-11-04T08:23:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://farbenweg.ch/mandala-malen/</loc>
+    <lastmod>2020-11-04T08:23:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://farbenweg.ch/page/</loc>
+    <lastmod>2020-11-04T08:23:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://farbenweg.ch/tags/</loc>
+    <lastmod>2020-11-04T08:23:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://farbenweg.ch/tags/dunkelheit/</loc>
     <lastmod>2020-10-22T22:09:20+02:00</lastmod>
   </url>
   
@@ -39,11 +64,6 @@
   
   <url>
     <loc>https://farbenweg.ch/categories/stop-motion/</loc>
-    <lastmod>2020-10-22T22:09:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://farbenweg.ch/tags/</loc>
     <lastmod>2020-10-22T22:09:20+02:00</lastmod>
   </url>
   
@@ -424,11 +444,6 @@
   
   <url>
     <loc>https://farbenweg.ch/datenschutzerklaerung/</loc>
-    <lastmod>2020-05-20T23:21:37+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://farbenweg.ch/page/</loc>
     <lastmod>2020-05-20T23:21:37+02:00</lastmod>
   </url>
   
