@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mandala on Farbenweg</title>
-    <link>https://farbenweg.ch/tags/mandala/</link>
-    <description>Recent content in Mandala on Farbenweg</description>
+    <title>Angebote on Farbenweg</title>
+    <link>https://farbenweg.ch/categories/angebote/</link>
+    <description>Recent content in Angebote on Farbenweg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Wed, 04 Nov 2020 08:23:14 +0000</lastBuildDate>
     
-	<atom:link href="https://farbenweg.ch/tags/mandala/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://farbenweg.ch/categories/angebote/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
