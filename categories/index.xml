@@ -6,10 +6,46 @@
     <description>Recent content in Categories on Farbenweg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Thu, 22 Oct 2020 22:09:20 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2020 08:23:14 +0000</lastBuildDate>
     
 	<atom:link href="https://farbenweg.ch/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Angebot</title>
+      <link>https://farbenweg.ch/categories/angebot/</link>
+      <pubDate>Wed, 04 Nov 2020 08:23:14 +0000</pubDate>
+      
+      <guid>https://farbenweg.ch/categories/angebot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Atelier</title>
+      <link>https://farbenweg.ch/categories/atelier/</link>
+      <pubDate>Wed, 04 Nov 2020 08:23:14 +0000</pubDate>
+      
+      <guid>https://farbenweg.ch/categories/atelier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dornach</title>
+      <link>https://farbenweg.ch/categories/dornach/</link>
+      <pubDate>Wed, 04 Nov 2020 08:23:14 +0000</pubDate>
+      
+      <guid>https://farbenweg.ch/categories/dornach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monika Gloor</title>
+      <link>https://farbenweg.ch/categories/monika-gloor/</link>
+      <pubDate>Wed, 04 Nov 2020 08:23:14 +0000</pubDate>
+      
+      <guid>https://farbenweg.ch/categories/monika-gloor/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Geschichten</title>
@@ -57,47 +93,11 @@
     </item>
     
     <item>
-      <title>Atelier</title>
-      <link>https://farbenweg.ch/categories/atelier/</link>
-      <pubDate>Wed, 20 May 2020 23:19:49 +0200</pubDate>
-      
-      <guid>https://farbenweg.ch/categories/atelier/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Monika Gloor</title>
-      <link>https://farbenweg.ch/categories/monika-gloor/</link>
-      <pubDate>Wed, 20 May 2020 23:19:49 +0200</pubDate>
-      
-      <guid>https://farbenweg.ch/categories/monika-gloor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Blog</title>
       <link>https://farbenweg.ch/categories/blog/</link>
       <pubDate>Mon, 27 Apr 2020 22:58:00 +0200</pubDate>
       
       <guid>https://farbenweg.ch/categories/blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Angebot</title>
-      <link>https://farbenweg.ch/categories/angebot/</link>
-      <pubDate>Mon, 27 Apr 2020 08:22:57 +0000</pubDate>
-      
-      <guid>https://farbenweg.ch/categories/angebot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dornach</title>
-      <link>https://farbenweg.ch/categories/dornach/</link>
-      <pubDate>Mon, 27 Apr 2020 08:22:57 +0000</pubDate>
-      
-      <guid>https://farbenweg.ch/categories/dornach/</guid>
       <description></description>
     </item>
     
