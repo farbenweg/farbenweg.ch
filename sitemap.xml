@@ -3,17 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://farbenweg.ch/categories/angebote/</loc>
-    <lastmod>2020-11-04T08:23:14+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://farbenweg.ch/categories/</loc>
+    <loc>https://farbenweg.ch/tags/farben/</loc>
     <lastmod>2020-11-04T08:23:14+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://farbenweg.ch/</loc>
+    <lastmod>2020-11-04T08:23:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://farbenweg.ch/tags/gestalten/</loc>
+    <lastmod>2020-11-04T08:23:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://farbenweg.ch/tags/kraft/</loc>
+    <lastmod>2020-11-04T08:23:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://farbenweg.ch/tags/malen/</loc>
     <lastmod>2020-11-04T08:23:14+00:00</lastmod>
   </url>
   
@@ -28,6 +38,11 @@
   </url>
   
   <url>
+    <loc>https://farbenweg.ch/tags/mut/</loc>
+    <lastmod>2020-11-04T08:23:14+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://farbenweg.ch/page/</loc>
     <lastmod>2020-11-04T08:23:14+00:00</lastmod>
   </url>
@@ -35,6 +50,26 @@
   <url>
     <loc>https://farbenweg.ch/tags/</loc>
     <lastmod>2020-11-04T08:23:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://farbenweg.ch/tags/ver%C3%A4nderungen/</loc>
+    <lastmod>2020-11-04T08:23:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://farbenweg.ch/tags/wege/</loc>
+    <lastmod>2020-11-04T08:23:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://farbenweg.ch/tags/zentrierung/</loc>
+    <lastmod>2020-11-04T08:23:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://farbenweg.ch/categories/</loc>
+    <lastmod>2020-10-22T22:09:20+02:00</lastmod>
   </url>
   
   <url>
@@ -83,11 +118,6 @@
   </url>
   
   <url>
-    <loc>https://farbenweg.ch/tags/farben/</loc>
-    <lastmod>2020-09-25T20:57:57+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://farbenweg.ch/tags/freude/</loc>
     <lastmod>2020-09-25T20:57:57+02:00</lastmod>
   </url>
@@ -109,11 +139,6 @@
   
   <url>
     <loc>https://farbenweg.ch/2020/09/25/lachen-kann-waerme-entfachen/</loc>
-    <lastmod>2020-09-25T20:57:57+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://farbenweg.ch/tags/mut/</loc>
     <lastmod>2020-09-25T20:57:57+02:00</lastmod>
   </url>
   
@@ -179,11 +204,6 @@
   
   <url>
     <loc>https://farbenweg.ch/2020/09/07/der-boden-traegt-mich-hin/</loc>
-    <lastmod>2020-09-07T21:31:44+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://farbenweg.ch/tags/kraft/</loc>
     <lastmod>2020-09-07T21:31:44+02:00</lastmod>
   </url>
   
@@ -264,11 +284,6 @@
   
   <url>
     <loc>https://farbenweg.ch/tags/verpflichtung/</loc>
-    <lastmod>2020-08-12T22:47:30+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://farbenweg.ch/tags/wege/</loc>
     <lastmod>2020-08-12T22:47:30+02:00</lastmod>
   </url>
   
@@ -518,6 +533,11 @@
   </url>
   
   <url>
+    <loc>https://farbenweg.ch/categories/angebot/</loc>
+    <lastmod>2020-04-27T08:22:57+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://farbenweg.ch/atelier/</loc>
     <lastmod>2020-04-27T08:22:57+00:00</lastmod>
   </url>
@@ -528,7 +548,7 @@
   </url>
   
   <url>
-    <loc>https://farbenweg.ch/tags/gestalten/</loc>
+    <loc>https://farbenweg.ch/categories/dornach/</loc>
     <lastmod>2020-04-27T08:22:57+00:00</lastmod>
   </url>
   
@@ -538,17 +558,7 @@
   </url>
   
   <url>
-    <loc>https://farbenweg.ch/tags/malen/</loc>
-    <lastmod>2020-04-27T08:22:57+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://farbenweg.ch/search/</loc>
-    <lastmod>2020-04-27T08:22:57+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://farbenweg.ch/tags/ver%C3%A4nderungen/</loc>
     <lastmod>2020-04-27T08:22:57+00:00</lastmod>
   </url>
   
