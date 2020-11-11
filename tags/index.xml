@@ -21,15 +21,6 @@
     </item>
     
     <item>
-      <title>Gestalten</title>
-      <link>https://farbenweg.ch/tags/gestalten/</link>
-      <pubDate>Wed, 04 Nov 2020 08:23:14 +0000</pubDate>
-      
-      <guid>https://farbenweg.ch/tags/gestalten/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Kraft</title>
       <link>https://farbenweg.ch/tags/kraft/</link>
       <pubDate>Wed, 04 Nov 2020 08:23:14 +0000</pubDate>
@@ -66,29 +57,11 @@
     </item>
     
     <item>
-      <title>Mut</title>
-      <link>https://farbenweg.ch/tags/mut/</link>
+      <title>Ruhe</title>
+      <link>https://farbenweg.ch/tags/ruhe/</link>
       <pubDate>Wed, 04 Nov 2020 08:23:14 +0000</pubDate>
       
-      <guid>https://farbenweg.ch/tags/mut/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Veränderungen</title>
-      <link>https://farbenweg.ch/tags/ver%C3%A4nderungen/</link>
-      <pubDate>Wed, 04 Nov 2020 08:23:14 +0000</pubDate>
-      
-      <guid>https://farbenweg.ch/tags/ver%C3%A4nderungen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wege</title>
-      <link>https://farbenweg.ch/tags/wege/</link>
-      <pubDate>Wed, 04 Nov 2020 08:23:14 +0000</pubDate>
-      
-      <guid>https://farbenweg.ch/tags/wege/</guid>
+      <guid>https://farbenweg.ch/tags/ruhe/</guid>
       <description></description>
     </item>
     
@@ -170,6 +143,15 @@
       <pubDate>Fri, 25 Sep 2020 20:57:57 +0200</pubDate>
       
       <guid>https://farbenweg.ch/tags/lachen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mut</title>
+      <link>https://farbenweg.ch/tags/mut/</link>
+      <pubDate>Fri, 25 Sep 2020 20:57:57 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/tags/mut/</guid>
       <description></description>
     </item>
     
@@ -386,6 +368,15 @@
       <pubDate>Wed, 12 Aug 2020 22:47:30 +0200</pubDate>
       
       <guid>https://farbenweg.ch/tags/verpflichtung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wege</title>
+      <link>https://farbenweg.ch/tags/wege/</link>
+      <pubDate>Wed, 12 Aug 2020 22:47:30 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/tags/wege/</guid>
       <description></description>
     </item>
     
@@ -683,6 +674,24 @@
       <pubDate>Mon, 27 Apr 2020 08:22:57 +0000</pubDate>
       
       <guid>https://farbenweg.ch/tags/ausdruck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gestalten</title>
+      <link>https://farbenweg.ch/tags/gestalten/</link>
+      <pubDate>Mon, 27 Apr 2020 08:22:57 +0000</pubDate>
+      
+      <guid>https://farbenweg.ch/tags/gestalten/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Veränderungen</title>
+      <link>https://farbenweg.ch/tags/ver%C3%A4nderungen/</link>
+      <pubDate>Mon, 27 Apr 2020 08:22:57 +0000</pubDate>
+      
+      <guid>https://farbenweg.ch/tags/ver%C3%A4nderungen/</guid>
       <description></description>
     </item>
     
