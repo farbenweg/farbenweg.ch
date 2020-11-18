@@ -86,7 +86,7 @@
 
 <meta itemprop="datePublished" content="2020-04-27T22:58:00&#43;02:00" />
 <meta itemprop="dateModified" content="2020-04-27T22:58:00&#43;02:00" />
-<meta itemprop="wordCount" content="25">
+<meta itemprop="wordCount" content="34">
 
   <meta itemprop="image" content="https://farbenweg.ch/images/logo.png">
 
@@ -171,16 +171,24 @@ E-Mail: <a href="mailto:info@farbenweg.ch">info@farbenweg.ch</a></p>
   method="POST"
 >
 
-  <label for="full-name" style="font-size:16px;">Dein Name</label>
+  <label for="full-name" style="font-size:16px;">Name</label>
   <br>
   <input { font-size: 16px; } type="text" name="name" id="full-name" placeholder="Vor- und Nachname" required="" style="font-size: 16px">
   <br>
   <br>
 
   <label style="font-size:16px;">
-  Deine E-Mail-Adresse
+  E-Mail
   <br>
   <input type="text" name="_replyto" required="" style="font-size: 16px">
+  </label>
+  <br>
+  <br>
+
+  <label style="font-size:16px;">
+  Telefonnummer
+  <br>
+  <input type="text" required="" style="font-size: 16px">
   </label>
   <br>
   <br>
@@ -190,11 +198,23 @@ E-Mail: <a href="mailto:info@farbenweg.ch">info@farbenweg.ch</a></p>
   <br>
   <textarea name="message" required="" style="font-size: 16px"></textarea>
   </label>
+  <br>
+  <br>
+
+   <!-- 
+   <label style="font-size:16px;" for="Kurs">Ich interessiere mich für</label>
+    <br>
+    <select name="department" id="department">
+      <option value="Select" selected="" disabled="">Wähle</option>
+      <option value="Mandalamalen">Mandalamalen</option>
+      <option value="Freies Malen">Freies Malen</option>
+      <option value="Blog">Blog</option>
+    </select>
+     -->
 
   <input type="hidden" name="_subject" value="Kontaktaufnahme" />
   
   <!-- your other form fields go here -->
-    <br>
     <br>
 
   <button type="submit" style="font-size: 16px">Senden</button>
