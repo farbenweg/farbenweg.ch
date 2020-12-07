@@ -88,22 +88,12 @@
   </url>
   
   <url>
-    <loc>https://farbenweg.ch/categories/gedichte/</loc>
-    <lastmod>2020-10-22T22:09:20+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://farbenweg.ch/categories/geschichten/</loc>
     <lastmod>2020-10-22T22:09:20+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://farbenweg.ch/tags/licht/</loc>
-    <lastmod>2020-10-22T22:09:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://farbenweg.ch/2020/10/22/neue-formen-entstehen/</loc>
     <lastmod>2020-10-22T22:09:20+02:00</lastmod>
   </url>
   
@@ -139,6 +129,11 @@
   
   <url>
     <loc>https://farbenweg.ch/tags/freude/</loc>
+    <lastmod>2020-09-25T20:57:57+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://farbenweg.ch/categories/gedichte/</loc>
     <lastmod>2020-09-25T20:57:57+02:00</lastmod>
   </url>
   
@@ -680,6 +675,10 @@
   <url>
     <loc>https://farbenweg.ch/categories/website/</loc>
     <lastmod>2020-03-24T06:39:09+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://farbenweg.ch/1/01/01/neue-formen-entstehen/</loc>
   </url>
   
 </urlset>
