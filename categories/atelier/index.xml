@@ -67,5 +67,15 @@ Wie sieht dein Weg aus? Mit welchen Farben und Formen gestaltest du ihn? Stehen 
 Im Atelier Farbenweg kannst du mit kreativen Mitteln experimentieren. Vielleicht werden Hindernisse sichtbar. Doch beim malerischen und gestalterischen Schaffen reaktivierst du schlummernde Kräfte. Damit überwindest du die Hindernisse und gehst auf deinem selbstbestimmten Weg weiter. Gerne begleite ich dich beim Finden deines Farbenweges.</description>
     </item>
     
+    <item>
+      <title>Suche</title>
+      <link>https://farbenweg.ch/search/</link>
+      <pubDate>Mon, 27 Apr 2020 08:22:57 +0000</pubDate>
+      
+      <guid>https://farbenweg.ch/search/</guid>
+      <description>// define globale variables var idx, searchInput, searchResults = null var documents = [] function renderSearchResults(results){ if (results.length  0) { // show max 10 results if (results.length  9){ results = results.slice(0,10) } // reset search results searchResults.innerHTML = &#39;&#39; // append results results.forEach(result = { // create result item var article = document.createElement(&#39;article&#39;) article.innerHTML = ` ${documents[result.ref].title} ${result.ref}
+` searchResults.appendChild(article) }) // if results are empty } else { searchResults.</description>
+    </item>
+    
   </channel>
 </rss>

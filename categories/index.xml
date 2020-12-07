@@ -48,6 +48,15 @@
     </item>
     
     <item>
+      <title>Gedichte</title>
+      <link>https://farbenweg.ch/categories/gedichte/</link>
+      <pubDate>Thu, 22 Oct 2020 22:09:20 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/categories/gedichte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Geschichten</title>
       <link>https://farbenweg.ch/categories/geschichten/</link>
       <pubDate>Thu, 22 Oct 2020 22:09:20 +0200</pubDate>
@@ -62,15 +71,6 @@
       <pubDate>Thu, 22 Oct 2020 22:09:20 +0200</pubDate>
       
       <guid>https://farbenweg.ch/categories/stop-motion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gedichte</title>
-      <link>https://farbenweg.ch/categories/gedichte/</link>
-      <pubDate>Fri, 25 Sep 2020 20:57:57 +0200</pubDate>
-      
-      <guid>https://farbenweg.ch/categories/gedichte/</guid>
       <description></description>
     </item>
     
@@ -95,9 +95,18 @@
     <item>
       <title>Blog</title>
       <link>https://farbenweg.ch/categories/blog/</link>
-      <pubDate>Mon, 27 Apr 2020 22:58:00 +0200</pubDate>
+      <pubDate>Wed, 20 May 2020 23:19:49 +0200</pubDate>
       
       <guid>https://farbenweg.ch/categories/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kurse</title>
+      <link>https://farbenweg.ch/categories/kurse/</link>
+      <pubDate>Wed, 20 May 2020 23:19:49 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/categories/kurse/</guid>
       <description></description>
     </item>
     

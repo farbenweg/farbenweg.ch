@@ -23,6 +23,26 @@
     </item>
     
     <item>
+      <title>Neue Formen entstehen</title>
+      <link>https://farbenweg.ch/2020/10/22/neue-formen-entstehen/</link>
+      <pubDate>Thu, 22 Oct 2020 22:09:20 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/2020/10/22/neue-formen-entstehen/</guid>
+      <description>&amp;ndash; Pinselstrich &amp;ndash;   Aus dem Nichts ein Pinselstrich.
+Wie gehts weiter, frag ich mich.
+Lass mich leiten vom Gefühl,
+doch auf einmal wird mir kühl. 
+Rot wärmt mich schnell wieder auf
+und der Pinsel malt im Lauf.
+Diese Farbe wirkt stabil
+und strebt kräftig hin zum Ziel. 
+&amp;hellip; Blaue Pause &amp;hellip;
+&amp;hellip; führt nach Hause &amp;hellip;
+&amp;hellip; Ich lehn mich an &amp;hellip;
+&amp;hellip; Bin ohne Plan &amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Lachen kann Wärme entfachen</title>
       <link>https://farbenweg.ch/2020/09/25/lachen-kann-waerme-entfachen/</link>
       <pubDate>Fri, 25 Sep 2020 20:57:57 +0200</pubDate>
@@ -78,6 +98,37 @@ Da fühl&amp;rsquo; ich Reichtum.</description>
     </item>
     
     <item>
+      <title>Impressum</title>
+      <link>https://farbenweg.ch/impressum/</link>
+      <pubDate>Wed, 20 May 2020 23:19:49 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/impressum/</guid>
+      <description>Websitebetreiberin Monika Gloor
+Dorneckstrasse 89
+4143 Dornach
+E-Mail: info@farbenweg.ch
+Urheberrecht Die unter farbenweg.ch veröffentlichten Inhalte wie Texte, Bilder, Fotos, Icons und anderen Dateien unterliegen dem Copyright der Websitebetreiberin.
+Weitere Bilder: Das Hugo-Logo stammt von Wikimedia Commons, Copyright 2014 Steve Francia. Das GitHub-Logo stammt von GitHub.
+Haftungsbeschränkung Bei Empfehlungen für weiterführende Informationen verweist farbenweg.ch auf andere Webseiten. Es kann passieren, dass die sich referenzierten Inhalte ändern. Die Betreiberin dieser Website haftet nicht für Inhalte und Verfügbarkeit von Webseiten, die mittels Hyperlinks zu erreichen sind.</description>
+    </item>
+    
+    <item>
+      <title>Kontakt</title>
+      <link>https://farbenweg.ch/kontakt/</link>
+      <pubDate>Mon, 27 Apr 2020 22:58:00 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/kontakt/</guid>
+      <description>Atelier Farbenweg
+Monika Gloor
+Dorneckstrasse 89
+4143 Dornach
+Telefon: 076 445 72 20
+E-Mail: info@farbenweg.ch
+Kontaktformular Name E-Mail  Telefonnummer  Deine Nachricht   Ich interessiere mich für Wähle Mandalamalen Freies Malen Blog  -- Senden  &amp;nbsp;
+Datenschutzerklärung</description>
+    </item>
+    
+    <item>
       <title>Atelier</title>
       <link>https://farbenweg.ch/atelier/</link>
       <pubDate>Mon, 27 Apr 2020 08:22:57 +0000</pubDate>
@@ -89,6 +140,16 @@ Eher im Grünen?
 Oder siehst du Rot?
 Wie sieht dein Weg aus? Mit welchen Farben und Formen gestaltest du ihn? Stehen Farb- und Richtungswechsel an?
 Im Atelier Farbenweg kannst du mit kreativen Mitteln experimentieren. Vielleicht werden Hindernisse sichtbar. Doch beim malerischen und gestalterischen Schaffen reaktivierst du schlummernde Kräfte. Damit überwindest du die Hindernisse und gehst auf deinem selbstbestimmten Weg weiter. Gerne begleite ich dich beim Finden deines Farbenweges.</description>
+    </item>
+    
+    <item>
+      <title>Suche</title>
+      <link>https://farbenweg.ch/search/</link>
+      <pubDate>Mon, 27 Apr 2020 08:22:57 +0000</pubDate>
+      
+      <guid>https://farbenweg.ch/search/</guid>
+      <description>// define globale variables var idx, searchInput, searchResults = null var documents = [] function renderSearchResults(results){ if (results.length  0) { // show max 10 results if (results.length  9){ results = results.slice(0,10) } // reset search results searchResults.innerHTML = &#39;&#39; // append results results.forEach(result = { // create result item var article = document.createElement(&#39;article&#39;) article.innerHTML = ` ${documents[result.ref].title} ${result.ref}
+` searchResults.appendChild(article) }) // if results are empty } else { searchResults.</description>
     </item>
     
     <item>
