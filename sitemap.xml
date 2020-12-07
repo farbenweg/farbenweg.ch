@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://farbenweg.ch/categories/angebot/</loc>
-    <lastmod>2020-11-04T08:23:14+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://farbenweg.ch/categories/atelier/</loc>
     <lastmod>2020-11-04T08:23:14+00:00</lastmod>
   </url>
@@ -43,6 +38,11 @@
   </url>
   
   <url>
+    <loc>https://farbenweg.ch/categories/kurse/</loc>
+    <lastmod>2020-11-04T08:23:14+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://farbenweg.ch/tags/malen/</loc>
     <lastmod>2020-11-04T08:23:14+00:00</lastmod>
   </url>
@@ -54,11 +54,6 @@
   
   <url>
     <loc>https://farbenweg.ch/mandala-malen-im-winter/</loc>
-    <lastmod>2020-11-04T08:23:14+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://farbenweg.ch/categories/monika-gloor/</loc>
     <lastmod>2020-11-04T08:23:14+00:00</lastmod>
   </url>
   
@@ -498,7 +493,7 @@
   </url>
   
   <url>
-    <loc>https://farbenweg.ch/categories/kurse/</loc>
+    <loc>https://farbenweg.ch/categories/monika-gloor/</loc>
     <lastmod>2020-05-20T23:19:49+02:00</lastmod>
   </url>
   
@@ -545,6 +540,11 @@
   <url>
     <loc>https://farbenweg.ch/tags/wald/</loc>
     <lastmod>2020-04-28T07:38:30+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://farbenweg.ch/categories/angebot/</loc>
+    <lastmod>2020-04-27T22:58:00+02:00</lastmod>
   </url>
   
   <url>
