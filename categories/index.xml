@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Farbenweg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Wed, 04 Nov 2020 08:23:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Dec 2020 22:00:20 +0200</lastBuildDate>
     
 	<atom:link href="https://farbenweg.ch/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Gedichte</title>
+      <link>https://farbenweg.ch/categories/gedichte/</link>
+      <pubDate>Mon, 07 Dec 2020 22:00:20 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/categories/gedichte/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Atelier</title>
@@ -53,15 +62,6 @@
       <pubDate>Thu, 22 Oct 2020 22:09:20 +0200</pubDate>
       
       <guid>https://farbenweg.ch/categories/stop-motion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gedichte</title>
-      <link>https://farbenweg.ch/categories/gedichte/</link>
-      <pubDate>Fri, 25 Sep 2020 20:57:57 +0200</pubDate>
-      
-      <guid>https://farbenweg.ch/categories/gedichte/</guid>
       <description></description>
     </item>
     

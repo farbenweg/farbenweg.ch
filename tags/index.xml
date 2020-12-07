@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Farbenweg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Wed, 04 Nov 2020 08:23:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Dec 2020 22:00:20 +0200</lastBuildDate>
     
 	<atom:link href="https://farbenweg.ch/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Farben</title>
       <link>https://farbenweg.ch/tags/farben/</link>
-      <pubDate>Wed, 04 Nov 2020 08:23:14 +0000</pubDate>
+      <pubDate>Mon, 07 Dec 2020 22:00:20 +0200</pubDate>
       
       <guid>https://farbenweg.ch/tags/farben/</guid>
       <description></description>
@@ -23,9 +23,36 @@
     <item>
       <title>Kraft</title>
       <link>https://farbenweg.ch/tags/kraft/</link>
-      <pubDate>Wed, 04 Nov 2020 08:23:14 +0000</pubDate>
+      <pubDate>Mon, 07 Dec 2020 22:00:20 +0200</pubDate>
       
       <guid>https://farbenweg.ch/tags/kraft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Malen</title>
+      <link>https://farbenweg.ch/tags/malen/</link>
+      <pubDate>Mon, 07 Dec 2020 22:00:20 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/tags/malen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mandala</title>
+      <link>https://farbenweg.ch/tags/mandala/</link>
+      <pubDate>Mon, 07 Dec 2020 22:00:20 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/tags/mandala/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ruhe</title>
+      <link>https://farbenweg.ch/tags/ruhe/</link>
+      <pubDate>Mon, 07 Dec 2020 22:00:20 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/tags/ruhe/</guid>
       <description></description>
     </item>
     
@@ -35,33 +62,6 @@
       <pubDate>Wed, 04 Nov 2020 08:23:14 +0000</pubDate>
       
       <guid>https://farbenweg.ch/tags/kunst/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Malen</title>
-      <link>https://farbenweg.ch/tags/malen/</link>
-      <pubDate>Wed, 04 Nov 2020 08:23:14 +0000</pubDate>
-      
-      <guid>https://farbenweg.ch/tags/malen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mandala</title>
-      <link>https://farbenweg.ch/tags/mandala/</link>
-      <pubDate>Wed, 04 Nov 2020 08:23:14 +0000</pubDate>
-      
-      <guid>https://farbenweg.ch/tags/mandala/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ruhe</title>
-      <link>https://farbenweg.ch/tags/ruhe/</link>
-      <pubDate>Wed, 04 Nov 2020 08:23:14 +0000</pubDate>
-      
-      <guid>https://farbenweg.ch/tags/ruhe/</guid>
       <description></description>
     </item>
     

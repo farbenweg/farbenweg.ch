@@ -6,10 +6,30 @@
     <description>Recent content on Farbenweg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Wed, 04 Nov 2020 08:23:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Dec 2020 22:00:20 +0200</lastBuildDate>
     
 	<atom:link href="https://farbenweg.ch/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Neue Formen entstehen</title>
+      <link>https://farbenweg.ch/2020/12/07/neue-formen-entstehen/</link>
+      <pubDate>Mon, 07 Dec 2020 22:00:20 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/2020/12/07/neue-formen-entstehen/</guid>
+      <description>&amp;ndash; Pinselstrich &amp;ndash;   Aus dem Nichts ein Pinselstrich.
+Wie gehts weiter, frag ich mich.
+Lass mich leiten vom Gefühl,
+doch auf einmal wird mir kühl. 
+Rot wärmt mich schnell wieder auf
+und der Pinsel malt im Lauf.
+Diese Farbe wirkt stabil
+und strebt kräftig hin zum Ziel. 
+&amp;hellip; Blaue Pause &amp;hellip;
+&amp;hellip; führt nach Hause &amp;hellip;
+&amp;hellip; Ich lehn mich an &amp;hellip;
+&amp;hellip; Bin ohne Plan &amp;hellip;</description>
+    </item>
     
     <item>
       <title>Mandala malen im Winter</title>
@@ -541,26 +561,6 @@ und wir wieder fließen.
       <description>Das ist mein erster Eintrag. Heute ist ein sonniger Märztag mit einer kalten Bise. Wie erstelle ich eine Website für Farbenweg?
 Eine statische Website? Ich habe mich für eine statische Website entschieden. Hier finden wir einen Bericht von Chris über statische Website-Generatoren. Die statische Website wird automatisch aus einer Vorlage (Template) und dem Inhalt (Content) generiert. Als Hauptvorteile gelten schnelle Ladezeiten und hohe Sicherheit der statischen Sites.
 Die Website erstelle ich mit den drei Komponenten Hugo, Windows PowerShell ISE und Visual Studio Code.</description>
-    </item>
-    
-    <item>
-      <title>Neue Formen entstehen</title>
-      <link>https://farbenweg.ch/1/01/01/neue-formen-entstehen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://farbenweg.ch/1/01/01/neue-formen-entstehen/</guid>
-      <description>&amp;ndash; Pinselstrich &amp;ndash;   Aus dem Nichts ein Pinselstrich.
-Wie gehts weiter, frag ich mich.
-Lass mich leiten vom Gefühl,
-doch auf einmal wird mir kühl. 
-Rot wärmt mich schnell wieder auf
-und der Pinsel malt im Lauf.
-Diese Farbe wirkt stabil
-und strebt kräftig hin zum Ziel. 
-&amp;hellip; Blaue Pause &amp;hellip;
-&amp;hellip; führt nach Hause &amp;hellip;
-&amp;hellip; Ich lehn mich an &amp;hellip;
-&amp;hellip; Bin ohne Plan &amp;hellip;</description>
     </item>
     
   </channel>
