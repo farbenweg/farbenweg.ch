@@ -6,7 +6,7 @@ body {
 img {
 	max-width: 100%;
 	height: auto;
-	border-radius: 12px;
+	border-radius: 0px;
 }
 figure  {
 	margin-left: 0;
@@ -282,6 +282,7 @@ article img.featured {
 	margin-bottom: 20px;
 	margin-left: auto;
 	margin-right: auto;
+	border-bottom: none;
 }
 article .duration {
 	margin-top: 12px;
