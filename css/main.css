@@ -12,13 +12,9 @@ figure  {
 	margin-left: 0;
 	margin-right: 0;
 }
-a[href$=jpg], a[href$=jpeg], a[href$=png], a[href$=gif] {
-		text-decoration: none;
-		border: 0 none;
-}
-a[href*=mandala-malen-im-winter] {
-	text-decoration: none;
-	border: 0 none;
+a img {
+	border:none; /*Monika: keine Unterstreichung von Link-Bildern*/
+	vertical-align:top; /*Monika: keine Unterstreichung von Link-Bildern*/
 }
 
 
@@ -112,13 +108,13 @@ blockquote p {
 	font-family: 'Merienda', sans-serif; /*monika*/
 	font-size: 1.1em;
 	line-height: 1.5;
-	color: rgb(210, 90, 210)
+	color: rgb(150, 90, 210)
 }
 blockquote::before {
 	font-family: 'Merienda', sans-serif; /*monika*/
 	/*color: #A2DAC3;*/
 	font-size: 7em;
-	color: rgb(250, 200, 250)
+	color: rgb(226, 202, 255)
 }
 label, input, button {
 	font-family: 'Lato', sans-serif;
@@ -300,7 +296,7 @@ article .duration {
 article a {
 	/*border-bottom: 3px solid #CBF8DF;
 	box-shadow: inset 0 -4px 0 #CBF8DF;*/
-	border-bottom: 3px solid rgb(210, 90, 210); /*monika*/
+	border-bottom: 3px solid rgb(150, 90, 210); /*monika*/
 	background: transparent;
 	transition: background 150ms ease;
 }
@@ -310,7 +306,7 @@ article p.date {
 article a:hover,
 article a:focus {
 	/*background: #CBF8DF;*/
-	background: rgb(250, 200, 250); /*monika*/
+	background: rgb(226, 202, 255); /*monika*/
 }
 article blockquote {
 	width:60%;
