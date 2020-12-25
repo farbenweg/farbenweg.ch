@@ -16,7 +16,10 @@ a[href$=jpg], a[href$=jpeg], a[href$=png], a[href$=gif] {
 		text-decoration: none;
 		border: 0 none;
 }
-
+a[href*=mandala-malen-im-winter] {
+	text-decoration: none;
+	border: 0 none;
+}
 
 
 /* Typography */
@@ -300,10 +303,6 @@ article a {
 	border-bottom: 3px solid rgb(210, 90, 210); /*monika*/
 	background: transparent;
 	transition: background 150ms ease;
-}
-article a[href$=jpg], a[href$=jpeg], a[href$=png], a[href$=gif] {
-	text-decoration: none;
-	border: 0 none;
 }
 article p.date {
 	margin-top: 0;
