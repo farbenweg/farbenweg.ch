@@ -3,17 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://farbenweg.ch/categories/</loc>
-    <lastmod>2020-12-07T22:00:20+02:00</lastmod>
+    <loc>https://farbenweg.ch/categories/atelier/</loc>
+    <lastmod>2020-12-26T22:22:37+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://farbenweg.ch/tags/farben/</loc>
-    <lastmod>2020-12-07T22:00:20+02:00</lastmod>
+    <loc>https://farbenweg.ch/categories/</loc>
+    <lastmod>2020-12-26T22:22:37+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://farbenweg.ch/tags/covid-19/</loc>
+    <lastmod>2020-12-26T22:22:37+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://farbenweg.ch/</loc>
+    <lastmod>2020-12-26T22:22:37+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://farbenweg.ch/tags/hygienekonzept/</loc>
+    <lastmod>2020-12-26T22:22:37+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://farbenweg.ch/categories/kurse/</loc>
+    <lastmod>2020-12-26T22:22:37+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://farbenweg.ch/page/</loc>
+    <lastmod>2020-12-26T22:22:37+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://farbenweg.ch/tags/schutzkonzept/</loc>
+    <lastmod>2020-12-26T22:22:37+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://farbenweg.ch/schutzkonzept/</loc>
+    <lastmod>2020-12-26T22:22:37+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://farbenweg.ch/tags/</loc>
+    <lastmod>2020-12-26T22:22:37+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://farbenweg.ch/tags/farben/</loc>
     <lastmod>2020-12-07T22:00:20+02:00</lastmod>
   </url>
   
@@ -53,17 +93,7 @@
   </url>
   
   <url>
-    <loc>https://farbenweg.ch/tags/</loc>
-    <lastmod>2020-12-07T22:00:20+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://farbenweg.ch/categories/angebot/</loc>
-    <lastmod>2020-11-04T08:23:14+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://farbenweg.ch/categories/atelier/</loc>
     <lastmod>2020-11-04T08:23:14+00:00</lastmod>
   </url>
   
@@ -78,17 +108,7 @@
   </url>
   
   <url>
-    <loc>https://farbenweg.ch/categories/kurse/</loc>
-    <lastmod>2020-11-04T08:23:14+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://farbenweg.ch/mandala-malen-im-winter/</loc>
-    <lastmod>2020-11-04T08:23:14+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://farbenweg.ch/page/</loc>
     <lastmod>2020-11-04T08:23:14+00:00</lastmod>
   </url>
   

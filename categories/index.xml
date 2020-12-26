@@ -6,10 +6,28 @@
     <description>Recent content in Categories on Farbenweg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Mon, 07 Dec 2020 22:00:20 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 26 Dec 2020 22:22:37 +0100</lastBuildDate>
     
 	<atom:link href="https://farbenweg.ch/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Atelier</title>
+      <link>https://farbenweg.ch/categories/atelier/</link>
+      <pubDate>Sat, 26 Dec 2020 22:22:37 +0100</pubDate>
+      
+      <guid>https://farbenweg.ch/categories/atelier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kurse</title>
+      <link>https://farbenweg.ch/categories/kurse/</link>
+      <pubDate>Sat, 26 Dec 2020 22:22:37 +0100</pubDate>
+      
+      <guid>https://farbenweg.ch/categories/kurse/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Gedichte</title>
@@ -30,29 +48,11 @@
     </item>
     
     <item>
-      <title>Atelier</title>
-      <link>https://farbenweg.ch/categories/atelier/</link>
-      <pubDate>Wed, 04 Nov 2020 08:23:14 +0000</pubDate>
-      
-      <guid>https://farbenweg.ch/categories/atelier/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Dornach</title>
       <link>https://farbenweg.ch/categories/dornach/</link>
       <pubDate>Wed, 04 Nov 2020 08:23:14 +0000</pubDate>
       
       <guid>https://farbenweg.ch/categories/dornach/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kurse</title>
-      <link>https://farbenweg.ch/categories/kurse/</link>
-      <pubDate>Wed, 04 Nov 2020 08:23:14 +0000</pubDate>
-      
-      <guid>https://farbenweg.ch/categories/kurse/</guid>
       <description></description>
     </item>
     
