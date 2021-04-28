@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Farbenweg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Mon, 19 Apr 2021 15:04:20 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 19 Apr 2021 17:18:52 +0200</lastBuildDate>
     
 	<atom:link href="https://farbenweg.ch/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,45 @@
     <item>
       <title>Farben</title>
       <link>https://farbenweg.ch/tags/farben/</link>
-      <pubDate>Mon, 19 Apr 2021 15:04:20 +0200</pubDate>
+      <pubDate>Mon, 19 Apr 2021 17:18:52 +0200</pubDate>
       
       <guid>https://farbenweg.ch/tags/farben/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Freiheit</title>
+      <link>https://farbenweg.ch/tags/freiheit/</link>
+      <pubDate>Mon, 19 Apr 2021 17:18:52 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/tags/freiheit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Struktur</title>
+      <link>https://farbenweg.ch/tags/struktur/</link>
+      <pubDate>Mon, 19 Apr 2021 17:18:52 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/tags/struktur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wandlungsphasen</title>
+      <link>https://farbenweg.ch/tags/wandlungsphasen/</link>
+      <pubDate>Mon, 19 Apr 2021 17:18:52 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/tags/wandlungsphasen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wege</title>
+      <link>https://farbenweg.ch/tags/wege/</link>
+      <pubDate>Mon, 19 Apr 2021 17:18:52 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/tags/wege/</guid>
       <description></description>
     </item>
     
@@ -318,15 +354,6 @@
     </item>
     
     <item>
-      <title>Wandlungsphasen</title>
-      <link>https://farbenweg.ch/tags/wandlungsphasen/</link>
-      <pubDate>Sun, 16 Aug 2020 22:24:02 +0200</pubDate>
-      
-      <guid>https://farbenweg.ch/tags/wandlungsphasen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Bewegen</title>
       <link>https://farbenweg.ch/tags/bewegen/</link>
       <pubDate>Wed, 12 Aug 2020 22:47:30 +0200</pubDate>
@@ -350,15 +377,6 @@
       <pubDate>Wed, 12 Aug 2020 22:47:30 +0200</pubDate>
       
       <guid>https://farbenweg.ch/tags/ferien/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Freiheit</title>
-      <link>https://farbenweg.ch/tags/freiheit/</link>
-      <pubDate>Wed, 12 Aug 2020 22:47:30 +0200</pubDate>
-      
-      <guid>https://farbenweg.ch/tags/freiheit/</guid>
       <description></description>
     </item>
     
@@ -395,15 +413,6 @@
       <pubDate>Wed, 12 Aug 2020 22:47:30 +0200</pubDate>
       
       <guid>https://farbenweg.ch/tags/verpflichtung/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wege</title>
-      <link>https://farbenweg.ch/tags/wege/</link>
-      <pubDate>Wed, 12 Aug 2020 22:47:30 +0200</pubDate>
-      
-      <guid>https://farbenweg.ch/tags/wege/</guid>
       <description></description>
     </item>
     

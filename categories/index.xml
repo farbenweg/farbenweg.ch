@@ -6,10 +6,37 @@
     <description>Recent content in Categories on Farbenweg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Mon, 19 Apr 2021 15:04:20 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 19 Apr 2021 17:18:52 +0200</lastBuildDate>
     
 	<atom:link href="https://farbenweg.ch/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Artikel</title>
+      <link>https://farbenweg.ch/categories/artikel/</link>
+      <pubDate>Mon, 19 Apr 2021 17:18:52 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/categories/artikel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gedichte</title>
+      <link>https://farbenweg.ch/categories/gedichte/</link>
+      <pubDate>Mon, 19 Apr 2021 17:18:52 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/categories/gedichte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mandala</title>
+      <link>https://farbenweg.ch/categories/mandala/</link>
+      <pubDate>Mon, 19 Apr 2021 17:18:52 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/categories/mandala/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Stop Motion</title>
@@ -17,15 +44,6 @@
       <pubDate>Mon, 19 Apr 2021 15:04:20 +0200</pubDate>
       
       <guid>https://farbenweg.ch/categories/stop-motion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gedichte</title>
-      <link>https://farbenweg.ch/categories/gedichte/</link>
-      <pubDate>Tue, 23 Mar 2021 21:21:20 +0200</pubDate>
-      
-      <guid>https://farbenweg.ch/categories/gedichte/</guid>
       <description></description>
     </item>
     
@@ -80,15 +98,6 @@
       <pubDate>Thu, 22 Oct 2020 22:09:20 +0200</pubDate>
       
       <guid>https://farbenweg.ch/categories/geschichten/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Artikel</title>
-      <link>https://farbenweg.ch/categories/artikel/</link>
-      <pubDate>Wed, 12 Aug 2020 22:47:30 +0200</pubDate>
-      
-      <guid>https://farbenweg.ch/categories/artikel/</guid>
       <description></description>
     </item>
     
