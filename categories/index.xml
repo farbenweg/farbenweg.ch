@@ -6,10 +6,46 @@
     <description>Recent content in Categories on Farbenweg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Thu, 29 Apr 2021 20:56:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jul 2021 11:17:32 +0200</lastBuildDate>
     
 	<atom:link href="https://farbenweg.ch/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Angebot</title>
+      <link>https://farbenweg.ch/categories/angebot/</link>
+      <pubDate>Wed, 28 Jul 2021 11:17:32 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/categories/angebot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Atelier</title>
+      <link>https://farbenweg.ch/categories/atelier/</link>
+      <pubDate>Wed, 28 Jul 2021 11:17:32 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/categories/atelier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dornach</title>
+      <link>https://farbenweg.ch/categories/dornach/</link>
+      <pubDate>Wed, 28 Jul 2021 11:17:32 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/categories/dornach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kunsttherapie</title>
+      <link>https://farbenweg.ch/categories/kunsttherapie/</link>
+      <pubDate>Wed, 28 Jul 2021 11:17:32 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/categories/kunsttherapie/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Artikel</title>
@@ -57,38 +93,11 @@
     </item>
     
     <item>
-      <title>Atelier</title>
-      <link>https://farbenweg.ch/categories/atelier/</link>
-      <pubDate>Sat, 26 Dec 2020 22:22:37 +0100</pubDate>
-      
-      <guid>https://farbenweg.ch/categories/atelier/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Kurse</title>
       <link>https://farbenweg.ch/categories/kurse/</link>
       <pubDate>Sat, 26 Dec 2020 22:22:37 +0100</pubDate>
       
       <guid>https://farbenweg.ch/categories/kurse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Angebot</title>
-      <link>https://farbenweg.ch/categories/angebot/</link>
-      <pubDate>Wed, 04 Nov 2020 08:23:14 +0000</pubDate>
-      
-      <guid>https://farbenweg.ch/categories/angebot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dornach</title>
-      <link>https://farbenweg.ch/categories/dornach/</link>
-      <pubDate>Wed, 04 Nov 2020 08:23:14 +0000</pubDate>
-      
-      <guid>https://farbenweg.ch/categories/dornach/</guid>
       <description></description>
     </item>
     

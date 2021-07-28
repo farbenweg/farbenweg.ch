@@ -3,22 +3,72 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://farbenweg.ch/categories/angebot/</loc>
+    <lastmod>2021-07-28T11:17:32+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://farbenweg.ch/categories/atelier/</loc>
+    <lastmod>2021-07-28T11:17:32+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://farbenweg.ch/begleitetes-malen-und-gestalten/</loc>
+    <lastmod>2021-07-28T11:17:32+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://farbenweg.ch/categories/</loc>
+    <lastmod>2021-07-28T11:17:32+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://farbenweg.ch/categories/dornach/</loc>
+    <lastmod>2021-07-28T11:17:32+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://farbenweg.ch/</loc>
+    <lastmod>2021-07-28T11:17:32+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://farbenweg.ch/tags/gestalten/</loc>
+    <lastmod>2021-07-28T11:17:32+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://farbenweg.ch/categories/kunsttherapie/</loc>
+    <lastmod>2021-07-28T11:17:32+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://farbenweg.ch/tags/malen/</loc>
+    <lastmod>2021-07-28T11:17:32+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://farbenweg.ch/page/</loc>
+    <lastmod>2021-07-28T11:17:32+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://farbenweg.ch/tags/ptm/</loc>
+    <lastmod>2021-07-28T11:17:32+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://farbenweg.ch/tags/</loc>
+    <lastmod>2021-07-28T11:17:32+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://farbenweg.ch/categories/artikel/</loc>
     <lastmod>2021-04-29T20:56:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://farbenweg.ch/categories/</loc>
-    <lastmod>2021-04-29T20:56:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://farbenweg.ch/tags/farben/</loc>
-    <lastmod>2021-04-29T20:56:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://farbenweg.ch/</loc>
     <lastmod>2021-04-29T20:56:00+02:00</lastmod>
   </url>
   
@@ -53,11 +103,6 @@
   </url>
   
   <url>
-    <loc>https://farbenweg.ch/tags/</loc>
-    <lastmod>2021-04-29T20:56:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://farbenweg.ch/tags/wandlungsphasen/</loc>
     <lastmod>2021-04-29T20:56:00+02:00</lastmod>
   </url>
@@ -75,11 +120,6 @@
   <url>
     <loc>https://farbenweg.ch/categories/stop-motion/</loc>
     <lastmod>2021-04-19T15:04:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://farbenweg.ch/tags/malen/</loc>
-    <lastmod>2021-03-23T21:21:20+02:00</lastmod>
   </url>
   
   <url>
@@ -118,22 +158,12 @@
   </url>
   
   <url>
-    <loc>https://farbenweg.ch/categories/atelier/</loc>
-    <lastmod>2020-12-26T22:22:37+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://farbenweg.ch/tags/covid-19/</loc>
     <lastmod>2020-12-26T22:22:37+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://farbenweg.ch/categories/kurse/</loc>
-    <lastmod>2020-12-26T22:22:37+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://farbenweg.ch/page/</loc>
     <lastmod>2020-12-26T22:22:37+01:00</lastmod>
   </url>
   
@@ -160,16 +190,6 @@
   <url>
     <loc>https://farbenweg.ch/tags/ruhe/</loc>
     <lastmod>2020-12-07T22:00:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://farbenweg.ch/categories/angebot/</loc>
-    <lastmod>2020-11-04T08:23:14+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://farbenweg.ch/categories/dornach/</loc>
-    <lastmod>2020-11-04T08:23:14+00:00</lastmod>
   </url>
   
   <url>
@@ -544,11 +564,6 @@
   
   <url>
     <loc>https://farbenweg.ch/categories/blog/</loc>
-    <lastmod>2020-05-20T23:19:49+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://farbenweg.ch/tags/gestalten/</loc>
     <lastmod>2020-05-20T23:19:49+02:00</lastmod>
   </url>
   

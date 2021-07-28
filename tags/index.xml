@@ -6,10 +6,37 @@
     <description>Recent content in Tags on Farbenweg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Thu, 29 Apr 2021 20:56:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jul 2021 11:17:32 +0200</lastBuildDate>
     
 	<atom:link href="https://farbenweg.ch/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Gestalten</title>
+      <link>https://farbenweg.ch/tags/gestalten/</link>
+      <pubDate>Wed, 28 Jul 2021 11:17:32 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/tags/gestalten/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Malen</title>
+      <link>https://farbenweg.ch/tags/malen/</link>
+      <pubDate>Wed, 28 Jul 2021 11:17:32 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/tags/malen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PTM</title>
+      <link>https://farbenweg.ch/tags/ptm/</link>
+      <pubDate>Wed, 28 Jul 2021 11:17:32 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/tags/ptm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Farben</title>
@@ -53,15 +80,6 @@
       <pubDate>Thu, 29 Apr 2021 20:56:00 +0200</pubDate>
       
       <guid>https://farbenweg.ch/tags/wege/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Malen</title>
-      <link>https://farbenweg.ch/tags/malen/</link>
-      <pubDate>Tue, 23 Mar 2021 21:21:20 +0200</pubDate>
-      
-      <guid>https://farbenweg.ch/tags/malen/</guid>
       <description></description>
     </item>
     
@@ -647,15 +665,6 @@
       <pubDate>Sat, 23 May 2020 19:30:29 +0200</pubDate>
       
       <guid>https://farbenweg.ch/tags/verbindung/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gestalten</title>
-      <link>https://farbenweg.ch/tags/gestalten/</link>
-      <pubDate>Wed, 20 May 2020 23:19:49 +0200</pubDate>
-      
-      <guid>https://farbenweg.ch/tags/gestalten/</guid>
       <description></description>
     </item>
     
