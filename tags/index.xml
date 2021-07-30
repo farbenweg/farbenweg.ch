@@ -6,15 +6,24 @@
     <description>Recent content in Tags on Farbenweg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Wed, 28 Jul 2021 11:17:32 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jul 2021 16:28:16 +0200</lastBuildDate>
     
 	<atom:link href="https://farbenweg.ch/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Farben</title>
+      <link>https://farbenweg.ch/tags/farben/</link>
+      <pubDate>Fri, 30 Jul 2021 16:28:16 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/tags/farben/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Gestalten</title>
       <link>https://farbenweg.ch/tags/gestalten/</link>
-      <pubDate>Wed, 28 Jul 2021 11:17:32 +0200</pubDate>
+      <pubDate>Fri, 30 Jul 2021 16:28:16 +0200</pubDate>
       
       <guid>https://farbenweg.ch/tags/gestalten/</guid>
       <description></description>
@@ -23,9 +32,27 @@
     <item>
       <title>Malen</title>
       <link>https://farbenweg.ch/tags/malen/</link>
-      <pubDate>Wed, 28 Jul 2021 11:17:32 +0200</pubDate>
+      <pubDate>Fri, 30 Jul 2021 16:28:16 +0200</pubDate>
       
       <guid>https://farbenweg.ch/tags/malen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Möglichkeiten</title>
+      <link>https://farbenweg.ch/tags/m%C3%B6glichkeiten/</link>
+      <pubDate>Fri, 30 Jul 2021 16:28:16 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/tags/m%C3%B6glichkeiten/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raum</title>
+      <link>https://farbenweg.ch/tags/raum/</link>
+      <pubDate>Fri, 30 Jul 2021 16:28:16 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/tags/raum/</guid>
       <description></description>
     </item>
     
@@ -35,15 +62,6 @@
       <pubDate>Wed, 28 Jul 2021 11:17:32 +0200</pubDate>
       
       <guid>https://farbenweg.ch/tags/ptm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Farben</title>
-      <link>https://farbenweg.ch/tags/farben/</link>
-      <pubDate>Thu, 08 Jul 2021 08:23:14 +0000</pubDate>
-      
-      <guid>https://farbenweg.ch/tags/farben/</guid>
       <description></description>
     </item>
     
@@ -71,24 +89,6 @@
       <pubDate>Thu, 08 Jul 2021 08:23:14 +0000</pubDate>
       
       <guid>https://farbenweg.ch/tags/kunst/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Möglichkeiten</title>
-      <link>https://farbenweg.ch/tags/m%C3%B6glichkeiten/</link>
-      <pubDate>Thu, 08 Jul 2021 08:23:14 +0000</pubDate>
-      
-      <guid>https://farbenweg.ch/tags/m%C3%B6glichkeiten/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Raum</title>
-      <link>https://farbenweg.ch/tags/raum/</link>
-      <pubDate>Thu, 08 Jul 2021 08:23:14 +0000</pubDate>
-      
-      <guid>https://farbenweg.ch/tags/raum/</guid>
       <description></description>
     </item>
     
@@ -327,7 +327,7 @@
     </item>
     
     <item>
-      <title>Wachsen</title>
+      <title>wachsen</title>
       <link>https://farbenweg.ch/tags/wachsen/</link>
       <pubDate>Wed, 16 Sep 2020 23:20:52 +0200</pubDate>
       
