@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Farbenweg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Fri, 30 Jul 2021 16:28:16 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 08 Aug 2021 14:19:59 +0200</lastBuildDate>
     
 	<atom:link href="https://farbenweg.ch/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,81 @@
     <item>
       <title>Farben</title>
       <link>https://farbenweg.ch/tags/farben/</link>
-      <pubDate>Fri, 30 Jul 2021 16:28:16 +0200</pubDate>
+      <pubDate>Sun, 08 Aug 2021 14:19:59 +0200</pubDate>
       
       <guid>https://farbenweg.ch/tags/farben/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heilungsweg</title>
+      <link>https://farbenweg.ch/tags/heilungsweg/</link>
+      <pubDate>Sun, 08 Aug 2021 14:19:59 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/tags/heilungsweg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kraft</title>
+      <link>https://farbenweg.ch/tags/kraft/</link>
+      <pubDate>Sun, 08 Aug 2021 14:19:59 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/tags/kraft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lebensthema</title>
+      <link>https://farbenweg.ch/tags/lebensthema/</link>
+      <pubDate>Sun, 08 Aug 2021 14:19:59 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/tags/lebensthema/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Malen</title>
+      <link>https://farbenweg.ch/tags/malen/</link>
+      <pubDate>Sun, 08 Aug 2021 14:19:59 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/tags/malen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mandala</title>
+      <link>https://farbenweg.ch/tags/mandala/</link>
+      <pubDate>Sun, 08 Aug 2021 14:19:59 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/tags/mandala/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meditation</title>
+      <link>https://farbenweg.ch/tags/meditation/</link>
+      <pubDate>Sun, 08 Aug 2021 14:19:59 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/tags/meditation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mitte</title>
+      <link>https://farbenweg.ch/tags/mitte/</link>
+      <pubDate>Sun, 08 Aug 2021 14:19:59 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/tags/mitte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zentrierung</title>
+      <link>https://farbenweg.ch/tags/zentrierung/</link>
+      <pubDate>Sun, 08 Aug 2021 14:19:59 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/tags/zentrierung/</guid>
       <description></description>
     </item>
     
@@ -26,15 +98,6 @@
       <pubDate>Fri, 30 Jul 2021 16:28:16 +0200</pubDate>
       
       <guid>https://farbenweg.ch/tags/gestalten/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Malen</title>
-      <link>https://farbenweg.ch/tags/malen/</link>
-      <pubDate>Fri, 30 Jul 2021 16:28:16 +0200</pubDate>
-      
-      <guid>https://farbenweg.ch/tags/malen/</guid>
       <description></description>
     </item>
     
@@ -75,15 +138,6 @@
     </item>
     
     <item>
-      <title>Kraft</title>
-      <link>https://farbenweg.ch/tags/kraft/</link>
-      <pubDate>Thu, 08 Jul 2021 08:23:14 +0000</pubDate>
-      
-      <guid>https://farbenweg.ch/tags/kraft/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Kunst</title>
       <link>https://farbenweg.ch/tags/kunst/</link>
       <pubDate>Thu, 08 Jul 2021 08:23:14 +0000</pubDate>
@@ -116,33 +170,6 @@
       <pubDate>Thu, 29 Apr 2021 20:56:00 +0200</pubDate>
       
       <guid>https://farbenweg.ch/tags/wege/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mandala</title>
-      <link>https://farbenweg.ch/tags/mandala/</link>
-      <pubDate>Tue, 23 Mar 2021 21:21:20 +0200</pubDate>
-      
-      <guid>https://farbenweg.ch/tags/mandala/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mitte</title>
-      <link>https://farbenweg.ch/tags/mitte/</link>
-      <pubDate>Tue, 23 Mar 2021 21:21:20 +0200</pubDate>
-      
-      <guid>https://farbenweg.ch/tags/mitte/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zentrierung</title>
-      <link>https://farbenweg.ch/tags/zentrierung/</link>
-      <pubDate>Tue, 23 Mar 2021 21:21:20 +0200</pubDate>
-      
-      <guid>https://farbenweg.ch/tags/zentrierung/</guid>
       <description></description>
     </item>
     
