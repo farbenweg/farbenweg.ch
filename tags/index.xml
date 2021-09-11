@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Farbenweg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Sun, 08 Aug 2021 14:19:59 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 11 Sep 2021 12:04:08 +0200</lastBuildDate>
     
 	<atom:link href="https://farbenweg.ch/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>Farben</title>
       <link>https://farbenweg.ch/tags/farben/</link>
-      <pubDate>Sun, 08 Aug 2021 14:19:59 +0200</pubDate>
+      <pubDate>Sat, 11 Sep 2021 12:04:08 +0200</pubDate>
       
       <guid>https://farbenweg.ch/tags/farben/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wydeneck</title>
+      <link>https://farbenweg.ch/tags/wydeneck/</link>
+      <pubDate>Sat, 11 Sep 2021 12:04:08 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/tags/wydeneck/</guid>
       <description></description>
     </item>
     
@@ -354,7 +363,7 @@
     </item>
     
     <item>
-      <title>wachsen</title>
+      <title>Wachsen</title>
       <link>https://farbenweg.ch/tags/wachsen/</link>
       <pubDate>Wed, 16 Sep 2020 23:20:52 +0200</pubDate>
       

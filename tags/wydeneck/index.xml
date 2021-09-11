@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wydeneck on Farbenweg</title>
+    <link>https://farbenweg.ch/tags/wydeneck/</link>
+    <description>Recent content in Wydeneck on Farbenweg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Sat, 11 Sep 2021 12:04:08 +0200</lastBuildDate>
+    
+	<atom:link href="https://farbenweg.ch/tags/wydeneck/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Strassenbemalung</title>
+      <link>https://farbenweg.ch/2021/09/11/strassenbemalung/</link>
+      <pubDate>Sat, 11 Sep 2021 12:04:08 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/2021/09/11/strassenbemalung/</guid>
+      <description>Um mehr Farbe ins Wydeneck zu bringen, wird die Strasse bemalt. Gerne gebe ich Informationen für Gruppen.</description>
+    </item>
+    
+  </channel>
+</rss>
