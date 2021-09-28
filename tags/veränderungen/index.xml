@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Veränderungen on Farbenweg</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Veränderungen on Farbenweg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Mon, 27 Apr 2020 22:58:00 +0200</lastBuildDate>
-    
-	<atom:link href="https://farbenweg.ch/tags/ver%C3%A4nderungen/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 27 Apr 2020 22:58:00 +0200</lastBuildDate><atom:link href="https://farbenweg.ch/tags/ver%C3%A4nderungen/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kontakt Farbenweg</title>
       <link>https://farbenweg.ch/kontakt/</link>
@@ -23,8 +19,7 @@ Gebäude 899
 Weidenstrasse 50
 4143 Dornach
 Telefon: 076 445 72 20
-E-Mail: info@farbenweg.ch
-Kontaktformular Name E-Mail  Telefonnummer  Deine Nachricht   Ich interessiere mich für Wähle Mandalamalen Freies Malen Blog  -- Senden  AGB für Kurse</description>
+E-Mail: info@farbenweg.chKontaktformular Name&amp;lt;input { font-size: 16px; } type=&amp;ldquo;text&amp;rdquo; name=&amp;ldquo;name&amp;rdquo; id=&amp;ldquo;full-name&amp;rdquo; placeholder=&amp;ldquo;Vor- und Nachname&amp;rdquo; required=&amp;quot;&amp;quot; style=&amp;ldquo;font-size: 16px&amp;rdquo;&amp;gt; SendenAGB für Kurse[Datenschutzerklärung] (../datenschutzerklaerung/)</description>
     </item>
     
     <item>
@@ -51,7 +46,7 @@ Jorge Bucay
 Wünschst Du Dir mehr Farben in Deinem Leben?
 Suchst Du neue Wege?
 Möchtest Du gestärkt aus Veränderungen weiter gehen?
-Das Atelier Farbenweg ermöglicht es dir &amp;hellip;  &amp;hellip; mehr Farben in Dein Leben zu bringen. &amp;hellip; Dich selber kreativ auszudrücken. &amp;hellip; mit diversen Materialien zu experimentieren. &amp;hellip; Dich mit anderen auszutauschen. &amp;hellip; mit allen Sinnen wahrzunehmen. &amp;hellip; Dich selbst wahrzunehmen. &amp;hellip; neue Möglichkeiten zu entdecken.</description>
+Das Atelier Farbenweg ermöglicht es dir &amp;hellip;  &amp;hellip; mehr Farben in Dein Leben zu bringen. &amp;hellip; Dich selber kreativ auszudrücken. &amp;hellip; mit diversen Materialien zu experimentieren. &amp;hellip; Dich mit anderen auszutauschen. &amp;hellip; mit allen Sinnen wahrzunehmen. &amp;hellip; Dich selbst wahrzunehmen. &amp;hellip; neue Möglichkeiten zu entdecken. &amp;hellip; Dich persönlich zu entwickeln.</description>
     </item>
     
   </channel>

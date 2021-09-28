@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kurse on Farbenweg</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Kurse on Farbenweg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Sat, 11 Sep 2021 12:04:08 +0200</lastBuildDate>
-    
-	<atom:link href="https://farbenweg.ch/categories/kurse/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 11 Sep 2021 12:04:08 +0200</lastBuildDate><atom:link href="https://farbenweg.ch/categories/kurse/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Strassenbemalung</title>
       <link>https://farbenweg.ch/strassenbemalung/</link>
@@ -82,8 +78,7 @@ Schutzkonzept Atelier Farbenweg
       
       <guid>https://farbenweg.ch/mandala-malen-im-winter/</guid>
       <description>Die Natur ruht im Winter. Du wünschst dir auch Momente der inneren Ruhe. Möchtest du den Kontakt zu dir selber stärken, deine innere Farbigkeit erleben und malen?
-&amp;nbsp;
-.video-mask{max-width: 50%;border-radius: 50%;overflow: hidden;display: block;} Your browser does not support video.  Beim Mandalamalen&amp;hellip;  &amp;hellip; erfährst du Zentrierung, Wärme und Licht in der dunklen Jahreszeit. Im schöpferischen Tun liegt eine Quelle der Kraft.</description>
+.video-mask{max-width: 50%;border-radius: 50%;overflow: hidden;display: block;} Your browser does not support video.  Beim Mandalamalen&amp;hellip;  &amp;hellip; erfährst du Zentrierung, Wärme und Licht in der dunklen Jahreszeit. Im schöpferischen Tun liegt eine Quelle der Kraft. Wähle deine Farben und Formen und kreiere dein eigenes Mandala.</description>
     </item>
     
     <item>
@@ -93,8 +88,7 @@ Schutzkonzept Atelier Farbenweg
       
       <guid>https://farbenweg.ch/zentrierung-beim-mandalamalen/</guid>
       <description>Wünschst Du Dir Momente der inneren Ruhe? Möchtest Du den Kontakt zu Dir selber stärken, deine innere Farbigkeit erleben und malen?
-&amp;nbsp;
-.video-mask{max-width: 50%;border-radius: 50%;overflow: hidden;display: block;} Your browser does not support video.  Beim Mandalamalen&amp;hellip;  &amp;hellip; erfährst Du Zentrierung, Wärme und Licht. Im schöpferischen Tun liegt eine Quelle der Kraft. Wähle deine Farben und Formen und kreiere dein eigenes Mandala.</description>
+.video-mask{max-width: 50%;border-radius: 50%;overflow: hidden;display: block;} Your browser does not support video.  Beim Mandalamalen&amp;hellip;  &amp;hellip; erfährst Du Zentrierung, Wärme und Licht. Im schöpferischen Tun liegt eine Quelle der Kraft. Wähle deine Farben und Formen und kreiere dein eigenes Mandala. Dabei unterstützt Du Körper, Seele und Geist.</description>
     </item>
     
     <item>
@@ -117,8 +111,7 @@ Jorge Bucay
       <pubDate>Mon, 27 Apr 2020 08:22:57 +0000</pubDate>
       
       <guid>https://farbenweg.ch/search/</guid>
-      <description>// define globale variables var idx, searchInput, searchResults = null var documents = [] function renderSearchResults(results){ if (results.length  0) { // show max 10 results if (results.length  9){ results = results.slice(0,10) } // reset search results searchResults.innerHTML = &#39;&#39; // append results results.forEach(result = { // create result item var article = document.createElement(&#39;article&#39;) article.innerHTML = ` ${documents[result.ref].title} ${result.ref}
-` searchResults.appendChild(article) }) // if results are empty } else { searchResults.</description>
+      <description></description>
     </item>
     
   </channel>

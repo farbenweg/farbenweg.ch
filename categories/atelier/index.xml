@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Atelier on Farbenweg</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Atelier on Farbenweg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Sun, 08 Aug 2021 14:19:59 +0200</lastBuildDate>
-    
-	<atom:link href="https://farbenweg.ch/categories/atelier/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 08 Aug 2021 14:19:59 +0200</lastBuildDate><atom:link href="https://farbenweg.ch/categories/atelier/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mandalaprozess</title>
       <link>https://farbenweg.ch/mandalaprozess/</link>
@@ -43,9 +39,8 @@ Programm:
       <guid>https://farbenweg.ch/kunsttherapie/</guid>
       <description>Bist Du interessiert 12 Stunden Kunsttherapie einzeln zu erfahren?
 Im Rahmen meiner Ausbildung zur Kunsttherapeutin begleite ich Dich für 12 Stunden in Malen und Gestalten. Beim kreativen Ausdruck beschäftigst Du Dich mit einem Anliegen und schaffst Dir neue Möglichkeiten.
-Eine Schnupperstunde zu CHF 30.- kann zum Einstieg besucht werden. Es sind keine Vorkenntnisse erforderlich.
-Details   Ort 1: Atelier Farbenweg, Weidenstr. 50, Dornach und
- Ort 2: magenta Akademie, Werkstr.</description>
+Es sind keine Vorkenntnisse erforderlich.
+Details   Ort 1:	Atelier Farbenweg, Weidenstr. 50, Dornach und Ort 2:	magenta Akademie, Werkstr. 1, Reiden Datum:	Einzeltermine nach Absprache Kosten:	Für 12 Stunden CHF 360.</description>
     </item>
     
     <item>
@@ -77,8 +72,7 @@ Schutzkonzept Atelier Farbenweg
       
       <guid>https://farbenweg.ch/mandala-malen-im-winter/</guid>
       <description>Die Natur ruht im Winter. Du wünschst dir auch Momente der inneren Ruhe. Möchtest du den Kontakt zu dir selber stärken, deine innere Farbigkeit erleben und malen?
-&amp;nbsp;
-.video-mask{max-width: 50%;border-radius: 50%;overflow: hidden;display: block;} Your browser does not support video.  Beim Mandalamalen&amp;hellip;  &amp;hellip; erfährst du Zentrierung, Wärme und Licht in der dunklen Jahreszeit. Im schöpferischen Tun liegt eine Quelle der Kraft.</description>
+.video-mask{max-width: 50%;border-radius: 50%;overflow: hidden;display: block;} Your browser does not support video.  Beim Mandalamalen&amp;hellip;  &amp;hellip; erfährst du Zentrierung, Wärme und Licht in der dunklen Jahreszeit. Im schöpferischen Tun liegt eine Quelle der Kraft. Wähle deine Farben und Formen und kreiere dein eigenes Mandala.</description>
     </item>
     
     <item>
@@ -88,8 +82,7 @@ Schutzkonzept Atelier Farbenweg
       
       <guid>https://farbenweg.ch/zentrierung-beim-mandalamalen/</guid>
       <description>Wünschst Du Dir Momente der inneren Ruhe? Möchtest Du den Kontakt zu Dir selber stärken, deine innere Farbigkeit erleben und malen?
-&amp;nbsp;
-.video-mask{max-width: 50%;border-radius: 50%;overflow: hidden;display: block;} Your browser does not support video.  Beim Mandalamalen&amp;hellip;  &amp;hellip; erfährst Du Zentrierung, Wärme und Licht. Im schöpferischen Tun liegt eine Quelle der Kraft. Wähle deine Farben und Formen und kreiere dein eigenes Mandala.</description>
+.video-mask{max-width: 50%;border-radius: 50%;overflow: hidden;display: block;} Your browser does not support video.  Beim Mandalamalen&amp;hellip;  &amp;hellip; erfährst Du Zentrierung, Wärme und Licht. Im schöpferischen Tun liegt eine Quelle der Kraft. Wähle deine Farben und Formen und kreiere dein eigenes Mandala. Dabei unterstützt Du Körper, Seele und Geist.</description>
     </item>
     
     <item>
@@ -104,7 +97,7 @@ Weidenstrasse 50
 4143 Dornach
 E-Mail: info@farbenweg.ch
 Urheberrecht Falls nicht anders erwähnt, unterliegen die unter farbenweg.ch veröffentlichten Inhalte wie Texte, Bilder, Fotos, Icons und anderen Dateien dem Copyright der Websitebetreiberin.
-Weitere Bilder: Das Hugo-Logo stammt von Wikimedia Commons, Copyright 2014 Steve Francia. Das GitHub-Logo stammt von GitHub.
+Weitere Bilder: Das Hugo-Logo stammt von [Wikimedia Commons] (https://commons.wikimedia.org/wiki/File:Logo_of_Hugo_the_static_website_generator.svg?uselang=de), Copyright 2014 Steve Francia. Das GitHub-Logo stammt von [GitHub] (https://github.com/).
 Haftungsbeschränkung Bei Empfehlungen für weiterführende Informationen verweist farbenweg.ch auf andere Webseiten. Es kann passieren, dass die sich referenzierten Inhalte ändern.</description>
     </item>
     
@@ -120,8 +113,7 @@ Gebäude 899
 Weidenstrasse 50
 4143 Dornach
 Telefon: 076 445 72 20
-E-Mail: info@farbenweg.ch
-Kontaktformular Name E-Mail  Telefonnummer  Deine Nachricht   Ich interessiere mich für Wähle Mandalamalen Freies Malen Blog  -- Senden  AGB für Kurse</description>
+E-Mail: info@farbenweg.chKontaktformular Name&amp;lt;input { font-size: 16px; } type=&amp;ldquo;text&amp;rdquo; name=&amp;ldquo;name&amp;rdquo; id=&amp;ldquo;full-name&amp;rdquo; placeholder=&amp;ldquo;Vor- und Nachname&amp;rdquo; required=&amp;quot;&amp;quot; style=&amp;ldquo;font-size: 16px&amp;rdquo;&amp;gt; SendenAGB für Kurse[Datenschutzerklärung] (../datenschutzerklaerung/)</description>
     </item>
     
     <item>
@@ -144,8 +136,7 @@ Jorge Bucay
       <pubDate>Mon, 27 Apr 2020 08:22:57 +0000</pubDate>
       
       <guid>https://farbenweg.ch/search/</guid>
-      <description>// define globale variables var idx, searchInput, searchResults = null var documents = [] function renderSearchResults(results){ if (results.length  0) { // show max 10 results if (results.length  9){ results = results.slice(0,10) } // reset search results searchResults.innerHTML = &#39;&#39; // append results results.forEach(result = { // create result item var article = document.createElement(&#39;article&#39;) article.innerHTML = ` ${documents[result.ref].title} ${result.ref}
-` searchResults.appendChild(article) }) // if results are empty } else { searchResults.</description>
+      <description></description>
     </item>
     
   </channel>

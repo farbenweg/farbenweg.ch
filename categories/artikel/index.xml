@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Artikel on Farbenweg</title>
@@ -6,42 +6,18 @@
     <description>Recent content in Artikel on Farbenweg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Thu, 29 Apr 2021 20:56:00 +0200</lastBuildDate>
-    
-	<atom:link href="https://farbenweg.ch/categories/artikel/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 29 Apr 2021 20:56:00 +0200</lastBuildDate><atom:link href="https://farbenweg.ch/categories/artikel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Freiheit und Struktur</title>
       <link>https://farbenweg.ch/2021/04/29/freiheit-und-struktur/</link>
       <pubDate>Thu, 29 Apr 2021 20:56:00 +0200</pubDate>
       
       <guid>https://farbenweg.ch/2021/04/29/freiheit-und-struktur/</guid>
-      <description>&amp;ndash; Kristall &amp;ndash;   Im Finstern
+      <description>&amp;ndash; Kristall &amp;ndash;  Im Finstern
 suche ich gern.
 Entdecke fern
-funkelt ein Stern. 
-Kreativ
-ändert er sich.
-Wächst intensiv
-gegen das Licht.
-Explosiv
-verbrennt er sich.
-Neue Form
-entsteht magisch. 
-Im Quadrat
-reift die Saat.
-Ich mache Rast
-in meinem Palast. 
-Ich grabe nach
-einem Kristall.
-Sehe hundertfach
-gespiegeltes All. 
-Scharfe Klingen
-setze ich ein.
-Wird es gelingen
-klar zu sein? 
-Das Wesentliche</description>
+funkelt ein Stern. Entstehung  Als Titelbild und Bild zum Gedicht siehst du einen Zwischenschritt und nicht das fertige Bild. Innerhalb von acht Tagen malte ich dieses Mandala. Die Struktur zeichnete ich vor. Spontan entschied ich, wo und wie ich die Flächen bemalte. Die einzelnen Schritte betrachte ich in diesem Text als Reise durch die fünf Wandlungsphasen.
+Funkeln im Dunkeln  水 Wasser</description>
     </item>
     
     <item>
@@ -73,7 +49,7 @@ Einige Jahre später war ich mit dem Rucksack und dem Zelt am Reisen. Dabei hatt
 Wünschst Du Dir mehr Farben in Deinem Leben?
 Suchst Du neue Wege?
 Möchtest Du gestärkt aus Veränderungen weiter gehen?
-Das Atelier Farbenweg ermöglicht es dir &amp;hellip;  &amp;hellip; mehr Farben in Dein Leben zu bringen. &amp;hellip; Dich selber kreativ auszudrücken. &amp;hellip; mit diversen Materialien zu experimentieren. &amp;hellip; Dich mit anderen auszutauschen. &amp;hellip; mit allen Sinnen wahrzunehmen. &amp;hellip; Dich selbst wahrzunehmen. &amp;hellip; neue Möglichkeiten zu entdecken.</description>
+Das Atelier Farbenweg ermöglicht es dir &amp;hellip;  &amp;hellip; mehr Farben in Dein Leben zu bringen. &amp;hellip; Dich selber kreativ auszudrücken. &amp;hellip; mit diversen Materialien zu experimentieren. &amp;hellip; Dich mit anderen auszutauschen. &amp;hellip; mit allen Sinnen wahrzunehmen. &amp;hellip; Dich selbst wahrzunehmen. &amp;hellip; neue Möglichkeiten zu entdecken. &amp;hellip; Dich persönlich zu entwickeln.</description>
     </item>
     
     <item>
@@ -93,7 +69,7 @@ In der Ausbildung kommt die Aufgabe von außen. Wie schaffe ich es von innen, mi
       
       <guid>https://farbenweg.ch/2020/03/24/eine-website-mit-hugo-erstellen/</guid>
       <description>Das ist mein erster Eintrag. Heute ist ein sonniger Märztag mit einer kalten Bise. Wie erstelle ich eine Website für Farbenweg?
-Eine statische Website? Ich habe mich für eine statische Website entschieden. Hier finden wir einen Bericht von Chris über statische Website-Generatoren. Die statische Website wird automatisch aus einer Vorlage (Template) und dem Inhalt (Content) generiert. Als Hauptvorteile gelten schnelle Ladezeiten und hohe Sicherheit der statischen Sites.
+Eine statische Website? Ich habe mich für eine statische Website entschieden. Hier finden wir einen Bericht von Chris über [statische Website-Generatoren] (http://cinereal.info/article/new-website-static-site-generator/). Die statische Website wird automatisch aus einer Vorlage (Template) und dem Inhalt (Content) generiert. Als Hauptvorteile gelten schnelle Ladezeiten und hohe Sicherheit der statischen Sites.
 Die Website erstelle ich mit den drei Komponenten Hugo, Windows PowerShell ISE und Visual Studio Code.</description>
     </item>
     

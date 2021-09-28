@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kunsttherapie on Farbenweg</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Kunsttherapie on Farbenweg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Wed, 28 Jul 2021 11:17:32 +0200</lastBuildDate>
-    
-	<atom:link href="https://farbenweg.ch/categories/kunsttherapie/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 28 Jul 2021 11:17:32 +0200</lastBuildDate><atom:link href="https://farbenweg.ch/categories/kunsttherapie/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kunsttherapie</title>
       <link>https://farbenweg.ch/kunsttherapie/</link>
@@ -19,9 +15,8 @@
       <guid>https://farbenweg.ch/kunsttherapie/</guid>
       <description>Bist Du interessiert 12 Stunden Kunsttherapie einzeln zu erfahren?
 Im Rahmen meiner Ausbildung zur Kunsttherapeutin begleite ich Dich für 12 Stunden in Malen und Gestalten. Beim kreativen Ausdruck beschäftigst Du Dich mit einem Anliegen und schaffst Dir neue Möglichkeiten.
-Eine Schnupperstunde zu CHF 30.- kann zum Einstieg besucht werden. Es sind keine Vorkenntnisse erforderlich.
-Details   Ort 1: Atelier Farbenweg, Weidenstr. 50, Dornach und
- Ort 2: magenta Akademie, Werkstr.</description>
+Es sind keine Vorkenntnisse erforderlich.
+Details   Ort 1:	Atelier Farbenweg, Weidenstr. 50, Dornach und Ort 2:	magenta Akademie, Werkstr. 1, Reiden Datum:	Einzeltermine nach Absprache Kosten:	Für 12 Stunden CHF 360.</description>
     </item>
     
   </channel>

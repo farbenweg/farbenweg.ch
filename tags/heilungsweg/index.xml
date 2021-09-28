@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Heilungsweg on Farbenweg</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Heilungsweg on Farbenweg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Sun, 08 Aug 2021 14:19:59 +0200</lastBuildDate>
-    
-	<atom:link href="https://farbenweg.ch/tags/heilungsweg/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 08 Aug 2021 14:19:59 +0200</lastBuildDate><atom:link href="https://farbenweg.ch/tags/heilungsweg/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mandalaprozess</title>
       <link>https://farbenweg.ch/mandalaprozess/</link>
