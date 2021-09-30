@@ -70,7 +70,9 @@ Gebäude 899
 Weidenstrasse 50
 4143 Dornach
 Telefon: 076 445 72 20
-E-Mail: info@farbenweg.chKontaktformular Name&amp;lt;input { font-size: 16px; } type=&amp;ldquo;text&amp;rdquo; name=&amp;ldquo;name&amp;rdquo; id=&amp;ldquo;full-name&amp;rdquo; placeholder=&amp;ldquo;Vor- und Nachname&amp;rdquo; required=&amp;quot;&amp;quot; style=&amp;ldquo;font-size: 16px&amp;rdquo;&amp;gt; SendenAGB für Kurse[Datenschutzerklärung] (../datenschutzerklaerung/)</description>
+E-Mail: info@farbenweg.ch
+Kontaktformular Name  E-Mail  Telefonnummer  Deine Nachricht   Ich interessiere mich für Wähle Mandalamalen Freies Malen Blog  -- Senden
+ AGB für Kurse</description>
     </item>
     
     <item>
@@ -93,7 +95,8 @@ Jorge Bucay
       <pubDate>Mon, 27 Apr 2020 08:22:57 +0000</pubDate>
       
       <guid>https://farbenweg.ch/search/</guid>
-      <description></description>
+      <description>// define globale variablesvar idx, searchInput, searchResults = nullvar documents = []function renderSearchResults(results){if (results.length  0) {// show max 10 resultsif (results.length  9){results = results.slice(0,10)}// reset search resultssearchResults.innerHTML = &#39;&#39;// append resultsresults.forEach(result = {// create result itemvar article = document.createElement(&#39;article&#39;)article.innerHTML = `${documents[result.ref].title}${result.ref}
+`searchResults.appendChild(article)})// if results are empty} else {searchResults.</description>
     </item>
     
   </channel>
