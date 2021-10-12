@@ -1,78 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Blog on Farbenweg</title>
-    <link>https://farbenweg.ch/categories/blog/</link>
-    <description>Recent content in Blog on Farbenweg</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>de-de</language>
-    <lastBuildDate>Wed, 20 May 2020 23:19:49 +0200</lastBuildDate><atom:link href="https://farbenweg.ch/categories/blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Impressum</title>
-      <link>https://farbenweg.ch/impressum/</link>
-      <pubDate>Wed, 20 May 2020 23:19:49 +0200</pubDate>
-      
-      <guid>https://farbenweg.ch/impressum/</guid>
-      <description>Websitebetreiberin Monika Gloor
-Gebäude 899
-Weidenstrasse 50
-4143 Dornach
-E-Mail: info@farbenweg.ch
-Urheberrecht Falls nicht anders erwähnt, unterliegen die unter farbenweg.ch veröffentlichten Inhalte wie Texte, Bilder, Fotos, Icons und anderen Dateien dem Copyright der Websitebetreiberin.
-Weitere Bilder: Das Hugo-Logo stammt von [Wikimedia Commons] (https://commons.wikimedia.org/wiki/File:Logo_of_Hugo_the_static_website_generator.svg?uselang=de), Copyright 2014 Steve Francia. Das GitHub-Logo stammt von [GitHub] (https://github.com/).
-Haftungsbeschränkung Bei Empfehlungen für weiterführende Informationen verweist farbenweg.ch auf andere Webseiten. Es kann passieren, dass die sich referenzierten Inhalte ändern.</description>
-    </item>
-    
-    <item>
-      <title>Kontakt Farbenweg</title>
-      <link>https://farbenweg.ch/kontakt/</link>
-      <pubDate>Mon, 27 Apr 2020 22:58:00 +0200</pubDate>
-      
-      <guid>https://farbenweg.ch/kontakt/</guid>
-      <description>Du möchtest Dich informieren, für einen Kurs anmelden, den Blog abonnieren oder eine Rückmeldung dazu geben. Melde Dich direkt bei mir oder via Kontaktformular. Vielen Dank und bis bald.
-Monika Gloor
-Gebäude 899
-Weidenstrasse 50
-4143 Dornach
-Telefon: 076 445 72 20
-E-Mail: info@farbenweg.ch
-Kontaktformular Name  E-Mail  Telefonnummer  Deine Nachricht   Ich interessiere mich für Wähle Mandalamalen Freies Malen Blog  -- Senden
- AGB für Kurse</description>
-    </item>
-    
-    <item>
-      <title>Suche</title>
-      <link>https://farbenweg.ch/search/</link>
-      <pubDate>Mon, 27 Apr 2020 08:22:57 +0000</pubDate>
-      
-      <guid>https://farbenweg.ch/search/</guid>
-      <description>// define globale variablesvar idx, searchInput, searchResults = nullvar documents = []function renderSearchResults(results){if (results.length  0) {// show max 10 resultsif (results.length  9){results = results.slice(0,10)}// reset search resultssearchResults.innerHTML = &#39;&#39;// append resultsresults.forEach(result = {// create result itemvar article = document.createElement(&#39;article&#39;)article.innerHTML = `${documents[result.ref].title}${result.ref}
-`searchResults.appendChild(article)})// if results are empty} else {searchResults.</description>
-    </item>
-    
-    <item>
-      <title>Über den Farbenweg</title>
-      <link>https://farbenweg.ch/ueber/</link>
-      <pubDate>Mon, 27 Apr 2020 08:22:57 +0000</pubDate>
-      
-      <guid>https://farbenweg.ch/ueber/</guid>
-      <description>Hast Du graue Tage satt?
-Wünschst Du Dir mehr Farben in Deinem Leben?
-Suchst Du neue Wege?
-Möchtest Du gestärkt aus Veränderungen weiter gehen?
-Das Atelier Farbenweg ermöglicht es dir &amp;hellip;  &amp;hellip; mehr Farben in Dein Leben zu bringen. &amp;hellip; Dich selber kreativ auszudrücken. &amp;hellip; mit diversen Materialien zu experimentieren. &amp;hellip; Dich mit anderen auszutauschen. &amp;hellip; mit allen Sinnen wahrzunehmen. &amp;hellip; Dich selbst wahrzunehmen. &amp;hellip; neue Möglichkeiten zu entdecken. &amp;hellip; Dich persönlich zu entwickeln.</description>
-    </item>
-    
-    <item>
-      <title>Eine Website mit Hugo erstellen</title>
-      <link>https://farbenweg.ch/2020/03/24/eine-website-mit-hugo-erstellen/</link>
-      <pubDate>Tue, 24 Mar 2020 06:39:09 +0200</pubDate>
-      
-      <guid>https://farbenweg.ch/2020/03/24/eine-website-mit-hugo-erstellen/</guid>
-      <description>Das ist mein erster Eintrag. Heute ist ein sonniger Märztag mit einer kalten Bise. Wie erstelle ich eine Website für Farbenweg?
-Eine statische Website? Ich habe mich für eine statische Website entschieden. Hier finden wir einen Bericht von Chris über [statische Website-Generatoren] (http://cinereal.info/article/new-website-static-site-generator/). Die statische Website wird automatisch aus einer Vorlage (Template) und dem Inhalt (Content) generiert. Als Hauptvorteile gelten schnelle Ladezeiten und hohe Sicherheit der statischen Sites.
-Die Website erstelle ich mit den drei Komponenten Hugo, Windows PowerShell ISE und Visual Studio Code.</description>
-    </item>
-    
-  </channel>
-</rss>
