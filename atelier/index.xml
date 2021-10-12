@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Atelier on Farbenweg</title>
+    <link>https://farbenweg.ch/atelier/</link>
+    <description>Recent content in Atelier on Farbenweg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Tue, 12 Oct 2021 11:52:18 +0700</lastBuildDate><atom:link href="https://farbenweg.ch/atelier/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Impressionen des Ateliers</title>
+      <link>https://farbenweg.ch/atelier/impressionen/</link>
+      <pubDate>Mon, 11 Oct 2021 21:41:32 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/atelier/impressionen/</guid>
+      <description>Das Atelier Farbenweg lädt zum Malen und Gestalten ein.
+Im Zentrum steht der Malwagen mit 28 Gouachefarben bester Qualität. Die Wände sind mit Malwänden ausgestattet. Papier, Farbstifte, Ölkreiden, Kohle und Pastellkreiden gehören dazu.
+Mit Ton, Speckstein, Naturmaterialien und vielem mehr können Objekte gestaltet werden. Die acht Meter lange Fensterfront sorgt tagsüber für viel Licht.</description>
+    </item>
+    
+    <item>
+      <title>Strassenbemalung</title>
+      <link>https://farbenweg.ch/atelier/strassenbemalung/</link>
+      <pubDate>Tue, 28 Sep 2021 20:27:12 +0200</pubDate>
+      
+      <guid>https://farbenweg.ch/atelier/strassenbemalung/</guid>
+      <description>Im September 2021 hat die Bemalung der Strasse im Wydeneck begonnen. Kinder und Jugendliche aus Dornach, Arlesheim, Münchenstein, Aesch, Reinach und der Umgebung sind eingeladen.
+Wir stellen den Kindern und Jugendlichen ein Feld von bis zu einem Quadratmeter zur freien Gestaltung zur Verfügung. Es wird Feld für Feld bemalt, immer Richtung Süden; so entsteht über mehrere Jahrgänge von Kindern und Jugendlichen ein einmaliges Werk.
+HIAG, die Eigentümerin des Areals, stellt Farben und Mal- und Absperrutensilien zur Verfügung.</description>
+    </item>
+    
+  </channel>
+</rss>
