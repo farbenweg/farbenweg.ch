@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kontakt on Farbenweg</title>
-    <link>https://farbenweg.ch/kontakt/</link>
+    <link>https://farbenweg.ch/pages/kontakt/</link>
     <description>Recent content in Kontakt on Farbenweg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Wed, 13 Oct 2021 17:01:34 +0700</lastBuildDate><atom:link href="https://farbenweg.ch/kontakt/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Feb 2018 17:01:34 +0700</lastBuildDate><atom:link href="https://farbenweg.ch/pages/kontakt/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
