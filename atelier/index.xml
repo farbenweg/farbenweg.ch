@@ -15,7 +15,7 @@
       <guid>https://farbenweg.ch/atelier/impressionen/</guid>
       <description>Das Atelier Farbenweg lädt zum Malen und Gestalten ein.
 Im Zentrum steht der Malwagen mit 28 Gouachefarben bester Qualität. Die Wände sind mit Malwänden ausgestattet. Papier, Farbstifte, Ölkreiden, Kohle und Pastellkreiden gehören dazu.
-Mit Ton, Speckstein, Naturmaterialien und vielem mehr können Objekte gestaltet werden. Die acht Meter lange Fensterfront sorgt tagsüber für viel Licht.</description>
+Mit Ton, Speckstein, Naturmaterialien und vielem mehr können Objekte gestaltet werden. Die acht Meter lange Fensterfront sorgt tagsüber für viel Licht.</description>
     </item>
     
     <item>
@@ -36,19 +36,15 @@ HIAG, die Eigentümerin des Areals, stellt Farben und Mal- und Absperrutensilien
       
       <guid>https://farbenweg.ch/atelier/gedichte/</guid>
       <description>Seit der Entstehung des Farbenwegs habe ich diverse Gedichte zu Bildern geschrieben. Hier findet Ihr eine Auswahl davon. Sie wird laufend ergänzt.
-Fließen Wenn das Leben kaum fließt.
-Wenn der Regen kaum gießt,
-auf die großen Straßen.
-Und leider vergaßen
-wir unsere Füße.
-Die blassen Grüße
-wurden schließlich weiß.
-Es ist viel zu heiß.
-Der Pfad zu dem Dunkeln,
-die Warnlichter funkeln.
-Zum Weiter entschlossen,
-auch Schatten genossen.
-Ganz ohne zu hasten</description>
+&amp;nbsp;
+img { border-radius: 5px; }Der Tropfen spiegelt die Welt Es ist soweit: Regen
+fällt heut auf den Wegen.
+Da landen sanft Tropfen
+mit leisem Klopfen.
+Die Landschaft scheint blasser.
+Ein Schleier von Wasser.
+Bald wechselt das Wetter.
+Wie glänzen die Blätter? Der Tropfen, der hält,</description>
     </item>
     
   </channel>
