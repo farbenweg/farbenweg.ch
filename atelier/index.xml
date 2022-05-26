@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Atelier on Farbenweg</title>
+    <title>Atelier on farbenweg.ch</title>
     <link>https://farbenweg.ch/atelier/</link>
-    <description>Recent content in Atelier on Farbenweg</description>
+    <description>Recent content in Atelier on farbenweg.ch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Tue, 12 Oct 2021 11:52:18 +0700</lastBuildDate><atom:link href="https://farbenweg.ch/atelier/index.xml" rel="self" type="application/rss+xml" />
