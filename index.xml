@@ -25,8 +25,7 @@ Gestern erinnerte ich mich an die Wasserschildkröte. Im Jahr 2009 war ich ihr b
       <guid>https://farbenweg.ch/atelier/impressionen/</guid>
       <description>Das Atelier Farbenweg lädt Sie zum Malen und Gestalten ein. Im Zentrum stehen Sie als Mensch mit Ihrem freien Ausdruck und Ihrem Anliegen.
 Das Zeichnen, Malen und Modellieren sind ein Weg, um unbewusste Inhalte sichtbar und wirksam werden zu lassen. Dabei geht hier weniger um das Ergebnis. Vielmehr können Sie Ihren Handlungsspielraum erweitern.
- „Oft wissen die Hände ein Geheimnis zu enträtseln, an dem der Verstand sich vergebens bemühte.“
- C.</description>
+img { border-radius: 10px; } „Oft wissen die Hände ein Geheimnis zu enträtseln, an dem der Verstand sich vergebens bemühte.</description>
     </item>
     
     <item>
@@ -69,7 +68,7 @@ Die Form des Mandalas wirkt integrierend.</description>
       <guid>https://farbenweg.ch/atelier/gedichte/</guid>
       <description>Seit der Entstehung des Farbenwegs habe ich diverse Gedichte zu Bildern geschrieben. Hier findet Ihr eine Auswahl davon. Sie wird laufend ergänzt.
 &amp;nbsp;
-img { border-radius: 5px; }Goldene Linie Ich führe mich
+img { border-radius: 10px; }Goldene Linie Ich führe mich
 Spüre mich
 Folge meinem Herz
 Ich berühre mich
@@ -90,8 +89,8 @@ Mein Wunsch fliegt los</description>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
       <guid>https://farbenweg.ch/angebot/freies-malen-und-gestalten/</guid>
-      <description>Wünschen Sie sich Zeit und Raum für sich? Sind Sie offen, neue Möglichkeiten zu entdecken? Hier können Sie ihrem persönlichen Farbenweg auf die Spur kommen.
-In der Gruppe malen und gestalten Sie frei oder zu gewünschten Themen. Das prozessorientierte Malen und Gestalten bietet Ihnen einen geschützten Rahmen sich auszudrücken, Erlebtes wahrzunehmen und Neues auszuprobieren. Es ist ein ganzheitlicher Weg und fördert die persönliche Entwicklung.
+      <description>Wünschen Sie sich Zeit und Raum für sich? Sind Sie offen, neue Möglichkeiten zu entdecken? Hier können Sie ihrem persönlichen Farbenweg auf die Spur kommen. In der Gruppe malen und gestalten Sie frei oder zu gewünschten Themen.
+Das prozessorientierte Malen und Gestalten bietet Ihnen einen geschützten Rahmen sich auszudrücken, Erlebtes wahrzunehmen und Neues auszuprobieren. Es ist ein ganzheitlicher Weg und fördert die persönliche Entwicklung.
 Im Atelier stehen diverse Materialien wie Gouachefarben, Ölkreiden, Pastellkreiden, Farbstifte, Collagenmaterial, Ton und Speckstein zur Verfügung.</description>
     </item>
     
@@ -110,6 +109,18 @@ Mandala Rot-Blau  5.</description>
     </item>
     
     <item>
+      <title>Strassenbemalung</title>
+      <link>https://farbenweg.ch/angebot/strassenbemalung/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>https://farbenweg.ch/angebot/strassenbemalung/</guid>
+      <description>Gruppen von Kindern, Jugendlichen und Erwachsenen sind eingeladen, mehr Farbe ins Wydeneck zu bringen. Die ehemalige Metalligasse wird bemalt. Dazu stellen wir jeder teilnehmenden Person ein Feld zur freien Gestaltung zur Verfügung.
+Es wird Feld für Feld bemalt, immer Richtung Süden; so entsteht über mehrere Jahre ein einmaliges Werk.
+Hier findet Ihr weitere Impressionen der Strassenbemalung und den Zeitungsbericht „Graue Metalli wird zum bunten Quartier“.
+HIAG, die Eigentümerin des Areals, stellt Farben und Mal- und Absperrutensilien zur Verfügung.</description>
+    </item>
+    
+    <item>
       <title>Weihnachtsmarkt</title>
       <link>https://farbenweg.ch/atelier/weihnachtsmarkt/</link>
       <pubDate>Wed, 15 Dec 2021 14:46:30 +0100</pubDate>
@@ -121,15 +132,14 @@ Den Zeitungsbericht &amp;ldquo;Ganz viel los in der Stärnestrooss&amp;rdquo; fi
     </item>
     
     <item>
-      <title>Strassenbemalung</title>
-      <link>https://farbenweg.ch/angebot/strassenbemalung/</link>
+      <title>Im Regenbogen</title>
+      <link>https://farbenweg.ch/angebot/kindermalen/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
       
-      <guid>https://farbenweg.ch/angebot/strassenbemalung/</guid>
-      <description>Gruppen von Kindern, Jugendlichen und Erwachsenen sind eingeladen, mehr Farbe ins Wydeneck zu bringen. Die ehemalige Metalligasse wird bemalt. Dazu stellen wir jeder teilnehmenden Person ein Feld zur freien Gestaltung zur Verfügung.
-Es wird Feld für Feld bemalt, immer Richtung Süden; so entsteht über mehrere Jahre ein einmaliges Werk.
-Hier findet Ihr weitere Impressionen der Strassenbemalung und den Zeitungsbericht „Graue Metalli wird zum bunten Quartier“.
-HIAG, die Eigentümerin des Areals, stellt Farben und Mal- und Absperrutensilien zur Verfügung.</description>
+      <guid>https://farbenweg.ch/angebot/kindermalen/</guid>
+      <description>Für Kinder: Manchmal ist im Alltag Vieles vorgegeben. Wünschst Du Dir zwischendurch einfach in den Regenbogen zu fliegen? Möchtest Du Farben und Formen wählen und mit ihnen spielen?
+Genau das kannst Du hier tun. Du wählst Deine Farben und Materialien und malst oder bastelst frei. Es gibt Gouachefarben, viele Ölkreiden, Pastellkreiden, Farbstifte, Collagematerial, Ton, Speckstein und anderes.
+„Es war sehr schön zu sehen, wie die Kinder ganz da waren, jedes für sich, und wie konzentriert und frei sie waren.</description>
     </item>
     
     <item>
@@ -154,9 +164,19 @@ Bericht &amp;ldquo;Graue Metalli wird zum bunten Quartier&amp;rdquo;</descriptio
     </item>
     
     <item>
-      <title>Von Steinigen Wegen</title>
+      <title>Wachsen lassen was ich verkleinern will</title>
+      <link>https://farbenweg.ch/atelier/wachsen-lassen-was-ich-verkleinern-will/</link>
+      <pubDate>Wed, 12 Aug 2020 17:29:57 +0100</pubDate>
+      
+      <guid>https://farbenweg.ch/atelier/wachsen-lassen-was-ich-verkleinern-will/</guid>
+      <description>Im Garten steht ein Zelt. Die Kinder schlafen in dieser warmen Sommernacht darin. Auch ich liebte es als Kind im Zelt zu schlafen. Es roch nach Zelt und Gras. Ich hörte die Grillen und die Bäume. So fand ich den Schlaf. Am Morgen wurde ich von den Vögeln geweckt.
+Einige Jahre später war ich mit dem Rucksack und dem Zelt am Reisen. Dabei hatte ich einen möglichst kleinen und leichten Schlafsack.</description>
+    </item>
+    
+    <item>
+      <title>Von steinigen Wegen</title>
       <link>https://farbenweg.ch/atelier/von-steinigen-wegen/</link>
-      <pubDate>Thu, 27 Jan 2022 17:29:57 +0100</pubDate>
+      <pubDate>Wed, 27 May 2020 17:29:57 +0100</pubDate>
       
       <guid>https://farbenweg.ch/atelier/von-steinigen-wegen/</guid>
       <description>Es ist Mai 2020. Vor zwei Wochen nahm ich an einem viertägigen Online-Seminar über die Grundlagen der Psychologie teil. Am zweiten Tag meldete sich meine Kollegin zu Wort: „Ich hätte da eine Frage. Sie beschäftigt mich schon die ganze Zeit&amp;hellip;“
@@ -169,7 +189,7 @@ Aufgrund ihres Gesichtsausdrucks und ihrer Stimme, vermutete ich, dass es um ein
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
       
       <guid>https://farbenweg.ch/kunsttherapie/</guid>
-      <description>Kunsttherapie Malen &amp;amp; Gestalten img { border-radius: 10px; } „Hope is the thing with feathers
+      <description>Kunsttherapie Impressionen &amp;amp; Informationen img { border-radius: 10px; } „Hope is the thing with feathers
 That perches in the soul,
 And sings the tune without the words,
 And never stops at all.“  Emily Dickinson 
