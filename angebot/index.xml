@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kurse on farbenweg.ch</title>
+    <title>Kursangebot on farbenweg.ch</title>
     <link>https://farbenweg.ch/angebot/</link>
-    <description>Recent content in Kurse on farbenweg.ch</description>
+    <description>Recent content in Kursangebot on farbenweg.ch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate><atom:link href="https://farbenweg.ch/angebot/index.xml" rel="self" type="application/rss+xml" />
