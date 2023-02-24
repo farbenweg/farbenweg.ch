@@ -38,9 +38,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.50000001"
-     inkscape:cx="-458.44136"
-     inkscape:cy="101.72253"
+     inkscape:zoom="2.0000001"
+     inkscape:cx="255.90368"
+     inkscape:cy="161.80043"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -149,7 +149,7 @@
            id="path5003" />
       </g>
       <path
-         style="opacity:1;fill:#293c3c;fill-opacity:1;stroke-width:0.26458332;paint-order:markers stroke fill"
+         style="opacity:1;fill:#29313c;fill-opacity:1;stroke-width:0.26458332;paint-order:markers stroke fill"
          d="m 100,247 a 5,5 0 0 1 -5,5 5,5 0 0 1 -5,-5 5,5 0 0 1 5,-5 5,5 0 0 1 5,5 z"
          id="circle9609" />
     </g>
@@ -424,7 +424,7 @@
            id="path4903" />
       </g>
       <path
-         style="opacity:1;fill:#00ff00;fill-opacity:1;stroke-width:0.26458332;paint-order:markers stroke fill"
+         style="opacity:1;fill:#00ab2b;fill-opacity:1;stroke-width:0.26458332;paint-order:markers stroke fill"
          d="m 100,247 a 5,5 0 0 1 -5,5 5,5 0 0 1 -5,-5 5,5 0 0 1 5,-5 5,5 0 0 1 5,5 z"
          id="circle9667" />
     </g>
@@ -584,7 +584,7 @@
            id="path4853" />
       </g>
       <path
-         style="opacity:1;fill:#ff6600;fill-opacity:1;stroke-width:0.26458332;paint-order:markers stroke fill"
+         style="opacity:1;fill:#ff7800;fill-opacity:1;stroke-width:0.26458332;paint-order:markers stroke fill"
          d="m 100,247 a 5,5 0 0 1 -5,5 5,5 0 0 1 -5,-5 5,5 0 0 1 5,-5 5,5 0 0 1 5,5 z"
          id="circle9699" />
     </g>
@@ -625,7 +625,7 @@
            id="path4839" />
       </g>
       <path
-         style="opacity:1;fill:#ff3b2a;fill-opacity:1;stroke-width:0.26458332;paint-order:markers stroke fill"
+         style="opacity:1;fill:#ff5032;fill-opacity:1;stroke-width:0.26458332;paint-order:markers stroke fill"
          d="m 100,247 a 5,5 0 0 1 -5,5 5,5 0 0 1 -5,-5 5,5 0 0 1 5,-5 5,5 0 0 1 5,5 z"
          id="circle9707" />
     </g>
