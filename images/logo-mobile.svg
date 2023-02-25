@@ -23,6 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>logo-mobile</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,12 +41,13 @@
      id="namedview14"
      showgrid="false"
      inkscape:zoom="8.7407407"
-     inkscape:cx="22.740607"
+     inkscape:cx="-9.0644779"
      inkscape:cy="26.959103"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg12" />
+     inkscape:current-layer="svg12"
+     inkscape:pagecheckerboard="true" />
   <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
   <title
      id="title2">logo-mobile</title>
@@ -242,87 +244,76 @@
          y="0.45000076" />
     </clipPath>
   </defs>
+  <path
+     style="display:inline;opacity:1;fill:url(#linearGradient985);fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 53.007052,30.013248 C 57.570207,21.292758 22.800017,14.720258 47.92873,2.6177504 16.122219,10.227836 40.633453,24.287701 38.323106,28.82445 34.272607,36.778307 27.119904,38.633339 9.5021562,50.584495 23.582864,48.975398 24.903152,55.915096 31.710491,52.905169 c 1.143615,-0.505659 0.58484,-1.40383 2.222288,-3.022142 3.363308,-3.206999 6.991088,-5.99432 10.348434,-9.069952 3.357346,-3.075634 6.444259,-6.439581 8.725839,-10.799827 z"
+     id="path4524-5-8-9-0-6-7-2-8-9-0-0-8"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="scscscss"
+     inkscape:export-filename="C:\Users\monika\farbenweg\blog-lithium\static\images\logo01.png"
+     inkscape:export-xdpi="599.992"
+     inkscape:export-ydpi="599.992" />
+  <path
+     style="display:inline;fill:url(#linearGradient925);fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 0.31952434,50.887821 c 1.41582986,0.136591 1.88225516,-0.04084 4.73921546,0.372108 2.8569605,0.412851 4.933949,2.32186 7.4134392,1.768503 1.719244,-0.383691 0.720276,-1.348894 4.131251,-3.29544 3.410975,-1.946547 7.904133,-4.605657 12.23289,-7.455935 C 31.787724,40.184136 48.099574,31.165058 44.834692,26.971299 36.538659,15.806038 29.649835,17.804094 28.229373,10.967717 c -2.154898,4.501403 4.608818,9.79612 6.044454,14.607559 2.235822,7.493222 -18.645165,13.881073 -33.96065519,23.158836"
+     id="path4524-5-8-4-6-1-1-1-1-3-7-2-7-5"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cssscccsc"
+     inkscape:export-filename="C:\Users\monika\farbenweg\blog-lithium\static\images\logo01.png"
+     inkscape:export-xdpi="599.992"
+     inkscape:export-ydpi="599.992" />
+  <path
+     style="display:inline;fill:url(#linearGradient933);fill-opacity:1;stroke:#ffff00;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 28.056072,12.064982 c 0.200197,4.53412 11.292576,9.115821 16.835353,14.98253 C 37.953221,17.598247 33.968766,14.495087 33.95129,12.736706 33.903098,7.893394 43.595231,4.2079303 65.056722,-2.8833609 36.577947,3.0293343 27.874743,7.958124 28.056072,12.064982 Z"
+     id="path4524-5-8-4-2-0-2-5-0-1-8-9-1-9-4"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="scscs"
+     inkscape:export-filename="C:\Users\monika\farbenweg\blog-lithium\static\images\logo01.png"
+     inkscape:export-xdpi="599.992"
+     inkscape:export-ydpi="599.992" />
   <g
-     id="g4812"
-     clip-path="url(#clipPath4814)">
-    <rect
-       y="-4.0835633"
-       x="-0.73439813"
-       height="60.713085"
-       width="71.352966"
-       id="rect1686-7-4-4-3"
-       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#808080;stroke-width:0.37795281;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       inkscape:export-ydpi="599.992"
-       inkscape:export-xdpi="599.992"
-       inkscape:export-filename="C:\Users\monika\farbenweg\blog-lithium\static\images\logo01.png"
-       sodipodi:nodetypes="scscscss"
-       inkscape:connector-curvature="0"
-       id="path4524-5-8-9-0-6-7-2-8-9-0-0-8"
-       d="M 53.007052,30.013248 C 57.570207,21.292758 22.800017,14.720258 47.92873,2.6177504 16.122219,10.227836 40.633453,24.287701 38.323106,28.82445 34.272607,36.778307 27.119904,38.633339 9.5021562,50.584495 23.582864,48.975398 24.903152,55.915096 31.710491,52.905169 c 1.143615,-0.505659 0.58484,-1.40383 2.222288,-3.022142 3.363308,-3.206999 6.991088,-5.99432 10.348434,-9.069952 3.357346,-3.075634 6.444259,-6.439581 8.725839,-10.799827 z"
-       style="display:inline;opacity:1;fill:url(#linearGradient985);fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       inkscape:export-ydpi="599.992"
-       inkscape:export-xdpi="599.992"
-       inkscape:export-filename="C:\Users\monika\farbenweg\blog-lithium\static\images\logo01.png"
-       sodipodi:nodetypes="cssscccsc"
-       inkscape:connector-curvature="0"
-       id="path4524-5-8-4-6-1-1-1-1-3-7-2-7-5"
-       d="m 0.31952434,50.887821 c 1.41582986,0.136591 1.88225516,-0.04084 4.73921546,0.372108 2.8569605,0.412851 4.933949,2.32186 7.4134392,1.768503 1.719244,-0.383691 0.720276,-1.348894 4.131251,-3.29544 3.410975,-1.946547 7.904133,-4.605657 12.23289,-7.455935 C 31.787724,40.184136 48.099574,31.165058 44.834692,26.971299 36.538659,15.806038 29.649835,17.804094 28.229373,10.967717 c -2.154898,4.501403 4.608818,9.79612 6.044454,14.607559 2.235822,7.493222 -18.645165,13.881073 -33.96065519,23.158836"
-       style="display:inline;fill:url(#linearGradient925);fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       inkscape:export-ydpi="599.992"
-       inkscape:export-xdpi="599.992"
-       inkscape:export-filename="C:\Users\monika\farbenweg\blog-lithium\static\images\logo01.png"
-       sodipodi:nodetypes="scscs"
-       inkscape:connector-curvature="0"
-       id="path4524-5-8-4-2-0-2-5-0-1-8-9-1-9-4"
-       d="m 28.056072,12.064982 c 0.200197,4.53412 11.292576,9.115821 16.835353,14.98253 C 37.953221,17.598247 33.968766,14.495087 33.95129,12.736706 33.903098,7.893394 43.595231,4.2079303 65.056722,-2.8833609 36.577947,3.0293343 27.874743,7.958124 28.056072,12.064982 Z"
-       style="display:inline;fill:url(#linearGradient933);fill-opacity:1;stroke:#ffff00;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+     transform="matrix(1.8487353,0,0,1.6340931,-139.73909,-571.67768)"
+     id="g1081-2-7-4-3"
+     style="display:inline;fill:#000000;fill-opacity:1;stroke-width:2.17451167">
     <g
-       style="display:inline;fill:#000000;fill-opacity:1;stroke-width:2.17451167"
-       id="g1081-2-7-4-3"
-       transform="matrix(1.8487353,0,0,1.6340931,-139.73909,-571.67768)">
-      <g
-         id="g856-8-5-7-2-1-1-0-1-5"
-         inkscape:export-filename="C:\Users\monika\farbenweg\blog-lithium\static\images\logo01.png"
-         inkscape:export-xdpi="599.992"
-         inkscape:export-ydpi="599.992"
-         transform="matrix(0.45121061,0,0,0.48361995,68.236003,334.45486)"
-         style="fill:#000000;fill-opacity:1;stroke-width:4.65500402">
-        <path
-           sodipodi:nodetypes="czzc"
-           inkscape:connector-curvature="0"
-           id="path4607-8-4-0-7-6-4-4-9-9-7-7-2"
-           d="m 37.60348,48.370783 c 5.326257,7.181083 12.186522,11.770491 15.72752,11.680558 3.540998,-0.08994 1.751015,4.869637 -1.685691,4.003635 C 48.208603,63.188974 40.125072,60.58814 37.9907,55.330229"
-           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        <path
-           sodipodi:nodetypes="cassc"
-           inkscape:connector-curvature="0"
-           id="path4607-1-8-1-6-0-8-5-3-6-3-3"
-           d="m 38.74539,64.699832 c 2.96911,3.762299 6.926111,5.1548 10.742231,6.600206 2.800479,1.06072 4.840247,1.420709 8.699708,1.437422 2.136277,0.0093 2.433522,4.080215 0.707551,4.87843 -5.543672,2.563799 -16.90226,-1.762894 -20.26283,-3.726534"
-           style="fill:url(#linearGradient1025);fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        <path
-           sodipodi:nodetypes="ccsscac"
-           inkscape:connector-curvature="0"
-           id="path4601-8-2-9-08-5-5-0-4-5-6-7"
-           d="m 25.320883,89.445994 c 1.712411,-0.867853 12.110286,-27.875212 12.640515,-43.801752 1.911496,3.134568 3.886673,7.073736 4.264431,11.339793 0.377759,4.266057 -0.841903,8.859003 -1.675509,13.301128 -1.667214,8.88425 -5.434785,17.165214 -10.013222,21.021205 -1.31848,0.930137 -2.824426,2.450937 -4.176018,1.765475 -1.07836,-0.546893 -2.749574,-2.060937 -1.040197,-3.625849 z"
-           style="fill:url(#radialGradient1003);fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        <ellipse
-           rx="4.2759948"
-           ry="5.3393188"
-           cx="32.278233"
-           cy="50.389256"
-           transform="rotate(-8.1226391)"
-           id="path4603-1-0-9-1-6-5-9-0-3-9-3"
-           style="fill:url(#radialGradient995);fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        <path
-           sodipodi:nodetypes="csssc"
-           inkscape:connector-curvature="0"
-           id="path4607-8-9-9-3-7-3-4-0-4-1-4-3-5"
-           d="m 38.946992,52.244332 c -3.358898,4.025398 -5.26204,6.849428 -6.730255,9.334887 -1.468214,2.485459 -2.501502,4.632346 -4.120692,7.303455 -3.23838,5.342219 1.175816,5.797417 2.40261,3.785848 3.289371,-5.393575 8.283743,-11.66018 9.436575,-14.7232"
-           style="fill:url(#radialGradient1035);fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      </g>
+       style="fill:#000000;fill-opacity:1;stroke-width:4.65500402"
+       transform="matrix(0.45121061,0,0,0.48361995,68.236003,334.45486)"
+       inkscape:export-ydpi="599.992"
+       inkscape:export-xdpi="599.992"
+       inkscape:export-filename="C:\Users\monika\farbenweg\blog-lithium\static\images\logo01.png"
+       id="g856-8-5-7-2-1-1-0-1-5">
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 37.60348,48.370783 c 5.326257,7.181083 12.186522,11.770491 15.72752,11.680558 3.540998,-0.08994 1.751015,4.869637 -1.685691,4.003635 C 48.208603,63.188974 40.125072,60.58814 37.9907,55.330229"
+         id="path4607-8-4-0-7-6-4-4-9-9-7-7-2"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="czzc" />
+      <path
+         style="fill:url(#linearGradient1025);fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 38.74539,64.699832 c 2.96911,3.762299 6.926111,5.1548 10.742231,6.600206 2.800479,1.06072 4.840247,1.420709 8.699708,1.437422 2.136277,0.0093 2.433522,4.080215 0.707551,4.87843 -5.543672,2.563799 -16.90226,-1.762894 -20.26283,-3.726534"
+         id="path4607-1-8-1-6-0-8-5-3-6-3-3"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cassc" />
+      <path
+         style="fill:url(#radialGradient1003);fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 25.320883,89.445994 c 1.712411,-0.867853 12.110286,-27.875212 12.640515,-43.801752 1.911496,3.134568 3.886673,7.073736 4.264431,11.339793 0.377759,4.266057 -0.841903,8.859003 -1.675509,13.301128 -1.667214,8.88425 -5.434785,17.165214 -10.013222,21.021205 -1.31848,0.930137 -2.824426,2.450937 -4.176018,1.765475 -1.07836,-0.546893 -2.749574,-2.060937 -1.040197,-3.625849 z"
+         id="path4601-8-2-9-08-5-5-0-4-5-6-7"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccsscac" />
+      <ellipse
+         style="fill:url(#radialGradient995);fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path4603-1-0-9-1-6-5-9-0-3-9-3"
+         transform="rotate(-8.1226391)"
+         cy="50.389256"
+         cx="32.278233"
+         ry="5.3393188"
+         rx="4.2759948" />
+      <path
+         style="fill:url(#radialGradient1035);fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 38.946992,52.244332 c -3.358898,4.025398 -5.26204,6.849428 -6.730255,9.334887 -1.468214,2.485459 -2.501502,4.632346 -4.120692,7.303455 -3.23838,5.342219 1.175816,5.797417 2.40261,3.785848 3.289371,-5.393575 8.283743,-11.66018 9.436575,-14.7232"
+         id="path4607-8-9-9-3-7-3-4-0-4-1-4-3-5"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csssc" />
     </g>
   </g>
 </svg>
