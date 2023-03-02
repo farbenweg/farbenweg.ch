@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Farbenrad on farbenweg.ch</title>
+    <link>https://farbenweg.ch/farbenrad/</link>
+    <description>Recent content in Farbenrad on farbenweg.ch</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Thu, 02 Mar 2023 07:30:00 +0700</lastBuildDate><atom:link href="https://farbenweg.ch/farbenrad/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
