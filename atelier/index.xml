@@ -127,5 +127,16 @@ Einige Jahre später war ich mit dem Rucksack und dem Zelt am Reisen. Dabei hatt
 Aufgrund ihres Gesichtsausdrucks und ihrer Stimme, vermutete ich, dass es um eine essenzielle Frage ging. In diesem Moment brach meine Internet-Verbindung ab. Die Dringlichkeit ihrer Stimme klang nach und ich übte mich in Geduld&amp;hellip; Eine Viertelstunde lang konnte die Verbindung nicht wieder hergestellt werden.</description>
     </item>
     
+    <item>
+      <title>Mandalas mit Python</title>
+      <link>https://farbenweg.ch/atelier/python/</link>
+      <pubDate>Wed, 22 Mar 2023 05:57:42 +0100</pubDate>
+      
+      <guid>https://farbenweg.ch/atelier/python/</guid>
+      <description>Mandalas kreieren auf diverse Arten ist eine Leidenschaft von mir. Viele meiner Mandalas sind handgemalt. Sie beruhen auf natürlichen Rhythmen und mathematischen Algorithmen.
+Diese Seite dient momentan einzig der Testung von Programmiercode.
+Adding EventsBitte Text eingeben:OKdef handle_ok():text = Element(&#39;test-input&#39;).element.valuedisplay(text, target=&#34;output&#34;)</description>
+    </item>
+    
   </channel>
 </rss>
