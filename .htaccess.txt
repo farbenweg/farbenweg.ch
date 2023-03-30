@@ -1,0 +1,6 @@
+<Files mandala.md>
+  AuthName "Mandala Login-Bereich"
+  AuthType Basic
+  AuthUserFile /static/.htpasswd
+  require valid-user
+</Files>
