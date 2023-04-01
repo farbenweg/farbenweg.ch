@@ -1,6 +1,0 @@
-<Files public/atelier/mandala/index.html>
-  AuthName "Mandala Login-Bereich"
-  AuthType Basic
-  AuthUserFile /public/.htpasswd
-  require valid-user
-</Files>
