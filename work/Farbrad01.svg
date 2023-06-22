@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100mm"
+   height="100mm"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Farbrad01.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient4751"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#666666;stop-opacity:1;"
+         offset="0"
+         id="stop4749" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="187.46206"
+     inkscape:cy="140.03763"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-197)">
+    <path
+       style="opacity:0.4;fill:#cccccc;fill-opacity:1;stroke-width:3.77952766;paint-order:markers stroke fill"
+       d="M 188.97656 0 A 188.97638 188.97638 0 0 0 0 188.97656 A 188.97638 188.97638 0 0 0 188.97656 377.95312 A 188.97638 188.97638 0 0 0 377.95312 188.97656 A 188.97638 188.97638 0 0 0 188.97656 0 z M 188.97656 128.99609 A 59.980334 59.979848 0 0 1 248.95703 188.97656 A 59.980334 59.979848 0 0 1 188.97656 248.95703 A 59.980334 59.979848 0 0 1 128.99609 188.97656 A 59.980334 59.979848 0 0 1 188.97656 128.99609 z "
+       transform="matrix(0.26458333,0,0,0.26458333,0,197)"
+       id="path4747" />
+    <g
+       id="g9603">
+      <text
+         id="text4759"
+         y="248.48889"
+         x="88.947739"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.55555534px;line-height:1;font-family:Lato;-inkscape-font-specification:'Lato, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.55555534px;font-family:Lato;-inkscape-font-specification:'Lato, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.26458332"
+           y="248.48889"
+           x="88.947739"
+           id="tspan4757"
+           sodipodi:role="line">Braun</tspan></text>
+      <circle
+         r="5"
+         cy="247"
+         cx="95"
+         id="path4761"
+         style="opacity:1;fill:#782121;fill-opacity:1;stroke-width:0.26458332;paint-order:markers stroke fill" />
+    </g>
+    <g
+       id="g9611"
+       inkscape:transform-center-x="-30.73215"
+       inkscape:transform-center-y="-14.61807"
+       transform="rotate(-24,49.999945,247.00185)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.55555534px;line-height:1;font-family:Lato;-inkscape-font-specification:'Lato, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="88.947739"
+         y="248.48889"
+         id="text9607"><tspan
+           sodipodi:role="line"
+           id="tspan9605"
+           x="88.947739"
+           y="248.48889"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.55555534px;font-family:Lato;-inkscape-font-specification:'Lato, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.26458332">Schiefer</tspan></text>
+      <circle
+         style="opacity:1;fill:#293c3c;fill-opacity:1;stroke-width:0.26458332;paint-order:markers stroke fill"
+         id="circle9609"
+         cx="95"
+         cy="247"
+         r="5" />
+    </g>
+    <circle
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:1.00000012;paint-order:markers stroke fill"
+       id="circle9613"
+       cx="50"
+       cy="247"
+       r="0.14543256" />
+    <g
+       transform="rotate(-48,49.999945,247.00185)"
+       inkscape:transform-center-y="-25.383408"
+       inkscape:transform-center-x="-22.62141"
+       id="g9621">
+      <text
+         id="text9617"
+         y="248.48889"
+         x="88.947739"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.55555534px;line-height:1;font-family:Lato;-inkscape-font-specification:'Lato, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.55555534px;font-family:Lato;-inkscape-font-specification:'Lato, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.26458332"
+           y="248.48889"
+           x="88.947739"
+           id="tspan9615"
+           sodipodi:role="line">Andere</tspan></text>
+      <circle
+         r="4.8684893"
+         cy="246.99799"
+         cx="94.955193"
+         id="circle9619"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1;paint-order:markers stroke fill" />
+    </g>
+    <g
+       id="g9629"
+       inkscape:transform-center-x="-11.031496"
+       inkscape:transform-center-y="-32.191998"
+       transform="rotate(-72,49.999945,247.00185)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.55555534px;line-height:1;font-family:Lato;-inkscape-font-specification:'Lato, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="88.947739"
+         y="248.48889"
+         id="text9625"><tspan
+           sodipodi:role="line"
+           id="tspan9623"
+           x="88.947739"
+           y="248.48889"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.55555534px;font-family:Lato;-inkscape-font-specification:'Lato, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.26458332">Magenta</tspan></text>
+      <circle
+         style="opacity:1;fill:#ff00c8;fill-opacity:1;stroke-width:0.26458332;paint-order:markers stroke fill"
+         id="circle9627"
+         cx="95"
+         cy="247"
+         r="5" />
+    </g>
+    <g
+       transform="rotate(-96,49.999944,247.00185)"
+       inkscape:transform-center-y="-33.658097"
+       inkscape:transform-center-x="4.7056275"
+       id="g9637">
+      <text
+         id="text9633"
+         y="248.48889"
+         x="88.947739"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.55555534px;line-height:1;font-family:Lato;-inkscape-font-specification:'Lato, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.55555534px;font-family:Lato;-inkscape-font-specification:'Lato, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.26458332"
+           y="248.48889"
+           x="88.947739"
+           id="tspan9631"
+           sodipodi:role="line">Violett</tspan></text>
+      <circle
+         r="5"
+         cy="247"
+         cx="95"
+         id="circle9635"
+         style="opacity:1;fill:#7c00a9;fill-opacity:1;stroke-width:0.26458332;paint-order:markers stroke fill" />
+    </g>
+    <g
+       id="g9645"
+       inkscape:transform-center-x="17.587542"
+       inkscape:transform-center-y="-29.12036"
+       transform="rotate(-120,49.999944,247.00185)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.55555534px;line-height:1;font-family:Lato;-inkscape-font-specification:'Lato, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="88.947739"
+         y="248.48889"
+         id="text9641"><tspan
+           sodipodi:role="line"
+           id="tspan9639"
+           x="88.947739"
+           y="248.48889"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.55555534px;font-family:Lato;-inkscape-font-specification:'Lato, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.26458332">Indigo</tspan></text>
+      <circle
+         style="opacity:1;fill:#000080;fill-opacity:1;stroke-width:0.26458332;paint-order:markers stroke fill"
+         id="circle9643"
+         cx="95"
+         cy="247"
+         r="5" />
+    </g>
+    <g
+       transform="rotate(-144,49.999944,247.00185)"
+       inkscape:transform-center-y="-19.979722"
+       inkscape:transform-center-x="27.516237"
+       id="g9653">
+      <text
+         id="text9649"
+         y="248.48889"
+         x="88.947739"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.55555534px;line-height:1;font-family:Lato;-inkscape-font-specification:'Lato, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.55555534px;font-family:Lato;-inkscape-font-specification:'Lato, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.26458332"
+           y="248.48889"
+           x="88.947739"
+           id="tspan9647"
+           sodipodi:role="line">Blau</tspan></text>
+      <circle
+         r="5"
+         cy="247"
+         cx="95"
+         id="circle9651"
+         style="opacity:1;fill:#0060ff;fill-opacity:1;stroke-width:0.26458332;paint-order:markers stroke fill" />
+    </g>
+    <g
+       id="g9661"
+       inkscape:transform-center-x="33.119399"
+       inkscape:transform-center-y="-7.8166819"
+       transform="rotate(-168,49.999943,247.00185)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.55555534px;line-height:1;font-family:Lato;-inkscape-font-specification:'Lato, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="88.947739"
+         y="248.48889"
+         id="text9657"><tspan
+           sodipodi:role="line"
+           id="tspan9655"
+           x="88.947739"
+           y="248.48889"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.55555534px;font-family:Lato;-inkscape-font-specification:'Lato, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.26458332">Türkis</tspan></text>
+      <circle
+         style="opacity:1;fill:#00ffff;fill-opacity:1;stroke-width:0.26458332;paint-order:markers stroke fill"
+         id="circle9659"
+         cx="95"
+         cy="247"
+         r="5" />
+    </g>
+    <g
+       transform="rotate(168,49.999942,247.00185)"
+       inkscape:transform-center-y="8.3148"
+       inkscape:transform-center-x="33.013521"
+       id="g9669">
+      <text
+         id="text9665"
+         y="248.48889"
+         x="88.947739"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.55555534px;line-height:1;font-family:Lato;-inkscape-font-specification:'Lato, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.55555534px;font-family:Lato;-inkscape-font-specification:'Lato, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.26458332"
+           y="248.48889"
+           x="88.947739"
+           id="tspan9663"
+           sodipodi:role="line">Grün</tspan></text>
+      <circle
+         r="5"
+         cy="247"
+         cx="95"
+         id="circle9667"
+         style="opacity:1;fill:#00ff00;fill-opacity:1;stroke-width:0.26458332;paint-order:markers stroke fill" />
+    </g>
+    <g
+       id="g9677"
+       inkscape:transform-center-x="27.21691"
+       inkscape:transform-center-y="20.391711"
+       transform="rotate(144,49.999941,247.00185)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.55555534px;line-height:1;font-family:Lato;-inkscape-font-specification:'Lato, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="88.947739"
+         y="248.48889"
+         id="text9673"><tspan
+           sodipodi:role="line"
+           id="tspan9671"
+           x="88.947739"
+           y="248.48889"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.55555534px;font-family:Lato;-inkscape-font-specification:'Lato, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.26458332">Lemon</tspan></text>
+      <circle
+         style="opacity:1;fill:#ccff00;fill-opacity:1;stroke-width:0.26458332;paint-order:markers stroke fill"
+         id="circle9675"
+         cx="95"
+         cy="247"
+         r="5" />
+    </g>
+    <g
+       transform="rotate(120,49.99994,247.00185)"
+       inkscape:transform-center-y="29.374983"
+       inkscape:transform-center-x="17.146521"
+       id="g9685">
+      <text
+         id="text9681"
+         y="248.48889"
+         x="88.947739"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.55555534px;line-height:1;font-family:Lato;-inkscape-font-specification:'Lato, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.55555534px;font-family:Lato;-inkscape-font-specification:'Lato, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.26458332"
+           y="248.48889"
+           x="88.947739"
+           id="tspan9679"
+           sodipodi:role="line">Gelb</tspan></text>
+      <circle
+         r="5"
+         cy="247"
+         cx="95"
+         id="circle9683"
+         style="opacity:1;fill:#ffff00;fill-opacity:1;stroke-width:0.26458332;paint-order:markers stroke fill" />
+    </g>
+    <g
+       id="g9693"
+       inkscape:transform-center-x="4.5436155"
+       inkscape:transform-center-y="33.711326"
+       transform="rotate(96,49.999939,247.00185)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.55555534px;line-height:1;font-family:Lato;-inkscape-font-specification:'Lato, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="88.947739"
+         y="248.48889"
+         id="text9689"><tspan
+           sodipodi:role="line"
+           id="tspan9687"
+           x="88.947739"
+           y="248.48889"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.55555534px;font-family:Lato;-inkscape-font-specification:'Lato, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.26458332">Goldgelb</tspan></text>
+      <circle
+         style="opacity:1;fill:#ffcc00;fill-opacity:1;stroke-width:0.26458332;paint-order:markers stroke fill"
+         id="circle9691"
+         cx="95"
+         cy="247"
+         r="5" />
+    </g>
+    <g
+       transform="rotate(72,49.999937,247.00185)"
+       inkscape:transform-center-y="32.03463"
+       inkscape:transform-center-x="-11.51582"
+       id="g9701">
+      <text
+         id="text9697"
+         y="248.48889"
+         x="88.947739"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.55555534px;line-height:1;font-family:Lato;-inkscape-font-specification:'Lato, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.55555534px;font-family:Lato;-inkscape-font-specification:'Lato, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.26458332"
+           y="248.48889"
+           x="88.947739"
+           id="tspan9695"
+           sodipodi:role="line">Orange</tspan></text>
+      <circle
+         r="5"
+         cy="247"
+         cx="95"
+         id="circle9699"
+         style="opacity:1;fill:#ff6600;fill-opacity:1;stroke-width:0.26458332;paint-order:markers stroke fill" />
+    </g>
+    <g
+       id="g9709"
+       inkscape:transform-center-x="-22.999856"
+       inkscape:transform-center-y="25.042653"
+       transform="rotate(48,49.999933,247.00185)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.55555534px;line-height:1;font-family:Lato;-inkscape-font-specification:'Lato, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="88.947739"
+         y="248.48889"
+         id="text9705"><tspan
+           sodipodi:role="line"
+           id="tspan9703"
+           x="88.947739"
+           y="248.48889"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.55555534px;font-family:Lato;-inkscape-font-specification:'Lato, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.26458332">Korall</tspan></text>
+      <circle
+         style="opacity:1;fill:#ff3b2a;fill-opacity:1;stroke-width:0.26458332;paint-order:markers stroke fill"
+         id="circle9707"
+         cx="95"
+         cy="247"
+         r="5" />
+    </g>
+    <g
+       transform="rotate(24,49.999921,247.00185)"
+       inkscape:transform-center-y="14.152847"
+       inkscape:transform-center-x="-30.939281"
+       id="g9717">
+      <text
+         id="text9713"
+         y="248.48889"
+         x="88.947739"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.55555534px;line-height:1;font-family:Lato;-inkscape-font-specification:'Lato, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.55555534px;font-family:Lato;-inkscape-font-specification:'Lato, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.26458332"
+           y="248.48889"
+           x="88.947739"
+           id="tspan9711"
+           sodipodi:role="line">Rot</tspan></text>
+      <circle
+         r="5"
+         cy="247"
+         cx="95"
+         id="circle9715"
+         style="opacity:1;fill:#ed0000;fill-opacity:1;stroke-width:0.26458332;paint-order:markers stroke fill" />
+    </g>
+  </g>
+</svg>
