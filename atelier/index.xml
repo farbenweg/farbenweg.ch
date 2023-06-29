@@ -141,33 +141,5 @@ Einige Jahre später war ich mit dem Rucksack und dem Zelt am Reisen. Dabei hatt
 Aufgrund ihres Gesichtsausdrucks und ihrer Stimme, vermutete ich, dass es um eine essenzielle Frage ging. In diesem Moment brach meine Internet-Verbindung ab. Die Dringlichkeit ihrer Stimme klang nach und ich übte mich in Geduld&amp;hellip; Eine Viertelstunde lang konnte die Verbindung nicht wieder hergestellt werden.</description>
     </item>
     
-    <item>
-      <title>Test Key</title>
-      <link>https://farbenweg.ch/atelier/test-key-copy/</link>
-      <pubDate>Wed, 22 Mar 2023 05:57:42 +0100</pubDate>
-      
-      <guid>https://farbenweg.ch/atelier/test-key-copy/</guid>
-      <description>#kinput {font-size: 150%;box-sizing: border-box;width: 95%;}#area {width: 95%;box-sizing: border-box;height: 250px;border: 1px solid black;display: block;}form label {display: inline;white-space: nowrap;}Prevent default for:keydown&amp;nbsp;&amp;nbsp;&amp;nbsp;keyupIgnore:keydown&amp;nbsp;&amp;nbsp;&amp;nbsp;keyupFocus on the input field and press a key.
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://farbenweg.ch/atelier/latex/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://farbenweg.ch/atelier/latex/</guid>
-      <description>\documentclass{standalone} \begin{document} Hello world! \end{document} \documentclass{standalone} \usepackage{tikz} \usetikzlibrary{matrix} \begin{document} \begin{tikzpicture} \matrix (m) [matrix of math nodes,row sep=3em,column sep=4em,minimum width=2em] { F &amp;amp; B \\ &amp;amp; A \\}; \path[-stealth] (m-1-1) edge node [above] {$\beta$} (m-1-2) (m-1-2) edge node [right] {$\rho$} (m-2-2) (m-1-1) edge node [left] {$\alpha$} (m-2-2); \end{tikzpicture} \end{document}</description>
-    </item>
-    
-    <item>
-      <title>Title</title>
-      <link>https://farbenweg.ch/atelier/latex-copy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://farbenweg.ch/atelier/latex-copy/</guid>
-      <description>\documentclass{standalone} \usepackage{tikz} \begin{tikzpicture}[node distance=2cm, auto] \tikzstyle{decision}=[diamond, draw, fill=blue!20, text width=4.5em, text badly centered, node distance=3cm, inner sep-0pt] \tikzstyle{block}=[rectangle, draw, fill=blue!20, text width=5em, text badly centered, rounded corners, minimum height=4em] \tikzstyle{line}=[draw, -latex&amp;#39;] \tikzstyle{terminator} = [ draw, ellipse, fill=red!20, node distance=3cm, minimum height=2em] \node [terminator] (puc) {Power-Up Reset}; \node [block, below of=puc] (wdt) {Stop Watchdog}; \node [block, below of=wdt] (port) {Setup Port Pins}; \node [block, below of=port] (loop) {Loop Forever}; \path [line] (puc) -- (wdt); \path [line] (wdt) -- (port); \path [line] (port) -- (loop); \path [line] (loop) -- (loop); \end{tikzpicture}</description>
-    </item>
-    
   </channel>
 </rss>
