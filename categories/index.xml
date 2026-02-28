@@ -4,7 +4,8 @@
     <title>Categories on farbenweg.ch</title>
     <link>https://farbenweg.ch/categories/</link>
     <description>Recent content in Categories on farbenweg.ch</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>de-de</language><atom:link href="https://farbenweg.ch/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>de-de</language>
+    <atom:link href="https://farbenweg.ch/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
