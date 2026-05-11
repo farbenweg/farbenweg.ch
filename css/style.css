@@ -6079,6 +6079,21 @@ ul.social {
 html {
   scroll-behavior: smooth; }
 
+.hero-video {
+  display: flex;
+  justify-content: center; }
+
+.hero-video video {
+  width: 95vw;
+  max-width: 500px;
+  height: auto;
+  border-radius: 10px; }
+
+/* Desktop */
+@media (min-width: 900px) {
+  .hero-video video {
+    width: 50vw; } }
+
 .bg-contain {
   background-size: contain; }
 
